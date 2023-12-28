@@ -1,28 +1,37 @@
 # NewResearchProject
 
-```bash
+Since our project uses Django 5.0, Python 3.10 or later is required for installation.
+
 In Visual Studio Code:
 1) Clone the GitHub repository
 2) Create, and activate, a virutal environment
-    a)  # Linux
+    ## Linux
+    ```bash
         sudo apt-get install python3-venv
         python3 -m venv .venv
         source .venv/bin/activate
-
-    b) # macOS
+    ```
+    ## macOS
+    ```bash
         python3 -m venv .venv
         source .venv/bin/activate
-
-    c) # Windows
+    ```
+    ## Windows
+    ```bash
         py -3 -m venv .venv
         .venv\scripts\activate
+    ```
 3) Select interpreter:
-    a) 'CTRL + SHIFT + P'
-    b) Select: 'Python: Select Interpreter'
-    c) Select: Interpreter path that starts with './.venv' or '.\.venv'
+- CTRL + SHIFT + P
+- Select: Python: Select Interpreter
+- Select: Interpreter path that starts with ```./.venv``` or ```.\.venv```
 4) Install project dependencies:
-    a) pip install -r requirements.txt 
+  ```bash
+   pip install -r requirements.txt
+  ```
 5) Set up .env file
-    a) IN-PROGRESS
+- IN-PROGRESS
 6) Run the development server:
-    a) 'python manage.py runserver'
+  ```bash
+  python manage.py runserver
+  ```
