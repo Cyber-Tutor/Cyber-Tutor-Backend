@@ -5,11 +5,13 @@ Register
 {% endblock %}
 
 {% block content %}
-    <h1>Register Page</h1>
-    <p>Welcome to the register page!</p>
-    <form action="{% url 'register' %}" method="post">
-        {% csrf_token %}
-        {{ form.as_div }}
-        <button type="submit">Register</button>
-    </form>
+    <div class="container bg-white p-5 my-5">
+        <h1>Register Page</h1>
+        <p>Welcome to the register page!</p>
+        <form action="{% url 'register' %}" method="post">
+            {% csrf_token %}
+            {{ form.as_div }}
+            <button type="submit">Register</button>
+        </form>
+    </div>
 {% endblock %}
