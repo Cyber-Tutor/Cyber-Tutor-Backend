@@ -8,7 +8,7 @@ from user_profiles.forms import register_form
 
 
 def index(request):
-    return render(request, 'base.html', context={'user': request.user})
+    return render(request, 'index.html', context={'user': request.user})
 
 def register(request):
     if request.method == 'POST':
