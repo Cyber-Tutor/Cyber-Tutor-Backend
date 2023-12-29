@@ -16,7 +16,10 @@
             </button>
             <div class="float-right">
                 {% if user.is_authenticated %}
-                    <a class="btn btn-primary" href="{% url 'logout' %}">Logout</a>
+                    <form action="{% url 'logout' %}" method="post">
+                        {% csrf_token %}
+                        <button type="submit" class="btn btn-primary">Logout</button>
+                    </form>
                 {% else %}
                     <a class="btn btn-primary" href="{% url 'login' %}">Login</a>
                     <a class="btn btn-primary" href="{% url 'register' %}">Register</a>
