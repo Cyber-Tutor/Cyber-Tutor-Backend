@@ -18,7 +18,7 @@ def register(request):
             return redirect('index')
     else:
         form = register_form()
-    return render(request, 'authentication/register.html', {'form': form})
+    return render(request, 'registration/register.html', {'form': form})
 
 def login_view(request):
     if request.method == 'POST':
@@ -30,7 +30,7 @@ def login_view(request):
     else:
         form = AuthenticationForm()  # Create a new form for GET requests
 
-    return render(request, 'authentication/login.html', {'form': form})
+    return render(request, 'registration/login.html', {'form': form})
         
 @login_required
 def profile(request):
