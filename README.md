@@ -31,7 +31,11 @@ In Visual Studio Code:
   ```
 5) Set up .env file
 - IN-PROGRESS
-6) Run the development server:
+6) Apply migrations to the database
+  ```bash
+  python manage.py migrate
+  ```
+7) Run the development server:
   ```bash
   python manage.py runserver
   ```
