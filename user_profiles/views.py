@@ -14,7 +14,8 @@ def register(request):
     if request.method == 'POST':
         form = register_form(request.POST)
         if form.is_valid():
-            form.save()
+            user = form.save()
+            login(request, user)
             return redirect('index')
     else:
         form = register_form()
@@ -22,13 +23,13 @@ def register(request):
 
 def login_view(request):
     if request.method == 'POST':
-        form = AuthenticationForm(request, request.POST)  # Pass request and POST data to the form
+        form = AuthenticationForm(request, request.POST)
         if form.is_valid():
             user = form.get_user()
             login(request, user)
             return redirect('index')
     else:
-        form = AuthenticationForm()  # Create a new form for GET requests
+        form = AuthenticationForm()
 
     return render(request, 'registration/login.html', {'form': form})
         
