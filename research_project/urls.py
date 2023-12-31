@@ -23,6 +23,6 @@ urlpatterns = [
     # path('admin_tools/', include('admin_tools.urls')),
     # path('assessments/', include('assessments.urls')),
     # path('learning_analytics/', include('learning_analytics.urls')),
-    # path('learning_modules/', include('learning_modules.urls')),
+    path('learning_modules/', include('learning_modules.urls')),
     path('', include('user_profiles.urls')),
 ]
