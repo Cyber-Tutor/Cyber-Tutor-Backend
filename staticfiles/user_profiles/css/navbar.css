@@ -1,0 +1,10 @@
+.navbar-logo {
+    max-height: 40px; /* Adjust this value to fit your navbar's height */
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background-color: red;
+}
