@@ -30,12 +30,26 @@ In Visual Studio Code:
    pip install -r requirements.txt
   ```
 5) Set up .env file
-- IN-PROGRESS
-6) Apply migrations to the database
+- Create .env file in root, where manage.py is located
+- ```bash
+  SECRET_KEY = 'STEP 6'
+  CHATGPT_API_KEY = '<YOUR CHAT GPT API KEY>'
+  ```
+6) Generate your SECRET_KEY
+- CTRL + SHIFT + `
+- ```bash
+  python
+  ``` 
+- ```bash
+  from django.core.management.utils import get_random_secret_key
+  print(get_random_secret_key())
+  ```
+- Copy, and paste that into your .env, where you see 'STEP 6'
+7) Apply migrations to the database
   ```bash
   python manage.py migrate
   ```
-7) Run the development server:
+8) Run the development server:
   ```bash
   python manage.py runserver
   ```
