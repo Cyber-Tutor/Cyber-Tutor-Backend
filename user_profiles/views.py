@@ -5,7 +5,7 @@ from django.contrib.auth.forms import AuthenticationForm
 from django.contrib.auth.decorators import login_required
 
 from user_profiles.forms import register_form
-
+from user_profiles.forms import login_form
 
 def index(request):
     return render(request, 'index.html', context={'user': request.user})
@@ -23,14 +23,13 @@ def register(request):
 
 def login_view(request):
     if request.method == 'POST':
-        form = AuthenticationForm(request, request.POST)
+        form = login_form(request, request.POST)
         if form.is_valid():
             user = form.get_user()
             login(request, user)
             return redirect('index')
     else:
-        form = AuthenticationForm()
-
+        form = login_form()
     return render(request, 'registration/login.html', {'form': form})
         
 @login_required
