@@ -1,7 +1,7 @@
 from django.urls import path
 from . import views
 
-from user_profiles.forms import login_form
+from app_users.forms import login_form
 
 urlpatterns = [
     path('', views.index, name="index"),

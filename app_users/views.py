@@ -4,8 +4,8 @@ from django.contrib.auth import login, logout
 from django.contrib.auth.forms import AuthenticationForm
 from django.contrib.auth.decorators import login_required
 
-from user_profiles.forms import register_form
-from user_profiles.forms import login_form
+from app_users.forms import register_form
+from app_users.forms import login_form
 
 def index(request):
     return render(request, 'index.html', context={'user': request.user})
@@ -34,7 +34,7 @@ def login_view(request):
         
 @login_required
 def profile(request):
-    return render(request, 'user_profiles/profile.html', {'user': request.user})
+    return render(request, 'app_users/profile.html', {'user': request.user})
 
 @login_required
 def logout_view(request):
