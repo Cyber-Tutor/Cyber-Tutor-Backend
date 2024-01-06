@@ -16,7 +16,7 @@
     <nav class="navbar fixed-top navbar-expand-lg bg-body-tertiary pt-1 pb-2 border-3 border-bottom border-info" data-bs-theme="light">
         <div class="container-fluid">
             <a class="navbar-brand p-0" href="{% url 'index' %}">
-                <img src="{% static 'user_profiles/images/CyberTutor_Logo.png' %}" alt="Logo" class="img-fluid" style="max-height: 40px;"></img>
+                <img src="{% static '../static/images/CyberTutor_Logo.png' %}" alt="Logo" class="img-fluid" style="max-height: 40px;"></img>
                 <span style="font-size: 24px; vertical-align: middle;">CyberTutor</span>
             </a>
             <a class="nav-item nav-link d-none d-lg-block align-items-center d-flex" href="{% url 'content' %}">Content</a>
@@ -32,7 +32,7 @@
                     {% if user.is_authenticated %}
                         <form action="{% url 'logout' %}" method="post" class="nav-item align-items-center d-flex">
                             {% csrf_token %}
-                            <button type="submit" class="btn btn-primary">Logout</button>
+                            <button type="submit" class="nav-item nav-link align-items-center d-flex">Logout</button>
                         </form>
                     {% else %}
                         <a class="nav-item nav-link align-items-center d-flex" href="{% url 'login' %}">Login</a>
