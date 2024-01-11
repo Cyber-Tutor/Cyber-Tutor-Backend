@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block styles %}
+  {{ block.super }}
+  <link href="{% static 'css/app_learningModules_styles.css' %}" rel="stylesheet" />
+{% endblock %}
+
+{% block content %}
+  <div class="container mt-5 pt-5">
+    <div class="row">
+      <div class="col-md-4">
+        <h5 class="text-center">{{ course.title }}</h5>
+        <div id="moduleDetails" class="list-group list-group-flush mt-4 p-3 border rounded shadow" data-course-id="{{ course.id }}"></div>
+      </div>
+      <div class="col-md-8 overflow-auto" style="max-height: calc(100vh - 100px);">
+        <h2>{{ module.title }}</h2>
+        <p>{{ module.description }}</p>
+      </div>
+    </div>
+  </div>
+{% endblock %}
+
+{% block scripts %}
+  {{ block.super }}
+  <!-- Ensure that the script file is included at the end of the body -->
+  <script src="{% static 'js/app_learningModules_scripts.js' %}"></script>
+{% endblock %}
