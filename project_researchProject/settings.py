@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     "crispy_forms",
     "crispy_bootstrap5",
     "django_browser_reload",
+    "app_adminDashboard",
     "app_learningModules",
     "app_users",
 ]
