@@ -29,6 +29,7 @@ load_dotenv()
 SECRET_KEY = os.environ["SECRET_KEY"]
 POSTGRES_PASSWORD = os.environ["POSTGRES_PASSWORD"]
 AWS_ENDPOINT_URL = os.environ["AWS_ENDPOINT_URL"]
+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
@@ -93,11 +94,11 @@ WSGI_APPLICATION = "project_researchProject.wsgi.application"
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
-        "NAME": "CyberTutor",  # Name of your database
+        "NAME": "CyberAIducator",
         "USER": "postgres",
         "PASSWORD": POSTGRES_PASSWORD,
-        "HOST": AWS_ENDPOINT_URL,  # Something like xyz.us-east-1.rds.amazonaws.com
-        "PORT": "5432",  # or the port you set for your DB
+        "HOST": AWS_ENDPOINT_URL,
+        "PORT": "5432",
     }
 }
 
