@@ -10,7 +10,7 @@ def admin_course_list(request):
     if not request.user.has_perm("app_learningModules.view_course"):
         return HttpResponseForbidden()
 
-    courses = Course.objects.all()
+    courses = Course.objects.all().order_by('order') 
     return render(request, "admin_course_list.html", {"courses": courses})
 
 

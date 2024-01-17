@@ -6,9 +6,10 @@ from app_learningModules.models import Course, Module
 class AddCourseForm(forms.ModelForm):
     class Meta:
         model = Course
-        fields = ["title"]
+        fields = ["title", "order"]
         widgets = {
             "title": forms.TextInput(attrs={"class": "form-control"}),
+            "order": forms.NumberInput(attrs={"class": "form-control"}),
         }
 
 
