@@ -16,6 +16,7 @@
       <div class="col-md-8 overflow-auto" style="max-height: calc(100vh - 100px);">
         <h2>{{ module.title }}</h2>
         <p>{{ module.description }}</p>
+        <div id="surveyElement"></div>
       </div>
     </div>
   </div>
@@ -23,6 +24,7 @@
 
 {% block scripts %}
   {{ block.super }}
-  <!-- Ensure that the script file is included at the end of the body -->
+  <script src="{% static 'js/json.js' %}"></script>
+  <script src="{% static 'js/index.js' %}"></script>
   <script src="{% static 'js/app_learningModules_scripts.js' %}"></script>
 {% endblock %}
