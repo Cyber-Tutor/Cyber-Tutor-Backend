@@ -22,16 +22,18 @@
           <img src="{% static '../static/images/Cyber-AIducator_Logo.png' %}" alt="Logo" class="img-fluid nav-brand-height" />
           <span style="font-size: 24px; vertical-align: middle;">Cyber AIducator</span>
         </a>
-        <a class="nav-item nav-link nav-font-size d-none d-lg-block align-items-center d-flex px-1" href="{% url 'content' %}">Content</a>
         <a class="nav-item nav-link nav-font-size d-none d-lg-block align-items-center d-flex px-1" href="{% url 'course_list' %}">Courses</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Navbar toggler"><span class="navbar-toggler-icon"></span></button>
         <div class="collapse navbar-collapse" id="navbarToggler">
           <div class="navbar-nav ms-auto align-items-center">
-            <a class="nav-item nav-link nav-font-size d-lg-none align-items-center d-flex" href="{% url 'content' %}">Content</a>
             {% if user.is_authenticated %}
+              {% if user.is_staff %}
+                <a class="nav-item nav-link nav-font-size" href="{% url 'admin_course_list' %}">Admin Course List</a>
+                <a class="nav-item nav-link nav-font-size" href="{% url 'add_course' %}">Add Course</a>
+              {% endif %}
               <form action="{% url 'logout' %}" method="post" class="nav-item align-items-center d-flex">
                 {% csrf_token %}
-                <button type="submit" class="nav-item nav-link align-items-center d-flex">Logout</button>
+                <button type="submit" class="nav-item nav-link nav-font-size align-items-center d-flex">Logout</button>
               </form>
             {% else %}
               <a class="nav-item nav-link nav-font-size align-items-center d-flex" href="{% url 'login' %}">Login</a>
