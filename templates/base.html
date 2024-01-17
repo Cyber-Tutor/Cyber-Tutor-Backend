@@ -29,7 +29,6 @@
             {% if user.is_authenticated %}
               {% if user.is_staff %}
                 <a class="nav-item nav-link nav-font-size" href="{% url 'admin_course_list' %}">Admin Course List</a>
-                <a class="nav-item nav-link nav-font-size" href="{% url 'add_course' %}">Add Course</a>
               {% endif %}
               <form action="{% url 'logout' %}" method="post" class="nav-item align-items-center d-flex">
                 {% csrf_token %}

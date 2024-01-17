@@ -5,6 +5,9 @@
 {% block content %}
   <div class="container my-5 pt-5">
     <h2 class="mb-4">Course List</h2>
+    <div class="mb-3">
+      <a href="{% url 'add_course' %}" class="btn btn-success">Add New Course</a>
+    </div>
     <table class="table">
       <thead>
         <tr>
