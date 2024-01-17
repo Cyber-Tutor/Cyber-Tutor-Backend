@@ -33,12 +33,12 @@ def course_list(request):
 # of dictionaries, then passed to client as a JSON response that we can use in 
 # our JavaScript.
 def get_modules_for_course(request, course_id):
-    modules = Module.objects.filter(course_id=course_id).order_by('number')
+    modules = Module.objects.filter(course_id=course_id).order_by('order')
     modules_data = list(modules.values('id', 'title', 'description'))
     return JsonResponse(modules_data, safe=False)
 
 def module_detail(request, course_id, module_number):
     course = get_object_or_404(Course, id=course_id)
-    module = get_object_or_404(Module, course=course, number=module_number)
+    module = get_object_or_404(Module, course=course)
     return render(request, 'module_detail.html', {'course': course, 'module': module})
 
