@@ -19,7 +19,7 @@
       <h2 class="text-center my-4">Module Details</h2>
       {{ module_formset.management_form }}
       {% if course_form.instance.pk %}
-        <div class="container p-3 bg-light border rounded">
+        <div class="container p-3">
           <table class="table">
             <thead>
               <tr>
@@ -62,6 +62,7 @@
           <button type="button" id="add-module-button" class="btn btn-primary">Add New Module</button>
         {% endif %}
         <button type="submit" class="btn btn-success">Save Course</button>
+        <a href="{% url 'admin_course_list' %}" class="btn btn-secondary">Back to Admin Course List</a>
       </div>
     </form>
   </div>
