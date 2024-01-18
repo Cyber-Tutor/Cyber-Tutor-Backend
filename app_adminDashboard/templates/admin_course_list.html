@@ -3,34 +3,32 @@
   Course List
 {% endblock %}
 {% block content %}
-  <div class="container my-5 pt-5">
-    <h2 class="mb-4">Course List</h2>
-    <div class="d-grid gap-2 mb-3">
-      <a href="{% url 'add_course' %}" class="btn btn-success btn-block">Add New Course</a>
-    </div>
-    <table class="table">
-      <thead>
-        <tr>
-          <th scope="col">ID</th>
-          <th scope="col">Title</th>
-          <th scope="col">Actions</th>
-        </tr>
-      </thead>
-      <tbody>
-        {% for course in courses %}
-          <tr>
-            <th scope="row">{{ course.id }}</th>
-            <td>{{ course.title }}</td>
-            <td>
-              <a href="{% url 'edit_course' course.id %}" class="btn btn-primary btn-sm">Edit</a>
-              <form action="{% url 'delete_course' course.id %}" method="post" style="display: inline;">
-                {% csrf_token %}
-                <input type="submit" value="Delete" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure?');" />
-              </form>
-            </td>
-          </tr>
-        {% endfor %}
-      </tbody>
-    </table>
+  <h2 class="mb-4">Course List</h2>
+  <div class="d-grid gap-2 mb-3">
+    <a href="{% url 'add_course' %}" class="btn btn-success btn-block">Add New Course</a>
   </div>
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">ID</th>
+        <th scope="col">Title</th>
+        <th scope="col">Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for course in courses %}
+        <tr>
+          <th scope="row">{{ course.id }}</th>
+          <td>{{ course.title }}</td>
+          <td>
+            <a href="{% url 'edit_course' course.id %}" class="btn btn-primary btn-sm">Edit</a>
+            <form action="{% url 'delete_course' course.id %}" method="post" style="display: inline;">
+              {% csrf_token %}
+              <input type="submit" value="Delete" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure?');" />
+            </form>
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
 {% endblock %}
