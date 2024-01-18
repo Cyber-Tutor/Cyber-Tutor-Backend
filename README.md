@@ -1,4 +1,4 @@
-# NewResearchProject
+# Cyber AIducator
 
 Since our project uses Django 5.0, Python 3.10 or later is required for installation.
 
@@ -33,7 +33,9 @@ In Visual Studio Code:
 - Create .env file in root, where manage.py is located
 - ```bash
   SECRET_KEY = 'STEP 6'
-  CHATGPT_API_KEY = '<YOUR CHAT GPT API KEY>'
+  GEMINI_API_KEY = ''
+  POSTGRES_PASSWORD = ''
+  AWS_ENDPOINT_URL = ''
   ```
 6) Generate your SECRET_KEY
 - CTRL + SHIFT + `
