@@ -8,23 +8,7 @@
 
 {% block content %}
   <div class="row gy-5">
-    <div class="col-md-4">
-      <div class="accordion" id="courseAccordion">
-        <div class="accordion-item">
-          <h2 class="accordion-header" id="headingOne"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseAccordion" aria-expanded="true" aria-controls="collapseAccordion">{{ course.title }}</button></h2>
-          <div id="collapseAccordion" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#courseAccordion">
-            <div class="accordion-body">
-              <div id="moduleDetails" class="list-group list-group-flush" data-course-id="{{ course.id }}">
-                {% for module in course.modules.all %}
-                  <a href="{% url 'module_detail' course.id module.id %}" class="list-group-item list-group-item-action {% if module.id == current_module_id %}{% endif %}">{{ module.title }}</a>
-                {% endfor %}
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-md-8 overflow-auto" style="max-height: calc(100vh - 145px);">
+    <div class="col overflow-auto">
       <h2>{{ module.title }}</h2>
       <p>{{ module.description }}</p>
       <div id="surveyElement"></div>

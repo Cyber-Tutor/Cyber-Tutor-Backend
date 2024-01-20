@@ -7,19 +7,9 @@
 {% endblock %}
 
 {% block content %}
-  <div class="row gy-5">
-    <div class="col-lg-4">
-      <h1 class="text-center text-decoration-underline">Courses</h1>
-      <div class="list-group list-group-flush mt-4 p-3 border rounded shadow" id="courseList">
-        {% for course in courses %}
-          <a href="#" class="py-3 list-group-item list-group-item-action" data-course-id="{{ course.id }}" onclick="loadModules({{ course.id }});">{{ course.title }}</a>
-        {% endfor %}
-      </div>
-    </div>
-    <div class="col-lg-8" id="modulesColumn">
-      <h1 class="text-center text-decoration-underline">Module Details</h1>
-      <div id="moduleDetails" class="pt-4"></div>
-    </div>
+  <div id="modulesColumn">
+    <h1 class="text-center text-decoration-underline">Module Details</h1>
+    <div id="moduleDetails" class="pt-4"></div>
   </div>
 {% endblock %}
 
