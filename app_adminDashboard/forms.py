@@ -26,5 +26,5 @@ class AddModuleForm(forms.ModelForm):
 
 
 ModuleFormSet = inlineformset_factory(
-    Course, Module, form=AddModuleForm, extra=0, can_delete=True
+    Course, Module, form=AddModuleForm, extra=0, can_delete=False
 )
