@@ -10,6 +10,17 @@
       <h2 class="text-center mb-4 text-decoration-underline">Add Course</h2>
     {% endif %}
   </h2>
+
+  <div class="text-center my-3">
+    {% if course_form.instance.pk %}
+      <a href="{% url 'add_module' course_form.instance.id %}" class="btn btn-primary">Add New Module</a>
+    {% else %}
+      <button type="button" id="add-module-button" class="btn btn-primary">Add New Module</button>
+    {% endif %}
+    <button type="submit" class="btn btn-success">Save Course</button>
+    <a href="{% url 'admin_course_list' %}" class="btn btn-secondary">Back to Admin Course List</a>
+  </div>
+
   <form method="post" id="courseForm">
     {% csrf_token %}
     <h2 class="text-center my-4">Course Details</h2>
@@ -45,24 +56,12 @@
         </table>
       </div>
     {% else %}
-      <div id="forms-container" class="row" data-form-index="{{ module_formset.total_form_count }}">
-        {% for form in module_formset %}
-          <div class="module-form col-4 p-3 bg-light border rounded my-2">{{ form|crispy }}</div>
-        {% endfor %}
+      <div id="forms-container" class="row justify-content-center" data-form-index="{{ module_formset.total_form_count }}">
         <div id="form-template" style="display: none;">
-          <div class="module-form col-4 p-3 bg-light border rounded my-2">{{ module_formset.empty_form|crispy }}</div>
+          <div class="module-form col-5 m-4 p-3 bg-light border rounded">{{ module_formset.empty_form|crispy }}</div>
         </div>
       </div>
     {% endif %}
-    <div class="text-center my-3">
-      {% if course_form.instance.pk %}
-        <a href="{% url 'add_module' course_form.instance.id %}" class="btn btn-primary">Add New Module</a>
-      {% else %}
-        <button type="button" id="add-module-button" class="btn btn-primary">Add New Module</button>
-      {% endif %}
-      <button type="submit" class="btn btn-success">Save Course</button>
-      <a href="{% url 'admin_course_list' %}" class="btn btn-secondary">Back to Admin Course List</a>
-    </div>
   </form>
 {% endblock %}
 
