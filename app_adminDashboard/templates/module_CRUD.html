@@ -3,7 +3,11 @@
 {% load crispy_forms_tags %}
 
 {% block content %}
-  <h2 class="text-center mb-4 text-decoration-underline">Edit Module</h2>
+  {% if course_form.instance.pk %}
+    <h2 class="text-center mb-4 text-decoration-underline">Edit Module</h2>
+  {% else %}
+    <h2 class="text-center mb-4 text-decoration-underline">Add Module</h2>
+  {% endif %}
   <form method="post" id="moduleForm">
     {% csrf_token %}
     <div class="p-3 bg-light border rounded">{{ module_form|crispy }}</div>
