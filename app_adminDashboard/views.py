@@ -58,7 +58,7 @@ def edit_course(request, course_id):
         course_form = AddCourseForm(instance=course)
         module_formset = ModuleFormSet(queryset=course.module_set.all())
 
-    modules = course.module_set.all()
+    modules = course.module_set.all().order_by('order')
 
     return render(
         request,

@@ -16,9 +16,10 @@ class AddCourseForm(forms.ModelForm):
 class AddModuleForm(forms.ModelForm):
     class Meta:
         model = Module
-        fields = ["title", "description", "prompt"]
+        fields = ["title", "order", "description", "prompt"]
         widgets = {
             "title": forms.TextInput(attrs={"class": "form-control"}),
+            "order": forms.NumberInput(attrs={"class": "form-control"}),
             "description": forms.Textarea(attrs={"class": "form-control"}),
             "prompt": forms.Textarea(attrs={"class": "form-control"}),
         }
