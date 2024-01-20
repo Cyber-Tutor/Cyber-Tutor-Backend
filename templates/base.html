@@ -22,15 +22,17 @@
   <body>
     <div class="container-fluid">
       <div class="row">
-        <div class="col-2 px-0 vh-100 overflow-auto d-flex flex-column justify-content-center">
-          <a class="navbar-brand" href="{% url 'index' %}">
-            <img class="img-fluid nav-brand-height" src="{% static 'images/Cyber-AIducator_Logo.png' %}" alt="Logo" />
-            <span class="nav-font-size align-middle">Cyber AIducator</span>
-          </a>
-          <div class="accordion" id="accordionExample">
+        <div class="col-2 vh-100 overflow-auto d-flex flex-column">
+          <div class="container my-2 p-2 d-flex justify-content-center border-bottom border-2">
+            <a class="navbar-brand" href="{% url 'index' %}">
+              <img class="img-fluid nav-brand-height mx-auto d-block" src="{% static 'images/Cyber-AIducator_Logo.png' %}" alt="Logo" />
+              <span class="font-monospace">Cyber AIducator</span>
+            </a>
+          </div>
+          <div class="accordion" id="accordionCourses">
             <div class="accordion-item">
               <h2 class="accordion-header" id="headingOne"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Courses</button></h2>
-              <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+              <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne">
                 <div class="accordion-body">
                   {% for course in courses %}
                     <a href="{% url 'course_list' %}?course_id={{ course.id }}" class="py-2 list-group-item list-group-item-action">{{ course.title }}</a>
