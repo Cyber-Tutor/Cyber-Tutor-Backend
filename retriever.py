@@ -2,12 +2,11 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import TextLoader
 from langchain_community.vectorstores import Chroma
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
-from langchain.document_loaders import WebBaseLoader
+from langchain_community.document_loaders import WebBaseLoader
+from langchain.chains import RetrievalQA
+import dotenv
 
-from langchain.tools.retriever import create_retriever_tool
-from typing import List
-from langchain_core.pydantic_v1 import BaseModel, Field
-
+dotenv.load_dotenv()
 
 sources = [
     'https://authy.com/what-is-2fa/',
@@ -25,16 +24,20 @@ texts = text_splitter.split_documents(documents)
 
 print(len(texts))
 
-for i, doc in enumerate(texts):
-    doc.metadata["page_chunk"] = i
+embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", convert_system_message_to_human=True)
 
-embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
+db = Chroma.from_documents(texts, embeddings, collection_name="cyber-tutor")
+retriever = db.as_retriever()
 
-vectorstore = Chroma.from_documents(texts, embeddings, collection_name="cyber-tutor")
-retriever = vectorstore.as_retriever()
+db.persist()
 
-retriever_tool = create_retriever_tool(
-    retriever,
-    "cyber-tutor-retriever",
-    "Query a retriever to get information about cybersecurity related topics.",
+llm = ChatGoogleGenerativeAI(model="models/gemini-pro", convert_system_message_to_human=True)
+
+qa_chain = RetrievalQA.from_chain_type(
+    llm,
+    retriever=retriever
 )
+
+question = "What is 2fa?"
+result = qa_chain({"query": question})
+print(result)
