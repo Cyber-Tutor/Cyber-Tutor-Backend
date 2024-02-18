@@ -4,6 +4,10 @@ import os
 
 dotenv.load_dotenv()
 
+
+"""
+Firebase class to interact with Firebase database
+"""
 class Firebase:
     def __init__(self):
         self.firebase_config = {
@@ -49,11 +53,13 @@ class Firebase:
         return reading['chapterContent']
     
     # check answer to quiz question
+    # TODO: implement quiz pool
     def check_quiz_answer(self, question_id, answer):
         question = self.db.child("questions").child("quiz").child(question_id).get().val()
         return question['answer'] == answer
     
     # save quiz results
+    # TODO: implement user scores
     def save_quiz_score(self, user_id, section, chapter, score):
         self.db.child("users").child(user_id).child("scores").child("quiz").child(section).child(chapter).set({
             "score": score,
