@@ -16,37 +16,58 @@ def generate_reading():
     word_count = request.json['word_count']
     return jsonify({'response': generate_reading(topic, word_count)})
 
-# get experimental quiz for given section/chapter and user
+
+# /get_quiz route
+# get quiz for given section/chapter and user
 # parameters: section, chapter, user id
 @app.route('/get_quiz', methods=['GET'])
 def quiz():
     section = request.args.get('section')
     chapter = request.args.get('chapter')
     user_id = request.args.get('user_id')
+    count = request.args.get('count')
     # get user group
-    # get quiz from database depending on group
-    # get user's proficiency in section
-    # get ratio of questions based on proficiency
-    # get questions from database
+    group = db.user_group(user_id)
+    # get questions based on section, chapter, and group
+    questions = db.get_quiz_questions(section, chapter, group)
+    # if experimental: filter questions based on user's proficiency (ratio)
+    # if control: return all questions
+    # limit questions to count
     # return quiz
-    return jsonify({'questions': None})
+    return jsonify({'questions': questions})
 
 
-# route getting reading for given section/chapter
-# route getting quiz for given section/chapter
-# route for submitting quiz answers
-# route for getting quiz results
-# content generator
+# /get_test route
+# get test for given section/chapter and user
+# parameters: section, chapter, user id
+@app.route('/get_test', methods=['GET'])
+def test():
+    section = request.args.get('section')
+    chapter = request.args.get('chapter')
+    user_id = request.args.get('user_id')
+    count = request.args.get('count')
+    # get user group
+    group = db.user_group(user_id)
+    # get questions based on section, chapter, and group
+    questions = db.get_test_questions(section, chapter, group)
+    # if experimental: filter questions based on user's proficiency (ratio)
+    # if control: return all questions
+    # limit questions to count
+    # return quiz
+    return jsonify({'questions': questions})
 
-# are we storing grades of quizzes or the questions they got wrong
-# database needs user table - what is stored here
-# database needs quiz pool
-# am i sending the quiz and quiz results to frontend (and grading happens there) or am i grading on the backend
-# are we not repeating questions in the quiz from previous quizzes
 
-# no videos section in database
+# /get_reading route
+# get reading content for given section/chapter and user
+# parameters: section, chapter, user id
+@app.route('/get_reading', methods=['GET'])
+def reading():
+    section = request.args.get('section')
+    chapter = request.args.get('chapter')
+    user_id = request.args.get('user_id')
+    # get user group
+    group = db.user_group(user_id)
+    # get reading content based on section, chapter, and group
+    reading = db.get_reading(section, chapter, group)
+    return jsonify({'reading': reading})
 
-# add proficiency to question and other metadata
-
-# ratio should be stored in db
-# db structure is a nightmare to work with
