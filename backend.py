@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, abort
 from llm import invoke_llm
 from firebase import Firebase
 
@@ -22,10 +22,14 @@ def generate_reading():
 # parameters: section, chapter, user id
 @app.route('/get_quiz', methods=['GET'])
 def quiz():
-    section = request.args.get('section')
-    chapter = request.args.get('chapter')
-    user_id = request.args.get('user_id')
-    count = request.args.get('count')
+    section = request.args.get('section', None)
+    chapter = request.args.get('chapter', None)
+    user_id = request.args.get('user_id', None)
+    count = request.args.get('count', None)
+    # check for missing parameters - return 400 if any are missing
+    if None in [section, chapter, user_id, count]:
+        abort(400)
+        
     # get user group
     group = db.user_group(user_id)
     # get questions based on section, chapter, and group
@@ -42,10 +46,14 @@ def quiz():
 # parameters: section, chapter, user id
 @app.route('/get_test', methods=['GET'])
 def test():
-    section = request.args.get('section')
-    chapter = request.args.get('chapter')
-    user_id = request.args.get('user_id')
-    count = request.args.get('count')
+    section = request.args.get('section', None)
+    chapter = request.args.get('chapter', None)
+    user_id = request.args.get('user_id', None)
+    count = request.args.get('count', None)
+    # check for missing parameters - return 400 if any are missing
+    if None in [section, chapter, user_id, count]:
+        abort(400)
+
     # get user group
     group = db.user_group(user_id)
     # get questions based on section, chapter, and group
@@ -62,9 +70,13 @@ def test():
 # parameters: section, chapter, user id
 @app.route('/get_reading', methods=['GET'])
 def reading():
-    section = request.args.get('section')
-    chapter = request.args.get('chapter')
-    user_id = request.args.get('user_id')
+    section = request.args.get('section', None)
+    chapter = request.args.get('chapter', None)
+    user_id = request.args.get('user_id', None)
+    # check for missing parameters - return 400 if any are missing
+    if None in [section, chapter, user_id]:
+        abort(400)
+
     # get user group
     group = db.user_group(user_id)
     # get reading content based on section, chapter, and group
