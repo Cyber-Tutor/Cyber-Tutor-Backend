@@ -1,20 +1,10 @@
 from flask import Flask, jsonify, request, abort
 from llm import invoke_llm
 from firebase import Firebase
+import random
 
 app = Flask(__name__)
 db = Firebase()
-
-@app.route('/invoke', methods=['POST'])
-def invoke():
-    prompt = request.json['prompt']
-    return jsonify({'response': invoke_llm(prompt)})
-
-@app.route('/generate_reading', methods=['POST'])
-def generate_reading():
-    topic = request.json['topic']
-    word_count = request.json['word_count']
-    return jsonify({'response': generate_reading(topic, word_count)})
 
 
 # /get_quiz route
@@ -48,12 +38,13 @@ def get_quiz():
 # /get_test route
 # get test for given section/chapter and user
 # parameters: section, chapter, user id
+# TODO: implement experimental group filtering
 @app.route('/get_test', methods=['GET'])
 def get_test():
     section = request.args.get('section', None)
     chapter = request.args.get('chapter', None)
     user_id = request.args.get('user_id', None)
-    count = request.args.get('count', 10)
+    count = request.args.get('count', 25)
     # check for missing parameters - return 400 if any are missing
     if None in [section, chapter, user_id]:
         abort(400)
@@ -61,7 +52,7 @@ def get_test():
     # get user group
     group = db.user_group(user_id)
     # get questions based on section, chapter, and group
-    test = db.get_test_questions(section, chapter, group)
+    questions = db.get_test_questions(section, chapter, group)
     # if experimental: filter questions based on user's proficiency (ratio)
     # if control: return all questions
     # limit questions to count
@@ -69,7 +60,8 @@ def get_test():
     if group == 'experimental':
         pass
     else:
-        pass
+        # get random questions of given count
+        test = random.sample(questions, count)
     return jsonify({'questions': test})
 
 
