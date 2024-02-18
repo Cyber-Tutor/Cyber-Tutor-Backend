@@ -64,3 +64,14 @@ class Firebase:
         self.db.child("users").child(user_id).child("scores").child("quiz").child(section).child(chapter).set({
             "score": score,
         })
+
+    # check answer to test question
+    def check_test_answer(self, question_id, answer):
+        question = self.db.child("questions").child("test").child(question_id).get().val()
+        return question['answer'] == answer
+    
+    # save test results
+    def save_test_score(self, user_id, section, score):
+        self.db.child("users").child(user_id).child("scores").child("test").child(section).set({
+            "score": score,
+        })
