@@ -75,3 +75,9 @@ class Firebase:
         self.db.child("users").child(user_id).child("scores").child("test").child(section).set({
             "score": score,
         })
+
+    # create question in database
+    def create_question(self, section, chapter, question):
+        self.db.child("questions").child("quiz").set(question)
+        self.db.child("topics").child(section).child(chapter).child("quiz").push(question['id'])
+        return True
