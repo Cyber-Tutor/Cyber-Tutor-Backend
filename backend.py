@@ -47,3 +47,6 @@ def quiz():
 # no videos section in database
 
 # add proficiency to question and other metadata
+
+# ratio should be stored in db
+# db structure is a nightmare to work with
