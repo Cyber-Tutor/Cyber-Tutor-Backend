@@ -101,8 +101,6 @@ def submit_quiz():
     score = 0
     correct = 0
     total = len(quiz)
-    ## get user group
-    ##group = db.user_group(user_id)
     # check answers
     for i, question in enumerate(quiz):
         if db.check_quiz_answer(question, answers[i]):
@@ -111,5 +109,33 @@ def submit_quiz():
     score = round(correct / total, 2)
     # save score to user's profile
     db.save_quiz_score(user_id, section, chapter, score)
+    # return score
+    return jsonify({'score': score})
+
+
+# /submit_test route
+# submit test for given section and user
+# parameters: section, user id, test, answers
+@app.route('/submit_test', methods=['POST'])
+def submit_test():
+    section = request.args.get('section', None)
+    user_id = request.args.get('user_id', None)
+    test = request.args.get('test', None)
+    answers = request.args.get('answers', None)
+    # check for missing parameters - return 400 if any are missing
+    if None in [section, user_id, test, answers]:
+        abort(400)
+
+    score = 0
+    correct = 0
+    total = len(test)
+    # check answers
+    for i, question in enumerate(test):
+        if db.check_test_answer(question, answers[i]):
+            correct += 1
+    # calculate score
+    score = round(correct / total, 2)
+    # save score to user's profile
+    db.save_test_score(user_id, section, score)
     # return score
     return jsonify({'score': score})
