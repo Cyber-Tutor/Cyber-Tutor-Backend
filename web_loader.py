@@ -10,10 +10,12 @@ import os
 dotenv.load_dotenv()
 
 
-def main(url_file, db_path):
+def main(url_file):
     urls = read_file(url_file)
     docs = web_loader(urls)
     embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", convert_system_message_to_human=True)
+    db_path = os.environ['CHROMA_PATH']
+
     if os.path.exists(db_path):
         db = Chroma(persist_directory=db_path, embedding_function=embeddings)
     else:
@@ -35,8 +37,7 @@ def read_file(file_name):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Load web pages into chroma db')
-    parser.add_argument('urls', type=str, required=True, help='File name containing urls to load')
-    parser.add_argument('db', type=str, required=True, help='db path', default='./chroma_db')
+    parser.add_argument('urls', type=str, help='File name containing urls to load')
     
     args = parser.parse_args()
-    main(args.urls, args.db)
+    main(args.urls)
