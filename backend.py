@@ -6,10 +6,11 @@ import random
 app = Flask(__name__)
 db = Firebase()
 
-
-# /get_quiz route
-# get quiz for given section/chapter and user
-# parameters: section, chapter, user id
+"""
+ /get_quiz route
+get quiz for given section/chapter and user
+parameters: section, chapter, user id
+"""
 @app.route('/get_quiz', methods=['GET'])
 def get_quiz():
     section = request.args.get('section', None)
@@ -34,11 +35,12 @@ def get_quiz():
         pass
     return jsonify({'questions': quiz})
 
-
-# /get_test route
-# get test for given section/chapter and user
-# parameters: section, chapter, user id
-# TODO: implement experimental group filtering
+"""
+/get_test route
+get test for given section/chapter and user
+parameters: section, chapter, user id
+TODO: implement experimental group filtering
+"""
 @app.route('/get_test', methods=['GET'])
 def get_test():
     section = request.args.get('section', None)
@@ -65,9 +67,11 @@ def get_test():
     return jsonify({'questions': test})
 
 
-# /get_reading route
-# get reading content for given section/chapter and user
-# parameters: section, chapter, user id
+"""
+/get_reading route
+get reading content for given section/chapter and user
+parameters: section, chapter, user id
+"""
 @app.route('/get_reading', methods=['GET'])
 def reading():
     section = request.args.get('section', None)
@@ -84,9 +88,11 @@ def reading():
     return jsonify({'reading': reading})
 
 
-# /submit_quiz route
-# submit quiz for given section/chapter and user
-# parameters: section, chapter, user id, quiz, answers
+"""
+/submit_quiz route
+submit quiz for given section/chapter and user
+parameters: section, chapter, user id, quiz, answers
+"""
 @app.route('/submit_quiz', methods=['POST'])
 def submit_quiz():
     section = request.args.get('section', None)
@@ -112,9 +118,11 @@ def submit_quiz():
     return jsonify({'score': score})
 
 
-# /submit_test route
-# submit test for given section and user
-# parameters: section, user id, test, answers
+"""
+/submit_test route
+submit test for given section and user
+parameters: section, user id, test, answers
+"""
 @app.route('/submit_test', methods=['POST'])
 def submit_test():
     section = request.args.get('section', None)
