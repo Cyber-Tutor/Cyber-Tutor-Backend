@@ -98,7 +98,6 @@ def submit_quiz():
     if None in [section, chapter, user_id, quiz, answers]:
         abort(400)
 
-    score = 0
     correct = 0
     total = len(quiz)
     # check answers
@@ -126,7 +125,6 @@ def submit_test():
     if None in [section, user_id, test, answers]:
         abort(400)
 
-    score = 0
     correct = 0
     total = len(test)
     # check answers
