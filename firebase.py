@@ -55,11 +55,11 @@ class Firebase:
         if group == 'experimentalGroup':
             content['content'] = reading['experimentalGroupContent']
             content['images'] = reading['experimentaalGroupImageURLs']
-            return content
         else:
             content['content'] = reading['controlGroupContent']
             content['images'] = reading['controlGroupImageURLs']
-            return content
+        
+        return content
 
     """
     check answer to quiz question
