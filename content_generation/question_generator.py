@@ -21,6 +21,7 @@ class QuestionGenerator:
         - "answer": The correct answer to the question, either "a", "b", "c", or "d"
         - "choices": keys of a, b, c, d with the answer choices.
         - "explanation": An explanation of the correct answer.
+        - "topics": A list of topics that the question covers.
         Do not repeat answer choices.  Do not make answer choices too similar to each other.
         The "answer" key MUST be one of the choices in the "choices" list.
         """)
