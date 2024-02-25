@@ -26,7 +26,7 @@ class QuestionGenerator:
         """)
 
         result = self.chain(prompt_template.format(topic=topic, details=details, difficulty=difficulty))
-        return result
+        return result['result']
 
 
     def initialize(self):
@@ -45,15 +45,15 @@ class QuestionGenerator:
 
 if __name__ == '__main__':
     q_gen = QuestionGenerator()
-    q_gen.create_question("2fa", "what it is", "easy")
-    q_gen.create_question("phishing", "what it is", "easy")
-    q_gen.create_question("password management", "best practices", "easy")
-    q_gen.create_question("online security", "best practices", "easy")
-    q_gen.create_question("2fa", "what it is", "medium")
-    q_gen.create_question("phishing", "what it is", "medium")
-    q_gen.create_question("password management", "best practices", "medium")
-    q_gen.create_question("online security", "best practices", "medium")
-    q_gen.create_question("2fa", "what it is", "hard")
-    q_gen.create_question("phishing", "what it is", "hard")
-    q_gen.create_question("password management", "best practices", "hard")
-    q_gen.create_question("online security", "best practices", "hard")
+    print(q_gen.create_question("2fa", "what it is", "easy"))
+    print(q_gen.create_question("phishing", "what it is", "easy"))
+    print(q_gen.create_question("password management", "best practices", "easy"))
+    print(q_gen.create_question("online security", "best practices", "easy"))
+    print(q_gen.create_question("2fa", "what it is", "medium"))
+    print(q_gen.create_question("phishing", "what it is", "medium"))
+    print(q_gen.create_question("password management", "best practices", "medium"))
+    print(q_gen.create_question("online security", "best practices", "medium"))
+    print(q_gen.create_question("2fa", "what it is", "hard"))
+    print(q_gen.create_question("phishing", "what it is", "hard"))
+    print(q_gen.create_question("password management", "best practices", "hard"))
+    print(q_gen.create_question("online security", "best practices", "hard"))
