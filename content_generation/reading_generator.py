@@ -13,12 +13,18 @@ class QuestionGenerator:
     def __init__(self):
         self.chain = self.initialize()
 
-    def create_reading(self, topic, word_count=500):
+    """
+    create reading based on topic, content (list of points to include in the reading), and optional word count
+    """
+    def create_reading(self, topic, content, word_count=500):
+        content = ', '.join(content)
+
         prompt_template = PromptTemplate.from_template("""
-        Write a detailed article explaining {topic} in {word_count} words.
+        Write a detailed article explaining {topic} in {word_count} words. 
+        Make sure to include content on the following topics: {content}                                        
         """)
 
-        result = self.chain(prompt_template.format(topic=topic, word_count=word_count))
+        result = self.chain(prompt_template.format(topic=topic, word_count=word_count, content=content))
         return result
 
 
