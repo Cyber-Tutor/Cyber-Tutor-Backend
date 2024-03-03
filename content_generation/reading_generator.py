@@ -9,7 +9,7 @@ import os
 dotenv.load_dotenv()
 
 
-class QuestionGenerator:
+class ReadingGenerator:
     def __init__(self):
         self.chain = self.initialize()
 
