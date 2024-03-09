@@ -1,62 +1,58 @@
+import re
 import firebase_admin
 from firebase_admin import credentials, firestore
 import json
 
+# Initialize Firebase
 cred = credentials.Certificate("serviceAccountKey.json")
 firebase_admin.initialize_app(cred)
 db = firestore.client()
 
 
-def extract_chapter_info(chapters):
-    extracted_info = {}
-    for chapter_id, chapter_details in chapters.items():
-        extracted_info[chapter_id] = {
-            "chapterType": chapter_details["chapterType"],
-            "chapterDescription": chapter_details["chapterDescription"],
-            "chapterTitle": chapter_details["chapterTitle"],
-        }
-        control_group_content = {}
-        experimental_group_content = {}
-        for subchapter_id, subchapter_details in chapter_details.get(
-            "controlGroup", {}
-        ).items():
-            control_group_content[subchapter_id] = subchapter_details.get(
-                "chapterContent", ""
-            )
-        for subchapter_id, subchapter_details in chapter_details.get(
-            "experimentalGroup", {}
-        ).items():
-            experimental_group_content[subchapter_id] = subchapter_details.get(
-                "chapterContent", ""
-            )
-        extracted_info[chapter_id]["controlGroupContent"] = control_group_content
-        extracted_info[chapter_id][
-            "experimentalGroupContent"
-        ] = experimental_group_content
-    return extracted_info
+def to_snake_case(text):
+    text = re.sub(r"[\s\-]+", " ", text)
+    components = text.split(" ")
+    return "_".join(x.lower() for x in components)
 
 
-with open("data.json") as f:
+def to_camel_case(text):
+    text = re.sub(r"[\-\.\s]", "_", text)
+    components = text.split("_")
+    return components[0] + "".join(x.title() for x in components[1:])
+
+
+def clean_quiz_title(title):
+    if "Quiz" in title:
+        return title.replace(":", "")
+    return title
+
+
+with open("data/topics.json") as f:
     data = json.load(f)
 
-
-for topic_id, topic_details in enumerate(data["topics"]):
-    topic_ref = db.collection("topics").document(str(topic_id))
+for topic_details in data["topics"]:
+    topic_id = to_snake_case(topic_details["topicTitle"])
+    topic_ref = db.collection("topics").document(topic_id)
     topic_ref.set(
         {
-            "topicDescription": topic_details["description"],
-            "topicTitle": topic_details["title"],
+            "topicDescription": topic_details["topicDescription"],
+            "topicTitle": topic_details["topicTitle"],
+            "order": topic_details["order"],
         }
     )
 
     chapters_ref = topic_ref.collection("chapters")
-    for chapter_id, chapter_details in enumerate(topic_details["chapters"]):
-        chapter_ref = chapters_ref.document(str(chapter_id))
+    for chapter_details in topic_details["chapters"]:
+        chapter_details["chapterTitle"] = clean_quiz_title(
+            chapter_details["chapterTitle"]
+        )
+        chapter_id = to_snake_case(chapter_details["chapterTitle"])
+        chapter_ref = chapters_ref.document(chapter_id)
         chapter_ref.set(
             {
-                "chapterType": chapter_details["type"],
-                "chapterDescription": chapter_details["description"],
-                "chapterTitle": chapter_details["title"],
+                "chapterType": chapter_details["chapterType"],
+                "chapterDescription": chapter_details["chapterDescription"],
+                "chapterTitle": chapter_details["chapterTitle"],
                 "controlGroupContent": chapter_details["controlGroupContent"],
                 "experimentalGroupContent": chapter_details["experimentalGroupContent"],
                 "controlGroupImageURLs": chapter_details.get(
@@ -65,5 +61,6 @@ for topic_id, topic_details in enumerate(data["topics"]):
                 "experimentalGroupImageURLs": chapter_details.get(
                     "experimentalGroupImageURLs", []
                 ),
+                "order": chapter_details["order"],
             }
         )
