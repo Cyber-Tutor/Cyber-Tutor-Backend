@@ -117,6 +117,9 @@ class Firebase:
     create a reading in database
     content is from db_data Reading
     """
-    def create_reading(self, section, chapter, content):
+    def create_reading(self, section, chapter, group, content):
+        reading_group = f"{group}GroupContent"
         reading_ref = self.db.collection('topics').document(section).collection('chapters').document(chapter)
-        reading_ref.set(content)
+        reading_ref.set({
+            reading_group: content
+        })
