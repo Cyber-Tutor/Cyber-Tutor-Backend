@@ -101,7 +101,7 @@ class Firebase:
 
     """
     create question in database
-    question is from db_data QuizQuestion
+    input is question json format
     """
     def create_question(self, question):
         question_ref = self.db.collection('quizQuestions').document()
@@ -115,7 +115,8 @@ class Firebase:
 
     """
     create a reading in database
-    content is from db_data Reading
+    group is either 'experimental', 'control', or other group name
+    content is reading content
     """
     def create_reading(self, section, chapter, group, content):
         reading_group = f"{group}GroupContent"
