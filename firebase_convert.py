@@ -21,13 +21,13 @@ def to_camel_case(text):
     return components[0] + "".join(x.title() for x in components[1:])
 
 
-def clean_quiz_title(title):
-    if "Quiz" in title:
-        return title.replace(":", "")
-    return title
+# def clean_quiz_title(title):
+#     if "Quiz" in title:
+#         return title.replace(":", "")
+#     return title
 
 
-with open("data/topics.json") as f:
+with open("data/topics2.json") as f:
     data = json.load(f)
 
 for topic_details in data["topics"]:
