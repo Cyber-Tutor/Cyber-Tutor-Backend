@@ -30,7 +30,7 @@
         {
           "chapterTitle": "Implementing 2FA Solutions",
           "chapterDescription": "Guidelines for implementing Two-Factor Authentication solutions.",
-          "chapterType": "text",
+          "chapterType": "video",
           "controlGroupContent": "https://www.youtube.com/embed/AMOtB7XkTT4",
           "controlGroupImageURLs": [],
           "experimentalGroupContent": "",
@@ -67,7 +67,7 @@
         {
           "chapterTitle": "Recognizing and Reporting Phishing Attempts",
           "chapterDescription": "Strategies for recognizing and reporting phishing attempts.",
-          "chapterType": "text",
+          "chapterType": "video",
           "controlGroupContent": "",
           "controlGroupImageURLs": [],
           "experimentalGroupContent": "",
@@ -124,7 +124,7 @@
         {
           "chapterTitle": "Implementing Password Management Solutions",
           "chapterDescription": "Guidelines for implementing password management solutions.",
-          "chapterType": "text",
+          "chapterType": "video",
           "controlGroupContent": "",
           "controlGroupImageURLs": [],
           "experimentalGroupContent": "",
@@ -181,7 +181,7 @@
         {
           "chapterTitle": "Implementing Privacy Enhancements",
           "chapterDescription": "Guidelines for implementing privacy enhancements.",
-          "chapterType": "text",
+          "chapterType": "video",
           "controlGroupContent": "",
           "controlGroupImageURLs": [],
           "experimentalGroupContent": "",
