@@ -14,7 +14,9 @@ Firebase class to interact with Firebase database
 class Firebase:
     def __init__(self):
         self.cred = credentials.Certificate(os.environ['FIREBASE_CRED_PATH'])
-        self.app = firebase_admin.initialize_app()
+        self.app = firebase_admin.initialize_app(self.cred, {
+            'projectId': os.environ['FIREBASE_PROJECT_ID'],
+        })
         self.db = firestore.client()
     
     """
@@ -101,8 +103,20 @@ class Firebase:
     create question in database
     question is from db_data QuizQuestion
     """
-    def create_question(self, section, chapter, question, group):
+    def create_question(self, question):
+        question_ref = self.db.collection('quizQuestions').document()
+        question_ref.set(question)
+        """
         question_ref = self.db.collection('quizQuestions').document(section).collection(group).document(chapter).collection('questions')
         all_questions = question_ref.get()
         question_id = len(all_questions) + 1
         question_ref.document(question_id).set(question)
+        """
+
+    """
+    create a reading in database
+    content is from db_data Reading
+    """
+    def create_reading(self, section, chapter, content):
+        reading_ref = self.db.collection('topics').document(section).collection('chapters').document(chapter)
+        reading_ref.set(content)
