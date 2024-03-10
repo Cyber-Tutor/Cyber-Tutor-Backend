@@ -1,0 +1,26 @@
+2FA is an extra layer of security used to make sure that people trying to gain access to an online account are who they say they are
+2FA requires users to provide two separate forms of identification before granting access to an account
+First factor is typically something you know, like a password or PIN
+Second factor involves something you possess, such as a smartphone, security token, or smart card
+2FA works by requiring users to enter their username and password (first factor) and then providing a second factor, usually in the form of a code sent to the user's mobile device
+2FA setup process may vary slightly depending on the service
+Services offer various 2FA methods, including SMS codes, authenticator apps, biometrics, or hardware tokens
+Enable 2FA in account settings by navigating to the security settings and looking for an option related to Two-Factor Authentication or Multi-Factor Authentication
+Choose your preferred 2FA method
+If using an authenticator app, scan the QR code provided by the service or manually enter the key
+Complete the setup by entering a generated code from the authenticator app or responding to an SMS
+Some services provide backup codes in case you lose access to your 2FA device
+Google Account 2FA setup: Go to your Google Account settings, navigate to Security, and enable 2-Step Verification
+Facebook 2FA setup: Access your Facebook Security settings, locate Two-Factor Authentication, and choose your preferred method
+2FA is a simple yet powerful way to enhance the security of your online accounts
+2FA provides an additional layer of defense against unauthorized access
+2FA combines something you know with something you possess
+Hardware tokens are small, like a key fob, and produce a new numeric code every 30-seconds
+Hardware tokens can be costly to distribute and easy to lose or misplace
+Hardware tokens are not entirely safe from being hacked
+SMS Text-Message and Voice-based 2FA involves sending a code to the user's mobile device
+SMS Text-Message and Voice-based 2FA is not as secure as hardware tokens
+Authenticator apps generate codes that can be used for 2FA
+Authenticator apps are more secure than SMS Text-Message and Voice-based 2FA
+Biometrics can be used for 2FA, such as fingerprint or facial recognition
+Biometrics are more secure than SMS Text-Message and Voice-based 2FA and hardware tokens
