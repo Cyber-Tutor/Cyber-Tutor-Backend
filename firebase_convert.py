@@ -43,9 +43,9 @@ for topic_details in data["topics"]:
 
     chapters_ref = topic_ref.collection("chapters")
     for chapter_details in topic_details["chapters"]:
-        chapter_details["chapterTitle"] = clean_quiz_title(
-            chapter_details["chapterTitle"]
-        )
+        # chapter_details["chapterTitle"] = clean_quiz_title(
+        #     chapter_details["chapterTitle"]
+        # )
         chapter_id = to_snake_case(chapter_details["chapterTitle"])
         chapter_ref = chapters_ref.document(chapter_id)
         chapter_ref.set(
