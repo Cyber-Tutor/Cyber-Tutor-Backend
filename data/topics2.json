@@ -82,7 +82,7 @@
       "order": 3,
       "chapters": [
         {
-          "chapterTitle": "Introduction to Password Security",
+          "chapterTitle": "Importance of Strong Passwords",
           "chapterDescription": "An overview of the importance of strong passwords.",
           "chapterType": "text",
           "controlGroupContent": "",
@@ -92,9 +92,9 @@
           "order": 1
         },
         {
-          "chapterTitle": "Creating Strong Passwords",
-          "chapterDescription": "Tips and techniques for creating strong and secure passwords.",
-          "chapterType": "text",
+          "chapterTitle": "Testing Password Security Knowledge",
+          "chapterDescription": "A quiz to test your knowledge of password security best practices.",
+          "chapterType": "assessment",
           "controlGroupContent": "",
           "controlGroupImageURLs": [],
           "experimentalGroupContent": "",
@@ -102,14 +102,24 @@
           "order": 2
         },
         {
-          "chapterTitle": "Password Security",
-          "chapterDescription": "A quiz to test your knowledge of password security best practices.",
-          "chapterType": "assessment",
+          "chapterTitle": "Creating Strong Passwords",
+          "chapterDescription": "Tips and techniques for creating strong and secure passwords.",
+          "chapterType": "text",
           "controlGroupContent": "",
           "controlGroupImageURLs": [],
           "experimentalGroupContent": "",
           "experimentalGroupImageURLs": [],
           "order": 3
+        },
+        {
+          "chapterTitle": "Assessing Password Creation Skills",
+          "chapterDescription": "A quiz to assess password creation skills.",
+          "chapterType": "assessment",
+          "controlGroupContent": "",
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": "",
+          "experimentalGroupImageURLs": [],
+          "order": 4
         },
         {
           "chapterTitle": "Implementing Password Management Solutions",
@@ -119,7 +129,7 @@
           "controlGroupImageURLs": [],
           "experimentalGroupContent": "",
           "experimentalGroupImageURLs": [],
-          "order": 4
+          "order": 5
         }
       ]
     },
@@ -139,16 +149,6 @@
           "order": 1
         },
         {
-          "chapterTitle": "Protecting Your Online Privacy",
-          "chapterDescription": "Best practices for protecting your online privacy and personal information.",
-          "chapterType": "text",
-          "controlGroupContent": "",
-          "controlGroupImageURLs": [],
-          "experimentalGroupContent": "",
-          "experimentalGroupImageURLs": [],
-          "order": 2
-        },
-        {
           "chapterTitle": "Evaluating Understanding of Online Privacy",
           "chapterDescription": "A quiz to test your knowledge of online privacy.",
           "chapterType": "assessment",
@@ -156,12 +156,22 @@
           "controlGroupImageURLs": [],
           "experimentalGroupContent": "",
           "experimentalGroupImageURLs": [],
+          "order": 2
+        },
+        {
+          "chapterTitle": "Protecting Online Privacy Measures",
+          "chapterDescription": "Best practices for protecting your online privacy and personal information.",
+          "chapterType": "text",
+          "controlGroupContent": "",
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": "",
+          "experimentalGroupImageURLs": [],
           "order": 3
         },
         {
-          "chapterTitle": "Privacy Settings and Tools",
-          "chapterDescription": "A guide to adjusting privacy settings and using privacy tools on various platforms.",
-          "chapterType": "text",
+          "chapterTitle": "Assessing Privacy Protection Knowledge",
+          "chapterDescription": "A quiz to assess privacy protection knowledge.",
+          "chapterType": "assessment",
           "controlGroupContent": "",
           "controlGroupImageURLs": [],
           "experimentalGroupContent": "",
