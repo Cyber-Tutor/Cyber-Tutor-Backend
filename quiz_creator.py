@@ -48,11 +48,11 @@ def save_quiz(quiz, save_path):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Process some integers.')
-    parser.add_argument('--details_path', type=str, help='the path to the question details file')
+    parser.add_argument('--details_path', type=str, help='the path to the question details file', required=True)
     parser.add_argument('--difficulty', nargs='+', help='a list of strings for the difficulty levels', default=['beginner', 'intermediate', 'hard'])
-    parser.add_argument('--topic', type=str, help='a string for the topic')
+    parser.add_argument('--topic', type=str, help='a string for the topic', required=True)
     parser.add_argument('--q_per_detail', type=int, help='an integer for the number of questions to generate per detail', default=1)
-    parser.add_argument('--save_path', type=str, help='the save path or directory to save the quiz questions to.  If a directory, the quiz questions will be saved to the directory with the name of the topic')
+    parser.add_argument('--save_path', type=str, help='the save path or directory to save the quiz questions to.  If a directory, the quiz questions will be saved to the directory with the name of the topic', required=True)
 
     args = parser.parse_args()
 
@@ -62,5 +62,5 @@ if __name__ == '__main__':
         save_path = os.path.join(args.save_path, f"{args.topic}.json")
     else:
         save_path = args.save_path
-        
+
     save_quiz(quiz, save_path)

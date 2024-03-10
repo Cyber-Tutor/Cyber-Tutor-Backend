@@ -73,8 +73,8 @@ if __name__ == '__main__':
     If the reading path is a directory, it generates details for all reading in the directory.
     """
     parser = argparse.ArgumentParser(description='Reading details generator.')
-    parser.add_argument('--reading_path', type=str, help='reading path for a file or directory containing readings')
-    parser.add_argument('--details_dir', type=str, help='directory to save details to')
+    parser.add_argument('--reading_path', type=str, help='reading path for a file or directory containing readings', required=True)
+    parser.add_argument('--details_dir', type=str, help='directory to save details to', required=True)
     parser.add_argument('--detail_count', type=int, help='number of details to generate', default=25)
 
     args = parser.parse_args()

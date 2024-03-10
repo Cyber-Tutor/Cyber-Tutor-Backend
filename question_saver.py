@@ -33,9 +33,9 @@ if __name__ == '__main__':
     import argparse
 
     parser = argparse.ArgumentParser(description='Process some integers.')
-    parser.add_argument('--section', type=int, help='an integer for the section')
-    parser.add_argument('--chapter', type=int, help='an integer for the chapter')
-    parser.add_argument('--path', type=str, help='a string for the quiz json path')
+    parser.add_argument('--section', type=int, help='an integer for the section', required=True)
+    parser.add_argument('--chapter', type=int, help='an integer for the chapter', required=True)
+    parser.add_argument('--path', type=str, help='a string for the quiz json path', required=True)
 
     args = parser.parse_args()
     save_questions(args.path, args.section, args.chapter, args.path)
