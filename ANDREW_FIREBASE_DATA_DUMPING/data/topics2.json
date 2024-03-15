@@ -1,0 +1,194 @@
+{
+  "topics": [
+    {
+      "topicTitle": "Two-Factor Authentication",
+      "topicDescription": "A course that explores the concept of Two-Factor Authentication.",
+      "order": 1,
+      "chapters": [
+        {
+          "chapterTitle": "Introduction to 2FA",
+          "chapterDescription": "An overview of the concept of Two-Factor Authentication.",
+          "chapterType": "text",
+          "controlGroupContent": "An introduction to Two-Factor Authentication (2FA) offers a fundamental understanding of this essential security measure in today's digital landscape. Two-Factor Authentication enhances account security by requiring users to provide two forms of identification before granting access, typically something they know (like a password) and something they have (such as a smartphone or hardware token). This introductory overview delves into the significance of 2FA in safeguarding sensitive information from unauthorized access and mitigating the risks associated with password breaches and phishing attacks. By providing a layered defense mechanism, 2FA adds an extra layer of protection to online accounts, bolstering security measures for individuals and organizations alike in an increasingly interconnected world.",
+          "controlGroupImageURLs": [
+            "https://assets.f-secure.com/i/illustrations/what-is-two-factor-authentication.png"
+          ],
+          "experimentalGroupContent": "",
+          "experimentalGroupImageURLs": [],
+          "order": 1
+        },
+        {
+          "chapterTitle": "Understanding 2FA",
+          "chapterDescription": "A quiz to test your knowledge of Two-Factor Authentication.",
+          "chapterType": "assessment",
+          "controlGroupContent": "",
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": "",
+          "experimentalGroupImageURLs": [],
+          "order": 2
+        },
+        {
+          "chapterTitle": "Implementing 2FA Solutions",
+          "chapterDescription": "Guidelines for implementing Two-Factor Authentication solutions.",
+          "chapterType": "video",
+          "controlGroupContent": "https://www.youtube.com/embed/AMOtB7XkTT4",
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": "",
+          "experimentalGroupImageURLs": [],
+          "order": 3
+        }
+      ]
+    },
+    {
+      "topicTitle": "Phishing",
+      "topicDescription": "A comprehensive guide to understanding and preventing phishing attacks.",
+      "order": 2,
+      "chapters": [
+        {
+          "chapterTitle": "Introduction to Phishing",
+          "chapterDescription": "An overview of the concept of phishing and its impact.",
+          "chapterType": "text",
+          "controlGroupContent": "",
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": "",
+          "experimentalGroupImageURLs": [],
+          "order": 1
+        },
+        {
+          "chapterTitle": "Assessing Phishing Knowledge",
+          "chapterDescription": "A quiz to test your knowledge of phishing attacks.",
+          "chapterType": "assessment",
+          "controlGroupContent": "",
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": "",
+          "experimentalGroupImageURLs": [],
+          "order": 2
+        },
+        {
+          "chapterTitle": "Recognizing and Reporting Phishing Attempts",
+          "chapterDescription": "Strategies for recognizing and reporting phishing attempts.",
+          "chapterType": "video",
+          "controlGroupContent": "",
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": "",
+          "experimentalGroupImageURLs": [],
+          "order": 3
+        }
+      ]
+    },
+    {
+      "topicTitle": "Password Security",
+      "topicDescription": "Learn about the importance of strong passwords and how to create them.",
+      "order": 3,
+      "chapters": [
+        {
+          "chapterTitle": "Importance of Strong Passwords",
+          "chapterDescription": "An overview of the importance of strong passwords.",
+          "chapterType": "text",
+          "controlGroupContent": "",
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": "",
+          "experimentalGroupImageURLs": [],
+          "order": 1
+        },
+        {
+          "chapterTitle": "Testing Password Security Knowledge",
+          "chapterDescription": "A quiz to test your knowledge of password security best practices.",
+          "chapterType": "assessment",
+          "controlGroupContent": "",
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": "",
+          "experimentalGroupImageURLs": [],
+          "order": 2
+        },
+        {
+          "chapterTitle": "Creating Strong Passwords",
+          "chapterDescription": "Tips and techniques for creating strong and secure passwords.",
+          "chapterType": "text",
+          "controlGroupContent": "",
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": "",
+          "experimentalGroupImageURLs": [],
+          "order": 3
+        },
+        {
+          "chapterTitle": "Assessing Password Creation Skills",
+          "chapterDescription": "A quiz to assess password creation skills.",
+          "chapterType": "assessment",
+          "controlGroupContent": "",
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": "",
+          "experimentalGroupImageURLs": [],
+          "order": 4
+        },
+        {
+          "chapterTitle": "Implementing Password Management Solutions",
+          "chapterDescription": "Guidelines for implementing password management solutions.",
+          "chapterType": "video",
+          "controlGroupContent": "",
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": "",
+          "experimentalGroupImageURLs": [],
+          "order": 5
+        }
+      ]
+    },
+    {
+      "topicTitle": "Online Privacy",
+      "topicDescription": "A course that delves into the concept of online privacy and how to protect it.",
+      "order": 4,
+      "chapters": [
+        {
+          "chapterTitle": "Introduction to Online Privacy",
+          "chapterDescription": "An overview of the concept of online privacy and its importance.",
+          "chapterType": "text",
+          "controlGroupContent": "",
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": "",
+          "experimentalGroupImageURLs": [],
+          "order": 1
+        },
+        {
+          "chapterTitle": "Evaluating Understanding of Online Privacy",
+          "chapterDescription": "A quiz to test your knowledge of online privacy.",
+          "chapterType": "assessment",
+          "controlGroupContent": "",
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": "",
+          "experimentalGroupImageURLs": [],
+          "order": 2
+        },
+        {
+          "chapterTitle": "Protecting Online Privacy Measures",
+          "chapterDescription": "Best practices for protecting your online privacy and personal information.",
+          "chapterType": "text",
+          "controlGroupContent": "",
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": "",
+          "experimentalGroupImageURLs": [],
+          "order": 3
+        },
+        {
+          "chapterTitle": "Assessing Privacy Protection Knowledge",
+          "chapterDescription": "A quiz to assess privacy protection knowledge.",
+          "chapterType": "assessment",
+          "controlGroupContent": "",
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": "",
+          "experimentalGroupImageURLs": [],
+          "order": 4
+        },
+        {
+          "chapterTitle": "Implementing Privacy Enhancements",
+          "chapterDescription": "Guidelines for implementing privacy enhancements.",
+          "chapterType": "video",
+          "controlGroupContent": "",
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": "",
+          "experimentalGroupImageURLs": [],
+          "order": 5
+        }
+      ]
+    }
+  ]
+}
