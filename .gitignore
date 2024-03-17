@@ -15,3 +15,6 @@ venv.bak/
 # Firebase and Data
 data.json
 serviceAccountKey.json
+
+# Sean's stuff
+chroma_db/
