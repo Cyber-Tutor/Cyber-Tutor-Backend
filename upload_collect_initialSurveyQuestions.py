@@ -20,7 +20,7 @@ def to_camel_case(text):
     return components[0] + "".join(x.title() for x in components[1:])
 
 
-with open("data/initialSurveyQuestions.json") as f:
+with open("data/initialSurveyQuestions2.json") as f:
     data = json.load(f)
 
 for category, questions in data.items():
