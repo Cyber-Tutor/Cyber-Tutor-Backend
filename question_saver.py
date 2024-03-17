@@ -17,7 +17,6 @@ def save_questions(questions, section, chapter, q_path):
             'difficulty': question['difficulty'],
             'choices': question['question']['choices'],
             'explanation': question['question']['explanation'],
-            'topics': question['question']['topics'],
             'topicId': section,
             'chapterId': chapter
         }

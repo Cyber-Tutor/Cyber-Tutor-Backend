@@ -21,7 +21,6 @@ class QuestionGenerator:
         - "answer": The correct answer to the question, either "a", "b", "c", or "d"
         - "choices": keys of a, b, c, d with the answer choices.
         - "explanation": An explanation of the correct answer.
-        - "topics": A list of topics that the question covers.
         Do not repeat answer choices.  Do not make answer choices too similar to each other.
         The "answer" key MUST be one of the choices in the "choices" list.
         """)
@@ -51,14 +50,14 @@ class QuestionGenerator:
 
 if __name__ == '__main__':
     q_gen = QuestionGenerator()
-    print(q_gen.create_question("2fa", "what it is", "easy"))
-    print(q_gen.create_question("phishing", "what it is", "easy"))
-    print(q_gen.create_question("password management", "best practices", "easy"))
-    print(q_gen.create_question("online security", "best practices", "easy"))
-    print(q_gen.create_question("2fa", "what it is", "medium"))
-    print(q_gen.create_question("phishing", "what it is", "medium"))
-    print(q_gen.create_question("password management", "best practices", "medium"))
-    print(q_gen.create_question("online security", "best practices", "medium"))
+    print(q_gen.create_question("2fa", "what it is", "beginner"))
+    print(q_gen.create_question("phishing", "what it is", "beginner"))
+    print(q_gen.create_question("password management", "best practices", "beginner"))
+    print(q_gen.create_question("online security", "best practices", "beginner"))
+    print(q_gen.create_question("2fa", "what it is", "intermediate"))
+    print(q_gen.create_question("phishing", "what it is", "intermediate"))
+    print(q_gen.create_question("password management", "best practices", "intermediate"))
+    print(q_gen.create_question("online security", "best practices", "intermediate"))
     print(q_gen.create_question("2fa", "what it is", "hard"))
     print(q_gen.create_question("phishing", "what it is", "hard"))
     print(q_gen.create_question("password management", "best practices", "hard"))
