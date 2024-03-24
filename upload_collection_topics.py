@@ -27,7 +27,7 @@ def to_camel_case(text):
 #     return title
 
 
-with open("data/topics3.json") as f:
+with open("data/topics4.json") as f:
     data = json.load(f)
 
 for topic_details in data["topics"]:
@@ -55,12 +55,10 @@ for topic_details in data["topics"]:
                 "chapterTitle": chapter_details["chapterTitle"],
                 "controlGroupContent": chapter_details["controlGroupContent"],
                 "experimentalGroupContent": chapter_details["experimentalGroupContent"],
-                "controlGroupImageURLs": chapter_details.get(
-                    "controlGroupImageURLs", []
-                ),
-                "experimentalGroupImageURLs": chapter_details.get(
-                    "experimentalGroupImageURLs", []
-                ),
+                "controlGroupImageURL": chapter_details["controlGroupImageURL"],
+                "experimentalGroupImageURL": chapter_details[
+                    "experimentalGroupImageURL"
+                ],
                 "order": chapter_details["order"],
                 "proficiency": chapter_details["proficiency"],
             }
