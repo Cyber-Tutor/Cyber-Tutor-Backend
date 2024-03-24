@@ -1,0 +1,21 @@
+Be careful about what information you share online. Don't share personal information on unsecured websites and be cautious about what you post on social media.
+Use a secure computer with updated software and a firewall. This will help to protect your computer from malware and other threats.
+Look for the https symbol and a lock icon before entering any personal information on a website. This indicates that the website is secure and your information will be encrypted.
+Don't use public Wi-Fi for sensitive activities such as online banking or shopping. Public Wi-Fi networks are not secure and your information could be intercepted by hackers.
+Review privacy policies before you create an account on a website or app. This will help you to understand how your information will be collected and used.
+Keep records of your transactions. This will help you to identify any fraudulent activity.
+Be suspicious of phishing scams. Phishing scams are emails or text messages that try to trick you into revealing personal information.
+Don't click on links from unknown sources. These links could lead to malicious websites that could infect your computer with malware.
+Don't save your credit card details on websites. This will help to protect your information from being stolen if the website is hacked.
+Tor Browser is a tool that can help you to browse the internet anonymously. Tor Browser encrypts your traffic and bounces it through a network of servers, making it difficult for your internet service provider (ISP) or websites to track you. However, Tor Browser will not protect you from all threats, such as malware or phishing.
+Regular Backups: Create backups of your important files in case of data loss due to cyberattacks or hardware failure.
+Monitor Credit Report: Regularly check your credit report for suspicious activity that might indicate identity theft.
+Read Before You Agree: Privacy policies disclose how companies collect, use, and share your data. Understand what information is being collected and for what purpose.
+HTTPS Everywhere: This ensures encrypted communication between your browser and the website, protecting your data from interception.
+Public Wi-Fi Risks: When using public Wi-Fi, avoid sensitive activities like online banking or shopping. Consider using a VPN for added security.
+Software Updates: Install updates for your operating system, browser, and applications promptly. Updates often include security patches.
+Firewalls: Firewalls act as a barrier between your device and the internet, filtering incoming and outgoing traffic for threats.
+Antivirus and Anti-malware: These programs scan your device for malicious software and can help prevent infections.
+Limit Social Media Sharing: Not everything needs to be public. Consider privacy settings and who can see your posts.
+Beware of Oversharing: Personal details like address, phone number, or birthday can be used for identity theft or scams.
+Unsecured Websites: Avoid entering personal information on websites without https and a lock icon.
