@@ -1,5 +1,5 @@
 from firebase import Firebase
-from db_data import QuizQuestion
+# from db_data import QuizQuestion
 import json
 
 """
@@ -32,8 +32,8 @@ if __name__ == '__main__':
     import argparse
 
     parser = argparse.ArgumentParser(description='Process some integers.')
-    parser.add_argument('--section', type=int, help='an integer for the section', required=True)
-    parser.add_argument('--chapter', type=int, help='an integer for the chapter', required=True)
+    parser.add_argument('--section', type=str, help='an integer for the section', required=True)
+    parser.add_argument('--chapter', type=str, help='an integer for the chapter', required=True)
     parser.add_argument('--path', type=str, help='a string for the quiz json path', required=True)
 
     args = parser.parse_args()
