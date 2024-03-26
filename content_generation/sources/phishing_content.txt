@@ -1,0 +1,695 @@
+Phishing attacks: defending your organisation
+How to defend your organisation from email phishing attacks.
+Fishing hook capturing password on laptopiStock.com/jadamprostore
+ON THIS PAGE
+Introduction
+What is phishing?
+Why you need a multi-layered approach
+The problems with phishing simulations
+Four layers of mitigation
+Case study: example of multi-layered phishing mitigations
+Introduction
+This guidance suggests mitigations to improve your organisation's resilience against phishing attacks, whilst minimising disruption to user productivity. The defences suggested in this guidance are also useful against other types of cyber attack, and will help your organisation become more resilient overall.
+
+This guidance is aimed at technology, operations or security staff responsible for designing and implementing defences for medium to large organisations. This includes staff responsible for phishing training.
+
+Note:
+Staff within smaller organisations will also find this guidance useful, but should refer to the NCSC's Small Business Guide beforehand.
+
+What is phishing?
+Phishing is when attackers send scam emails (or text messages) that contain links to malicious websites. The websites may contain malware (such as ransomware) which can sabotage systems and organisations. Or they might be designed to trick users into revealing sensitive information (such as passwords), or transferring money.
+
+Phishing emails can hit an organisation of any size and type. You might get caught up in a mass campaign (where emails are sent indiscriminately to millions of inboxes), or it could be the first step in a targeted attack against your company, or a specific employee. In these targeted campaigns, the attacker uses information about your employees or company to make their messages even more persuasive and realistic. This is usually referred to as spear phishing.
+
+The mitigations described in this guidance are mostly focused on preventing the impact of phishing attacks within your organisation, but if you implement these measures, you will be helping to protect the whole of the UK. Setting up DMARC, for example, stops phishers from spoofing your domain (that is, making their emails look like they come from your organisation). There are numerous benefits in doing this:
+
+Your own company's genuine emails are more likely to reach the recipients' inboxes, rather than getting filtered out as spam.
+From a reputational aspect, no organisation wants their name becoming synonymous with scams and fraud.
+The more organisations set up DMARC, the harder it is for the phishers to succeed.
+Why you need a multi-layered approach
+Phishing mitigations often place too much emphasis on users being able to spot phishing emails. As we explain below, this approach risks wasting both time and money without improving security. Instead, you should widen your defences to include technical measures, with user education being just one aspect of your approach. A layered approach means you’ll have multiple opportunities to detect a phishing attack, and then stop it before it causes harm. Some phishing attacks will always get through, so you should plan for incidents which means you can minimise the damage they cause.
+
+The mitigations below require a combination of technological, process, and people-based approaches. They all must be considered for your defences to be really effective. More specifically, the guidance splits the mitigations into four layers on which you can build your defences:
+
+Make it difficult for attackers to reach your users
+Help users identify and report suspected phishing messages
+Protect your organisation from the effects of undetected phishing emails
+Respond quickly to incidents
+If you can't implement all of the mitigations, try to address at least some of the mitigations from within each of the layers.
+
+The problems with phishing simulations
+No training package, including phishing simulations, can teach users to spot every phishing attempt. Asking users to examine, in depth, every email they receive will not leave enough hours in the day for work tasks. It’s an unrealistic and counter-productive goal because responding to emails and clicking links is an integral part of work.
+
+Phishing simulations can also create legal risk. Since no one can be expected to spot all phishing emails, punishing people for clicking on emails you've sent starts to resemble entrapment. For this reason, you should always check with your HR department before undertaking any phishing simulations (the NPSA has a set of free resources to help you design training.)
+
+More practically, blaming users for clicking on links doesn’t work. People click for a range of reasons. These could be personality traits or situational (for example, if a person is busy and stressed). Threatening someone with punishment doesn't change these factors.
+
+Phishing simulations also erode trust between employees and security. Employees who are afraid for their jobs will not report mistakes. Employees should instead create a positive cyber security culture so employees feel comfortable reporting phishing incidents, and in this sense, they can be a valuable early warning system.
+
+So why are phishing simulations so popular? One reason is that they allegedly provide clear, quantitative metrics that demonstrate how progress (in an area you care about) is being made. However, metrics express an organisation’s values, and if you appear to value the absence of reports of problems, you incentivise people to keep quiet about issues. You should consider how you can formulate your security metrics to also include successes. For example, as well as measuring how many people clicked on a phishing email, focus on how many people reported it.
+
+Infographic: Summary of layered defences
+
+Infographic: Summary of layered defences (download available below)
+Four layers of mitigation
+Layer 1: Make it difficult for attackers to reach your users
+
+Layer 2: Help users identify and report suspected phishing emails
+
+Layer 3: Protect your organisation from the effects of 'successful' phishing emails
+
+Layer 4: Respond quickly to incidents
+
+Case study: example of multi-layered phishing mitigations
+The following real-world example illustrates how a company in the financial sector used effective layered mitigations to defend against phishing attacks. Reliance on any single layer would have missed some of the attacks, and resulted in a costly and time consuming clean-up operation.
+
+The company, which has around 4,000 employees, received 1,800 emails containing a number of variants of Dridex malware. The email claimed to be an invoice that needed urgent attention, which was relevant to the role of some of the recipients. It was not targeted at individual users with any personal information, but was well written, with good spelling and grammar.
+
+infographic of multi-layered phishing mitigations case study
+
+Infographic: Multi-layered phishing mitigations (download available below)
+Summary of the phishing attack:
+1,800 emails were sent to the organisation by this campaign
+1,750 were stopped by an email filtering service that identified that malware was present.
+This left 50 emails that reached user inboxes.
+Of these, 36 were either ignored by users, or reported using a button in their email client. 25 were reported in total, including some post click; this was the first indication that the attack had got through the initial layer of defences.
+This left 14 emails that were clicked-on, which launched the malware.
+13 instances of the malware failed to launch as intended due to devices being up-to-date.
+1 instance of malware was installed.
+The malware's call home to its operator was detected, reported and blocked.
+1 device was seized, investigated and cleaned in a few hours.
+
+What is Phishing?
+Phishing is a type of cybersecurity attack during which malicious actors send messages pretending to be a trusted person or entity. Phishing messages manipulate a user, causing them to perform actions like installing a malicious file, clicking a malicious link, or divulging sensitive information such as access credentials.
+
+Phishing is the most common type of social engineering, which is a general term describing attempts to manipulate or trick computer users. Social engineering is an increasingly common threat vector used in almost all security incidents. Social engineering attacks, like phishing, are often combined with other threats, such as malware, code injection, and network attacks.
+
+
+What is Phishing? Types of Phishing Attacks
+Phishing Attacks: Statistics and Examples
+Checkpoint Research recently released its 2023 Mid-Year Cyber Security Report, which provides data about phishing attacks and other major cyber threats.
+
+According to the report, phishing attack was one of the most common methods for spreading malware. The rise of generative AI has recently elevated the phishing threat, helping to eliminate the typos and grammatical errors that made past phishing attacks earlier to detect.
+
+Phishing is also a common technique used by leading malware variants. For example, Qbot, the most common malware in the first half of 2023, is known for its use of phishing as an infection mechanism.
+
+How Phishing Works
+The basic element of a phishing attack is a message sent by email, social media, or other electronic communication means.
+
+A phisher may use public resources, especially social networks, to collect background information about the personal and work experience of their victim. These sources are used to gather information such as the potential victim’s name, job title, and email address, as well as interests and activities. The phisher can then use this information to create a reliable fake message.
+
+Typically, the emails the victim receives appear to come from a known contact or organization. Attacks are carried out through malicious attachments or links to malicious websites. Attackers often set up fake websites, which appear to be owned by a trusted entity like the victim’s bank, workplace, or university. Via these websites, attackers attempt to collect private information like usernames and passwords or payment information.
+
+Some phishing emails can be identified due to poor copywriting and improper use of fonts, logos, and layouts. However, many cybercriminals are becoming more sophisticated at creating authentic-looking messages and are using professional marketing techniques to test and improve the effectiveness of their emails.
+
+Common Phishing Techniques
+Email Phishing
+Phishers use a variety of techniques to make their attacks look more believable to their targets and to achieve their goals. Some common phishing techniques include:
+
+Social Engineering: Social engineering uses psychology to manipulate the targets of phishing attacks. A phisher may use deception, coercion, bribery, or other techniques to achieve their goal.
+Typosquatting: Phishers may use domains and URLs that look very similar to that of a legitimate, trusted domain. If the target isn’t paying sufficient attention, then may believe that the link is legitimate.
+Email Spoofing: A spoofed email is designed so that the display name of the email belongs to someone that the email recipient trusts. The sender field in an email is just data and is under the control of the sender. Phishers use this fact to make emails appear to come from trusted email accounts.
+URL Shortening: Link shorteners like bit.ly conceal the target destination of a URL. Phishers use this to trick a target into clicking on a link to a phishing page.
+Malicious Redirects: Redirects are designed to send a browser to another page if the original URL is unavailable, incorrect, or outdated. Malicious redirects can be used to send a user to a phishing page instead of a legitimate one.
+Hidden Links: Links can be hidden in seemingly harmless text or images. If a user accidentally clicks the hidden link, they are sent to a phishing page.
+5 Types of Phishing Attacks
+#1. Email Phishing
+Most phishing attacks are sent via email. Attackers typically register fake domain names that mimic real organizations and send thousands of common requests to victims.
+
+For fake domains, attackers may add or replace characters (e.g., my-bank.com instead of mybank.com), use subdomains (e.g., mybank.host.com), or use the trusted organization’s name as the email username (e.g., mybank@host.com).
+
+Many phishing emails use a sense of urgency or a threat to cause a user to comply quickly without checking the source or authenticity of the email.
+
+Email phishing messages have one of the following goals:
+
+Causing the user to click a link to a malicious website in order to install malware on their device.
+Causing the user to download an infected file and using it to deploy malware.
+Causing the user to click a link to a fake website and submit personal data.
+Causing the user to reply and provide personal data.
+#2. Spear Phishing
+Spear phishing includes malicious emails sent to specific people. The attacker typically already has some or all of the following information about the victim:
+
+Name
+Place of employment
+Job title
+Email address
+Specific information about their job role
+Trusted colleagues, family members, or other contacts, and samples of their writing
+This information helps increase the effectiveness of phishing emails and manipulate victims into performing tasks and activities, such as transferring money.
+
+#3. Whaling
+Whaling attacks target senior management and other highly privileged roles. The ultimate goal of whaling is the same as other types of phishing attacks, but the technique is often very subtle. Senior employees commonly have a lot of information in the public domain, and attackers can use this information to craft highly effective attacks.
+
+Typically, these attacks do not use tricks like malicious URLs and fake links. Instead, they leverage highly personalized messages using information they discover in their research about the victim. For example, whaling attackers commonly use bogus tax returns to discover sensitive data about the victim and use it to craft their attack.
+
+#4. Smishing and Vishing
+This is a phishing attack that uses a phone instead of written communication. Smishing involves sending fraudulent SMS messages, while vishing involves phone conversations.
+
+In a typical voice phishing scam, an attacker pretends to be a scam investigator for a credit card company or bank, informing victims that their account has been breached. Criminals then ask the victim to provide payment card information, supposedly to verify their identity or transfer money to a secure account (which is really the attacker’s).
+
+Vishing scams may also involve automated phone calls pretending to be from a trusted entity, asking the victim to type personal details using their phone keypad.
+
+#5. Angler Phishing
+These attacks use fake social media accounts belonging to well-known organizations. The attacker uses an account handle that mimics a legitimate organization (e.g., “@pizzahutcustomercare”) and uses the same profile picture as the real company account.
+
+Attackers take advantage of consumers’ tendency to make complaints and request assistance from brands using social media channels. However, instead of contacting the real brand, the consumer contacts the attacker’s fake social account.
+
+When attackers receive such a request, they might ask the customer to provide personal information so that they can identify the problem and respond appropriately. In other cases, the attacker provides a link to a fake customer support page, which is actually a malicious website.
+
+What are the Signs of Phishing?
+ 
+
+Threats or a Sense of Urgency
+Emails that threaten negative consequences should always be treated with skepticism. Another strategy is to use urgency to encourage or demand immediate action. Phishers hope that by reading the email in a hurry, they will not thoroughly scrutinize the content and will not discover inconsistencies.
+
+Message Style
+An immediate indication of phishing is that a message is written with inappropriate language or tone. If, for example, a colleague from work sounds overly casual or a close friend uses formal language, this should trigger suspicion. Recipients of the message should check for anything else that could indicate a phishing message.
+
+Unusual Requests
+If an email requires you to perform non-standard actions, it could indicate that the email is malicious. For example, if an email claims to be from a specific IT team and asks for software to be installed, but these activities are usually handled centrally by the IT department, the email is probably malicious.
+
+Linguistic Errors
+Misspellings and grammatical misuse are another sign of phishing emails. Most companies have set up spell-checking in their email clients for outgoing emails. Therefore, emails with spelling or grammatical errors should raise suspicion, as they may not originate from the claimed source.
+
+Inconsistencies in Web Addresses
+Another easy way to identify potential phishing attacks is to look for mismatched email addresses, links, and domain names. For example, it’s a good idea to check a previous communication that matches the sender’s email address.
+
+Recipients should always hover over a link in an email before clicking it to see the actual link destination. If the email is believed to be sent by Bank of America, but the domain of the email address does not contain “bankofamerica.com”, that is a sign of a phishing email.
+
+Request for Credentials, Payment Information, or Other Personal Details
+In many phishing emails, attackers create fake login pages linked from emails that appear to be official. The fake login page typically has a login box or a request for financial account information. If the email is unexpected, the recipient should not enter login credentials or click the link. As a precaution, recipients should directly visit the website they think is the source of the email.
+
+5 Ways to Protect Your Organization from Phishing Attacks
+Here are a few ways your organization can reduce the risk of phishing attacks.
+
+#1. Employee Awareness Training
+It is paramount to train employees to understand phishing strategies, identify signs of phishing, and report suspicious incidents to the security team.
+
+Similarly, organizations should encourage employees to look for trust badges or stickers from well-known cyber security or antivirus companies before interacting with a website. This shows that the website is serious about security and is probably not fake or malicious.
+
+#2. Deploy Email Security Solutions
+Modern email filtering solutions can protect against malware and other malicious payloads in email messages. Solutions can detect emails that contain malicious links, attachments, spam content, and language that could suggest a phishing attack.
+
+Email security solutions automatically block and quarantine suspicious emails and use sandboxing technology to “detonate” emails to check if they contain malicious code.
+
+#3. Make Use of Endpoint Monitoring and Protection
+The increasing use of cloud services and personal devices in the workplace has introduced many new endpoints that may not be fully protected. Security teams must assume that some endpoints will be breached by endpoint attacks. it is essential to monitor endpoints for security threats and implement rapid remediation and response on compromised devices.
+
+#4. Conduct Phishing Attack Tests
+Simulated phishing attack testing can help security teams evaluate the effectiveness of security awareness training programs and help end users better understand attacks. Even if your employees are good at finding suspicious messages, they should be tested regularly to mimic real phishing attacks. The threat landscape continues to evolve, and cyberattack simulations must also evolve.
+
+#5. Limit User Access to High-Value Systems and Data
+Most phishing methods are designed to trick human operators, and privileged user accounts are attractive targets for cybercriminals. Restricting access to systems and data can help protect sensitive data from leakage. Use the principle of least privilege and only give access to users who absolutely need it.
+
+Phishing Protection and Prevention with Check Point
+Check Point Harmony Email and Collaboration provides robust anti-phishing defense, effectively countering phishing attacks. Recognized as a Leader in the 2023 Forrester Wave for Enterprise Email Security, it offers advanced protection for your organization. To learn more about how Harmony Email and Collaboration can safeguard your organization from the newest phishing threats, request a free demo today.
+
+
+Play Video
+Phishing is the practice of sending fraudulent communications that appear to come from a legitimate and reputable source, usually through email and text messaging. The attacker's goal is to steal money, gain access to sensitive data and login information, or to install malware on the victim's device. Phishing is a dangerous, damaging, and an increasingly common type of cyberattack.
+
+Read Phishing for DummiesStop and block phishing attacks
+What Is Phishing?How Phishing Works?AI and PhishingPhishing AwarenessPhishing AttacksPhishing Quiz
+Contact Cisco
+Phishing and security tactics will further evolve with the global use of artificial intelligence (AI)
+Phishing and security tactics will further evolve with the global use of artificial intelligence (AI)
+"Last year Cisco Security saw that 80% of ransomware attacks we observed began with a phishing email," said Tom Gillis SVP and GM Security at Cisco, RSA Conference 2023
+
+Watch the future of phishingAdvanced Email Threats For Dummies
+How do phishing scams trick users?
+A phishing attack relies on a social-engineering effort where hackers create a counterfeit communication that looks legitimate and appears to come from a trusted source. Attackers use seemingly benign emails or text messages to trick unsuspecting users into taking an action such as downloading malware, visiting an infected site, or divulging login credentials in order to steal money or data.
+
+Why do hackers send phishing scams?
+Motivations for phishing attacks differ, but mainly attackers are seeking valuable user data such as personally identifiable information (PII) or login credentials that can be used to commit fraud by accessing the victim's financial accounts. Once attackers have login information, personal data, access to online accounts, or credit card data, they can obtain permissions to modify or compromise more cloud-connected systems and in some cases, hijack entire computer networks until the victim pays a ransom.
+
+Some cybercriminals aren't satisfied with merely getting your personal data and credit card information. They won't stop until they have drained your bank account. In these cases, they may go beyond emails and use "popup phishing" combined with voice phishing (vishing) and SMS text messages (SMiShing). Victims may be frightened into divulging bank account access information and other details. Often perpetrated against elderly individuals or people in targeted organizations' finance departments, vishing and SMiShing are types of cyberattacks that everyone should learn about to protect themselves and their financial security. 
+
+How does phishing work? 
+Phishing works by luring a victim with legitimate-looking (but fraudulent) emails or other communication from a trusted (or sometimes seemingly desperate) sender who coaxes victims into providing confidential information—often on what looks to be a convincingly legitimate website. Sometimes malware or ransomware is also downloaded onto the victim's computer. 
+
+Phishers frequently use tactics like fear, curiosity, a sense of urgency, and greed to compel recipients to open attachments or click on links.
+Phishing attacks are designed to appear to come from legitimate companies and individuals.
+Cybercriminals are continuously innovating and using increasingly sophisticated techniques, including spear phishing (an attack directed at a specific person or group) and other strategies, to trick users into clicking or tapping.
+It only takes one successful phishing attack to compromise your network and steal your data, which is why it is always important to Think Before You Click. (You can click that link, as it has important phishing stats and information.)
+Who are the targets of phishing?
+Anyone. Most phishing attacks target numerous email addresses with the hope that some percentage of users will be tricked. Security-awareness training is helpful in educating users on the dangers of phishing attacks and teaches strategies to identify phishing communications. 
+
+Why are phishing attacks so effective? 
+Phishing is effective because it exploits the vulnerabilities of human nature, including a tendency to trust others, act out of curiosity, or respond emotionally to urgent messages. And phishing attacks are increasingly easy to perpetrate with phishing kits readily available on the dark web. It's a relatively low-risk pursuit for attackers, with bulk email addresses easy to obtain and emails virtually free to send.
+
+Phishing is evolving with AI
+The first primitive forms of phishing attacks emerged decades ago in chat rooms. Since then, phishing has evolved in complexity to become one of the largest and most costly cybercrimes on the internet that leads to business email compromise (BEC), (email account takeover (ATO), and ransomware. More recently, AI has made it easier for attackers to carry out sophisticated and targeted attacks by correcting spelling mistakes and personalizing messaging. For example, cybercriminals collect identifying information on groups or individuals they want to target and then use that information to mount highly personalized phishing campaigns called spear phishing. Because spear phishing communications are much more personalized, they can look especially legitimate, and thus are even more dangerous. 
+
+On the other hand, AI security solutions are enabling advanced detection and prevention techniques. Now Cisco Secure products leverage predictive and generative AI that expands our reach and interaction with security touchpoints. Cisco Secure Email Threat Defense uses unique artificial intelligence and machine learning models, including natural language processing (NLP), to identify malicious techniques used in attacks targeting your organization, derive unparalleled context for specific business risks, provide searchable threat telemetry, and categorize threats to understand which parts of your organization are most vulnerable to attack. 
+
+Cisco's upcoming acquisition of Armorblox, which is based in Sunnyvale, Calif., develops solutions to protect organizations against data loss and targeted email attacks. The integration of its solutions will incorporate enhanced attack prediction to rapidly detect threats and efficiently enforce policy to reduce phishing response times.
+
+Learn about mailbox remediation
+
+Dangers of phishing - What can happen when you are phished?
+See the gaps that invite phishing attacks. Read our Phishing for Dummies eBook.
+
+Personal phishing risks include
+Personal phishing risks include:
+Money stolen from your bank account
+Fraudulent charges on credit cards
+Lost access to photos, videos, and files
+Fake social media posts made in your accounts
+Cybercriminals impersonating you, putting friends or family members at risk
+At work, phishing risks include
+At work, phishing risks include:
+Loss of corporate funds
+Exposing personal information of partners, coworkers, and customers
+Files becoming locked and inaccessible
+Damage to your organization's reputation
+Inside Cisco Talos threat hunters (8:03)Download Phishing for Dummies
+How your organization can increase phishing awareness
+It's important to adopt a multilayered approach that includes email filters and employee awareness training. If an attack makes it through your security defenses, employees are typically the last line of defense.
+
+Build security resilience by learning how to recognize phishing attacks, prevent them, and remediate them if you ever accidentally succumb to a phishing attack. Start by testing your phishing knowledge with our Phishing Awareness Quiz.
+
+Phishing prevention - What is the best defense against phishing?
+No single cybersecurity solution can avert all phishing attacks. Your organization should deploy cybersecurity technology and take a tiered security approach to reduce the number of phishing attacks and the impact when attacks do occur. 
+
+To learn about the latest phishing attack methods, including spear phishing, typosquatting, steganography, and how to combat them with advanced cybersecurity methods, download our new e-book, Phishing for Dummies, and see Chapter 1: Phishing 101.
+
+Deploy tiered security solutions
+
+Your organization can deploy Cisco Umbrella for phishing protection and Cisco Secure Email Threat Defense to safeguard inboxes. Organizations may also consider Cisco Secure Access, a cloud-delivered security service edge (SSE) solution, grounded in zero trust, that provides secure access from anything to anywhere, including phishing protection. 
+
+ 
+Conduct regular training
+
+Phishing training and anti-phishing strategies will help enlist employees in efforts to defend your organization. Include Cisco Secure Awareness Training as part of this approach. Phishing simulations and awareness training help you educate users on how to spot and report phishing attempts.
+
+ 
+Avoid posting contact information online
+
+Some attackers collect info by scraping information from these social media and websites. They collect mobile numbers for key stakeholders from email signatures and use that information for spear phishing and SMiShing campaigns.
+
+ 
+Develop unique email address conventions
+
+Common email address naming conventions are shared on the open internet and most patterns are easy to guess. Consider developing an email naming convention that doesn't follow the standard first name (dot) last name or the first-initial, last-name pattern. Randomizing email names across the organization will make them impossible to guess on a mass scale.
+
+ 
+Deploy secure messaging platforms
+
+With email remaining the number one vector for phishing attacks, many organizations are turning to the security of messaging platforms, including Cisco Webex Messaging for internal communication. Messaging platforms reduce the overall dependency on email for communication and in turn reduces email volume.
+
+When combined with anti-phishing training, this approach gives employees more time and ability to detect fraudulent emails.
+
+ 
+
+ 
+How to detect phishing
+You can learn how to detect phishing emails on desktop and mobile devices. Some basic steps for detecting phishing emails follow below.
+
+On any email client
+
+You can examine hypertext links, which is one of the best ways to recognize a phishing attack. Look for misspellings and grammatical errors in the body of the email. Check that the domain the email was sent from is spelled correctly. For example, in phishing emails you'll often find a number used instead of a letter. 
+
+ 
+Check hyperlinks in emails
+
+In a browser,the destination URL will show in a hover-popup window for the hyperlink. Ensure that the destination URL link equals what is in the email. Additionally, be cautious about clicking links that have strange characters in them or are abbreviated.
+
+ 
+On mobile devices
+
+You can observe the destination URL by briefly holding your finger over the hyperlink. The URL preview will materialize in a small popup window.
+
+ 
+On web pages
+
+Hover over the anchor text to find the destination URL revealed in the bottom-left corner of the browser window. Check your phish spotting skills.
+
+ 
+Individuals can follow additional phishing safety steps:
+Don't click email links from unknown sources
+Keep your browser updated
+ 
+Monitor your online accounts regularly
+Be aware of popup windows
+ 
+Never give out personal information over email
+Be aware of text messages and phone calls from unknown persons
+ 
+Be wary of social, emotion lures
+Deploy malicious URL detection and content filtering
+ 
+Take our phishing quiz as part of your phishing education
+Track the latest phishing attacks with advanced phishing protection
+ 
+Most common types of phishing attacks
+Business email compromise (BEC)
+BEC attacks are carefully planned and researched attacks that impersonate an organizational executive vendor or supplier. 
+
+Watch Phish and Learn to see why BEC is difficult to detect.
+
+View business email compromise (BEC) infographic
+Top phishing threats related to BEC
+Email account compromise. This is a common type of BEC scam in which an employee's email account is hacked and used to request payments from vendors. The money is then sent to attacker-controlled bank accounts.
+
+Employee impersonation. This type of BEC takes the form of an email scam, in which a bad actor impersonates a trusted internal employee or vendor to steal money or sensitive information through email.
+
+VIP impersonation. This type of attack occurs when a malicious actor sends an email to an unsuspecting victim, using a compromised email of a legitimate company, individual or VIP, asking for payment or funds transfer.
+
+External payment fraud. An email attack is sent to an unsuspecting victim impersonating trusted vendors for invoice payment requests. It is also known as Vendor Email Compromise (VEC).
+
+Internal payment fraud. Using stolen credentials an attacker can gain access to internal payment systems such as payment platforms and set up fraudulent vendors, change payment recipients, or redirect payments to their accounts.
+
+Payroll diversion fraud. Using stolen email credentials, an attacker emails an organization's payroll or finance department requesting a change to direct-deposit information.
+
+Social engineering. Persuasion through psychology is used to gain a target's trust, causing them to lower their guard and take unsafe action such as divulging personal information.
+
+Extortion. Threatening or intimidating action is used to obtain monetary or other financial gain, commonly used in vishing scams.
+
+Malicious recon emails. This looks like legitimate email communication but is actually an email sent by an attacker with the purpose of eliciting a response prior to extracting sensitive user or organizational data.
+
+Credential phishing. A bad actor steals login credentials by posing as a legitimate entity using emails and fake login pages. The bad actor then uses the victim's stolen credentials to carry out a secondary attack or extract data.
+
+Account takeover (ATO)
+The methods used by attackers to gain access to cloud email, such as a Microsoft 365 email account, are fairly simple and increasingly common. These phishing campaigns usually take the form of a fake email from Microsoft. The email contains a request to log in, stating the user needs to reset their password, hasn't logged in recently, or that there's a problem with the account that needs their attention. A URL is included, enticing the user to click to remedy the issue. 
+
+Watch Phish and Learn to understand how ATO occurs.
+
+Blog: Spotting fake Office 365 emails
+Spear phishing
+Spear phishing targets specific individuals instead of a wide group of people. That way, the attackers can customize their communications and appear more authentic. Spear phishing is often the first step used to penetrate a company's defenses and carry out a targeted attack. According to the SANS Institute, 95 percent of all attacks on enterprise networks are the result of successful spear phishing.
+
+Tips to stop phishing (PDF)
+
+Blog: How to identify a spear phish
+
+Whaling
+When attackers go after a "big fish" like a CEO, it's called whaling. These attackers often spend considerable time profiling the target to find the opportune moment and means to steal login credentials. Whaling is of particular concern because high-level executives have access to a great deal of sensitive organizational information.
+
+Voice phishing (vishing)
+Voice phishing, or vishing, is a form of social engineering. It is a fraudulent phone call or voice message designed to obtain sensitive information such as login credentials. For instance, the attacker might call pretending to be a support agent or representative of your organization or a subscription service. New employees are often vulnerable to these types of scams, but they can happen to anyone—and are becoming more common. Deploying spam call-blocking software is a common tactic to prevent these types of calls.
+
+SMS phishing (SMiShing)
+Text message, or SMS phishing, can come through random broadcast text messages or portray a known coworker in your organization. Sometimes SMIShing messages contain a link or can request you to take immediate action. Either way, if you don't recognize the mobile number, delete the message. If you are ever unsure, call the individual using a valid phone number to make sure the task is legitimate.
+
+Angler phishing
+Angler phishing is similar to vishing, but instead of a phone call, attackers reach out by direct messaging on social media platforms. Victims are targeted by fake customer service agents. These attacks have even tricked professional anti-scammers, so don't underestimate the efficacy of this method.
+
+As phishing has evolved, it has taken on a variety of names—including spear phishing, smishing—and phishing attacks come through a variety of channels, including compromised websites, social media, fake ads, QR codes, attachments and text messages.
+
+What is phishing?
+Phishing scams trick users into divulging sensitive data, downloading malware, and exposing themselves or their organizations to cybercrime.
+
+Phishing attacks are fraudulent emails, text messages, phone calls or websites that are designed to trick users into actions like the following:
+
+Downloading malware,
+Sharing sensitive information or personal data (for example, Social Security and credit card numbers, bank account numbers, login credentials),
+Other actions that expose themselves or their organizations to cybercrime.
+Successful phishing attacks often lead to identity theft, credit card fraud, ransomware attacks, data breaches and huge financial losses for individuals and corporations.
+
+Phishing is the most common type of social engineering, deceiving, pressuring or manipulating people into sending information or assets to the wrong people. Social engineering attacks rely on human error and pressure tactics for success. The attacker masquerades as a person or organization the victim trusts— like a coworker, a boss, a company the victim or victim’s employer deals with—and creates a sense of urgency to make the victim act rashly. Hackers and fraudsters use these tactics because it’s easier and cheaper to trick people than to hack into a computer or network.
+
+According to the FBI, hackers favor phishing emails as their most popular attack method to deliver ransomware to individuals and organizations. IBM’s Cost of a Data Breach 2022 rates phishing as the second-most common cause of a data breach (up from fourth-most common last year) and the most expensive, costing victims USD 4.91 million on average.
+
+Report
+Cost of a Data Breach
+Get insights to better manage the risk of a data breach with the latest Cost of a Data Breach report.
+
+Related content
+Register for the X-Force Threat Intelligence Index
+
+What is phishing?
+Phishing attacks are fraudulent emails, text messages, phone calls or websites that are designed to trick users into downloading malware, sharing sensitive information or personal data (for example, Social Security and credit card numbers, bank account numbers, login credentials), or taking other actions that expose themselves or their organizations to cybercrime.
+
+Successful phishing attacks often lead to identity theft, credit card fraud, ransomware attacks, data breaches and huge financial losses for individuals and corporations.
+
+Phishing is the most common type of social engineering, the practice of deceiving, pressuring or manipulating people into sending information or assets to the wrong people. Social engineering attacks rely on human error and pressure tactics for success. The attacker masquerades as a person or organization the victim trusts—for example, a coworker, a boss, a company the victim or victim’s employer deals with—and creates a sense of urgency that drives the victim to act rashly. Hackers and fraudsters use these tactics because it’s easier and less expensive to trick people than it is to hack into a computer or network.
+
+According to the FBI, phishing emails are the most popular attack method, or vector, used by hackers to deliver ransomware to individuals and organizations. IBM’s Cost of a Data Breach 2022 found that phishing is the second most common cause of a data breach (up from fourth most common last year), and that data breaches caused by phishing were the most expensive, costing victims USD 4.91 million on average.
+
+Types of phishing attacks
+Bulk phishing emails
+Bulk email phishing is the most common type of phishing attack. A scammer creates an email message that appears to come from a large, well-known legitimate business or organization, like a national or global bank, a large online retailer, the makers of a popular software application or app. They then send the message to millions of recipients as bulk email phishing is a numbers game: The larger or more popular the impersonated sender, the more recipients who are likely to be customers, subscribers or members.
+
+Cybercriminals go to various lengths to make the phishing email appear legitimate. They typically include the impersonated sender’s logo in the email, masking the ‘from’ email address to include the impersonated sender’s domain name. Some even spoof the sender’s domain name—for example, by using ‘rnicrosoft.com’ instead of ‘microsoft.com’—to appear legit at a glance.
+
+The subject line addresses a topic that the impersonated sender might credibly address, and that appeals to strong emotions—fear, greed, curiosity, a sense of urgency or time pressure—to get the recipient's attention. Typical subject lines include 'Please update your user profile,' 'Problem with your order,' 'Your closing documents are ready to sign', 'Your invoice is attached'. 
+
+The body of the email instructs the recipient to take a seemingly reasonable action but one that results in the recipient divulging sensitive information or downloading a file that infects the recipient's device or network.
+
+For example, recipients might be directed to ‘click here to update your profile', but the underlying hyperlink takes them to a fake website that tricks them into entering their actual login credentials. Alternatively, they may be told to open an attachment that appears legitimate (for example, 'invoice20.xlsx') but that delivers malware or malicious code to the recipient's device or network.
+
+Spear phishing
+Spear phishing targets a specific individual—usually someone with privileged access to sensitive data or network resources, or special authority that the scammer can exploit for fraudulent purposes.
+
+A spear phisher studies the target to gather information to pose as a person or entity the target truly trusts—a friend, boss, co-worker, colleague, trusted vendor or financial institution—or to pose as the target individual. Social media and networking sites—where people publicly congratulate coworkers, endorse colleagues and vendors and tend to overshare—are rich sources of information for spear phishing research. 
+
+With this information, the spear phisher can send a message containing specific personal details or financial information and a credible request to the target. For example, 'I know you're leaving tonight for vacation—but can you please pay this invoice (or transfer USDXXX.XX to this account) before close of business today?'
+
+A spear phishing attack aimed at a C-level executive, a wealthy individual or some other high-value target is often called a whale phishing or whaling attack.
+
+Business email compromise (BEC)
+BEC is a class of spear phishing attack that attempts to steal large sums of money or extremely valuable information—for example, trade secrets, customer data, financial information—from corporations or institutions.
+
+BEC attacks can take several different forms. Two of the most common include:
+
+CEO fraud: The scammer impersonates a C-level executive’s email account or hacks into it directly and sends a message to a lower-level employee instructing them to transfer funds to a fraudulent account, make a purchase from a fraudulent vendor, or send files to an unauthorized party.
+ 
+
+Email account compromise (EAC): The scammer accesses to a lower-level employee's email account—for example, a manager in finance, sales, R&D—and uses it to send fraudulent invoices to vendors, instruct other employees to make fraudulent payments or deposits, or request access to confidential data.
+
+As part of these attacks, scammers often gains access to company email accounts by sending an executive or employee a spear phishing message that tricks them into divulging email account credentials (username and password). For example, a message such as ‘Your password is about to expire. Click this link to update your account’ might conceal a malicious link to a fake website designed to steal account information.
+
+Regardless of the tactics used, successful BEC attacks are among the costliest cyberattacks. In one of the best-known examples of BEC, hackers impersonating a CEO convinced his company's finance department to transfer EUR 42 million to a fraudulent bank account ( link resides outside ibm.com).
+
+Learn more about BEC 
+Other phishing techniques and tactics
+SMS phishing, or smishing, is phishing using mobile or smartphone text messages. The most effective smishing schemes are contextual—that is, related to smartphone account management or apps. For example, recipients may receive a text message offering a gift as 'thanks' for paying a wireless bill, or asking them to update their credit card information to continue using a streaming media service. 
+
+Voice phishing, or vishing, is phishing by phone call. Thanks to voice over IP (VoIP) technology, scammers can make millions of automated vishing calls per day. They often use caller ID spoofing to make their calls appear to be from legitimate organizations or local phone numbers. Vishing calls typically scare recipients with warnings of credit card processing problems, overdue payments or trouble with the IRS. Recipients who respond end up providing sensitive data to the cybercriminals. Some recipients even end up granting remote control of their computers to the scammers on the call.
+
+Social media phishing employs various capabilities of a social media platform to phish for members' sensitive information. Scammers use the platforms' own messaging capabilities—for example, Facebook Messenger, LinkedIn messaging or InMail, Twitter DMs—in much the same ways they use regular email and text messaging. They also send users phishing emails that appear to come from the social networking site, asking recipients to update login credentials or payment information. These attacks can be especially costly to victims who use the same login credentials across multiple social media sites, an all-too-common 'worst practice'.
+
+Application or in-app messaging. Popular mobile device apps and web-based (software-as-a-service, or SaaS) applications email their users regularly. As a result, these users are ripe for phishing campaigns that spoof emails from app or software vendors. Again, playing the numbers game, scammers spoof emails from the most popular apps and web applications—for example, PayPal, Microsoft Office 365 or Teams—to get the most bang for their phishing buck. 
+
+Protecting against phishing scams
+Security awareness training and best practices
+Organizations are encouraged to teach users how to recognize phishing scams, and to develop best-practices for dealing with any suspicious emails and text messages. For example, users can be taught to recognize these and other characteristic features of phishing emails:
+
+Requests for sensitive or personal information, or to update profile or payment information,
+
+Requests to send or move money,
+
+File attachments the recipient did not request or expect,
+
+A sense of urgency, whether blatant ('Your account will be closed today...') or subtle (e.g., a request from a colleague to pay an invoice immediately) threats of jail time or other unrealistic consequences,
+
+Threats of jail time or other unrealistic consequences,
+
+Poor spelling or grammar,
+
+Inconsistent or spoofed sender address,
+
+Links shortened by using Bit.Ly or some other link-shortening service,
+
+Images of text used in place of text (in messages or on linked web pages).
+This is only a partial list; unfortunately, hackers are always devising new phishing techniques to better avoid detection. Publications such as the Anti-Phishing Working Group's quarterly Phishing Trends Activity Report (link resides outside ibm.com) can help organizations keep pace. 
+
+Organizations can also encourage or enforce best practices that put less pressure on employees to be phishing sleuths. For example, organizations can establish and communicate clarifying policies - for example, a superior or colleague will never email a request to transfer funds. They can require employees to verify any request for personal or sensitive information by contacting the sender or visiting the sender's legitimate site directly, by using means other than those provided in the message. And they can insist that employees report phishing attempts and suspicious emails to the IT or Security group.
+
+Security technologies that fight phishing
+Despite the best user training and rigorous best practices, users still make mistakes. Fortunately, several established and emerging endpoint and network security technologies can help security teams pick up the battle against phishing where training and policy leave off.
+
+Spam filters and email security software use data on existing phishing scams and machine learning algorithms to identify suspected phishing emails (and other spam). The scams and spam are then moved to a separate folder and any links they contain are disabled.
+ 
+
+Antivirus and anti-malware software detects and neutralizes malicious files or code in phishing emails.
+ 
+
+Multi-factor authentication requires at least one login credential in addition to a username and a password—for example, a one-time code sent to the users' cell phone. By providing an extra last line of defense against phishing scams or other attacks that successfully compromise passwords, multi-factor authentication can undermine spear phishing attacks and prevent BEC.
+ 
+
+Web filters prevent users from visiting known malicious websites ('blacklisted' sites) and display alerts whenever users visit suspected malicious or fake websites.
+
+What is a phishing attack?
+Phishing attacks involved tricking a victim into taking some action that benefits the attacker. These attacks range from simple to complex, and can be spotted with the right awareness.
+
+Authentication
+Copy article link 
+
+What is a phishing attack?
+“Phishing” refers to an attempt to steal sensitive information, typically in the form of usernames, passwords, credit card numbers, bank account information or other important data in order to utilize or sell the stolen information. By masquerading as a reputable source with an enticing request, an attacker lures in the victim in order to trick them, similarly to how a fisherman uses bait to catch a fish.
+
+A Phishing Attack
+How is phishing carried out?
+The most common examples of phishing are used to support other malicious actions, such as on-path attack and cross-site scripting attacks. These attacks typically occur via email or instant message, and can be broken down into a few general categories. It’s useful to become familiar with a few of these different vectors of phishing attacks in order to spot them in the wild.
+
+Report
+2023 Phishing Threats Report
+Get the report
+Talk to an expert
+Learn how Cloudflare can protect your business
+Contact sales
+Advanced-fee scam
+This common email phishing attack is popularized by the “Nigerian prince” email, where an alleged Nigerian prince in a desperate situation offers to give the victim a large sum of money for a small fee upfront. Unsurprisingly, when the fee is paid, no large sum of money ever arrives. The interesting history is that this type of scam has been occurring for over a hundred years in different forms; it was originally known in the late 1800s as the Spanish Prisoner scam, in which a con artist contacted a victim to prey on their greed and sympathy. The con artist is allegedly trying to smuggle out a wealthy Spanish prisoner, who will reward the victim handsomely in exchange for the money to bribe some prison guards.
+
+This attack (in all its forms) is mitigated by not responding to requests from unknown parties in which money has to be given to receive something in return. If it sounds too good to be true, it probably is. A simple Google search on the theme of the request or some of the text itself will often bring up the details of the scam.
+
+Account deactivation scam
+By playing off the urgency created in a victim who believes an important account is going to be deactivated, attackers are able to trick some people into handing over important information such as login credentials. Here’s an example: the attacker sends an email that appears to come from an important institution like a bank, and they claim the victim’s bank account will be deactivated if they do not take action quickly. The attacker will then request the login and password to the victim’s bank account in order to prevent the deactivation. In a clever version of the attack, once the information is entered, the victim will be directed to the legitimate bank website so that nothing looks out of place.
+
+This type of attack can be countered by going directly to the website of the service in question and seeing if the legitimate provider notifies the user of the same urgent account status. It’s also good to check the URL bar and make sure that the website is secure. Any website requesting a login and password that is not secure should be seriously questioned, and nearly without exception should not be used.
+
+Website forgery scam
+This type of scam is commonly paired with other scams such as the account deactivation scam. In this attack, the attacker creates a website that is virtually identical to the legitimate website of a business the victim uses, such as a bank. When the user visits the page through whatever means, be it an email phishing attempt, a hyperlink inside a forum, or via a search engine, the victim reaches a website which they believe to be the legitimate site instead of a fraudulent copy. All information entered by the victim is collected for sale or other malicious use.
+
+In the early days of the Internet, these types of duplicate pages were fairly easy to spot due to their shoddy craftsmanship. Today the fraudulent sites may look like a picture-perfect representation of the original. By checking the URL in the web browser, it is usually pretty easy to spot a fraud. If the URL looks different than the typical one, this should be considered highly suspect. If the pages listed as insecure and HTTPS is not on, this is a red flag and virtually guarantees the site is either broken or a phishing attack.
+
+Sign Up
+Security & speed with any Cloudflare plan
+Get started free
+What is spear phishing?
+This type of phishing is directed at specific individuals or companies, hence the term spear phishing. By gathering details or buying information about a particular target, an attacker is able to mount a personalized scam. This is currently the most effective type of phishing, and accounts for over 90% of the attacks.
+
+What is clone phishing?
+Clone phishing involves mimicking a previously delivered legitimite email and modifying its links or attached files in order to trick the victim into opening a malicious website or file. For example, by taking an email and attaching a malicious file with the same filename as the original attached file, and then resending the email with a spoofed email address that appears to come from the original sender, attackers are able to exploit the trust of the initial communication in order to get the victim to take action.
+
+What is whaling?
+For attacks that are directed specifically at senior executives or other privileged users within businesses, the term whaling is commonly used. These type of attacks are typically targeted with content likely to require the attention of the victim such as legal subpoenas or other executive issues.
+
+Another common vector of this style of attack is whaling scam emails that appear to come from an executive. A common example would be an email request coming from a CEO to someone in the finance department requesting their immediate help in transferring money. Lower-level employees are sometimes fooled into thinking the importance of the request and the person it’s coming from supersede any need to double check the request’s authenticity, resulting in the employee transferring large sums of money to an attacker.
+
+How does Cloudflare help organizations defend against phishing attacks?
+Phishing can occur over a variety of attack vectors, but one of the biggest is email. Many email providers automatically try to block phishing emails, but sometimes they still get through to users, making email security an important concern.
+
+Cloudflare Area 1 Email Security offers advanced phishing protection, crawling the Internet and investigating phishing infrastructure to identify phishing campaigns in advance. Learn how Cloudflare Area 1 works.
+
+What Is Phishing? A Brief Guide to Recognizing and Combating Phishing Attacks
+What Is Phishing?
+
+In this day and age, cybersecurity is at the forefront of operational priorities. High-profile data breaches have taught the hard-earned lesson that protecting data and personally identifiable information (PII) needs to take precedence. Among one of the most prevalent threats to organizations is phishing.
+
+In a recent survey, 92% of businesses surveyed reported they had fallen victim to phishing attacks. This is due to the reality that these attacks rely on human error rather than the strength of your systems, and they can also be difficult to combat successfully. This article will provide an overview of phishing and will help you to understand how you can avoid these attacks.
+
+Phishing Defined
+Phishing is a type of cyberattack that uses email (traditional phishing), phone (vishing or voice phishing) or text (smishing or SMS phishing) to entice individuals into providing personal or sensitive information to cybercriminals. This information can range from passwords, credit card information and social security numbers to details about a person or an organization. Attackers pose as legitimate representatives to gain this information, which is then used to access accounts or systems. Ultimately, once in the hands of adversaries, it often leads to identity theft or significant financial loss.
+
+How Does Phishing Work?
+It is common for scammers to use various methods of communication to perpetrate phishing scams, including emails, texts and phone calls. In order to gain trust, attackers often masquerade as legitimate representatives of organizations. They will construct emails that appear genuine or make phone calls in a manner that sounds like valid requests for information.
+
+In most cases, phishing involves human interaction and manipulation to trick victims into clicking on a malicious link or unknowingly providing information to an attacker. Often, people conducting phishing attacks attempt to impersonate tech support, banks or government organizations in order to obtain passwords and personal information.
+
+History of Phishing
+The term phishing was first used in reference to a program developed by a Pennsylvania teen known as AOHell. The program used a credit-card-stealing and password-cracking mechanism, which was used to cause disruptions for AOL. This software spawned other automated phishing software, such as the one later used by the Warez community.
+
+The first organized phishing attacks are attributed to the Warez community, a group known for hacking and piracy. These phishing scams targeted AOL users in 1996. The Warez community infamously used an algorithm to generate random credit card numbers. When the group landed on a valid number, they were able to create real AOL accounts that they used to scam other AOL users. This was later followed by social engineering tactics when members of the group impersonated AOL employees in an attempt to gather more sensitive information.
+
+After this phishing scam, attackers quickly moved on to email as a method for trying to gather useful intel. Phishing emails ranged in sophistication from the less-than-convincing Nigerian princes asking for financial backing to the much more convincing 2003 Mimail virus, which originated from an email claiming to be from PayPal.
+
+The email containing the Mimail virus was fairly successful at convincing users to enter their username and password credentials. The email warned of expiring credit card information with a request to update it as soon as possible. The link took visitors to a window with PayPal’s logo, and many users entered their password and credit card information on what turned out to be a malicious website.
+
+Today, phishing can use multiple communication methods and has evolved from low-level schemes to the sophisticated targeting of individuals and organizations. Some phishing attempts that many cybercriminals use today can be almost identical to the real company, and it takes a keen eye and knowing what to look for to successfully avoid these attempts.
+
+Types of Phishing
+Phishing can take on many different forms in order for cybercriminals to execute their schemes. Here are several variations of a phishing attack that is used to steal data:
+
+Angler Phishing: This cyberattack comes by way of social media. It may involve fake URLs, instant messages or profiles used to obtain sensitive data. Social profiles are also inspected by attackers for any personal information that can be used for social engineering. Read more about phishing attacks and how to identify fake URLs and email addresses.
+Clone Phishing: Clone phishing involves the exact duplication of an email to make it appear as legitimate as possible.
+Domain Spoofing: In this category of phishing, the attacker forges a company domain, which makes the email appear to be from that company. Threat actors commonly do this with large and notable business identities to dupe users into actively volunteering their information.
+Email Phishing: Phishing emails are often the first to come to mind when people hear the term phishing. Attackers send an illegitimate email asking for personal information or login credentials.
+Search Engine Phishing: Rather than sending correspondence to you to gain information, search engine fishing involves creating a website that mimics a legitimate site. Site visitors are asked to download products that are infected with malware or provide personal information in forms that go to the attacker.
+Smishing: Combine SMS with phishing, and you have the technique called smishing. With smishing, attackers send fraudulent text messages in an attempt to gather information like credit card numbers or passwords.
+Spear Phishing: Spear phishing is particularly targeted as attackers take time to gather details that they can use to present themselves as trusted entities. They then construct personalized phishing emails, including details that make it seem as though the email is coming from a friendly source.
+Whaling: A whaling attack targets the big fish, or executive-level employees. An attack of this sort often involves more sophisticated social engineering tactics and intelligence gathering to better sell the fake.
+Vishing: Combine VoIP with phishing and you get vishing. This type of phishing involves calls from a fraudulent person attempting to obtain sensitive information.
+How To Prevent and Protect Against Phishing
+To help prevent phishing attacks, you should observe general best practices, similar to those you might undertake to avoid viruses and other malware.
+
+First, make sure your systems are updated to help protect against known vulnerabilities. Protect devices and systems with reputable security software and firewall protection. You can also add software that watches for PII being sent over email or other insecure methods.
+
+Since the weak link in phishing attacks is the end user, you should provide proper end-user security awareness training and educate your team on how to recognize a phishing scam. The key to protecting against phishing lies in the ability to recognize the cyberattack as illegitimate.
+
+Here are some key concepts to include in end-user training:
+
+Instruct users to choose strong passwords and be wary of posting personal details on social media. Information like birth dates, addresses and phone numbers are valuable to an attacker.
+If there are any suspicions about an email or social post, report the email or communication to the IT team to have them examine the situation more in-depth to determine if it is a phishing scheme.
+Only open attachments from a vetted and trusted source. When in doubt, communicate with the alleged sender directly. If the sender is non-responsive or vague about the context, it might be best to assume it was a phishing attempt and report it directly to the IT and/or the security team.
+Note any language differences in messaging or emails that vary from legitimate organizational communications.
+Never give away personal information in an email or unsolicited call. For instance, financial institutions will never call and ask for login credentials or account info because they already have it.
+Inspect emails for typos and inaccurate grammar. This is usually a dead giveaway of less sophisticated phishing scams.
+Don’t supply personal information via email or text.
+Beware of urgent or time-sensitive warnings. Phishing attacks often prompt action by pretending to be urgent. For example, receiving a fake email from your bank asking you to update your information now! Your financial institution often will not email or call you directly unless it is necessary.
+Verify emails and other correspondence by contacting the organization directly. If you think something is fishy (okay, bad pun), a phone call can quickly identify a legitimate call from a fake one.
+Remember, when it comes to protecting yourself from a phishing attack, acting skeptical is often a wise move to better protect against these schemes.
+
+What’s the Difference Between Ransomware, Malware, Social Engineering and Phishing?
+Ransomware, malware, social engineering and phishing all encompass different forms of malicious threats to consumers and companies:
+
+Malware is a general term formed by the words “malicious” and “software” that describes different types of software intended to compromise systems, obtain sensitive data or gain unsanctioned access to a network.
+Ransomware is a category of malware where attackers use various methods to encrypt your data, make it inaccessible or bar you from entry to a particular system or device. Attackers then demand a ransom in exchange for reinstating your access.
+Social Engineering is a tactic used by cybercriminals to extract sensitive details by way of human manipulation. With social engineering, hackers connect with users while pretending to represent a legitimate organization and seek to ascertain critical information such as account numbers or passwords.
+Phishing is a form of social engineering that involves communication via email, phone or text requesting a user take action, such as navigating to a fake website. In both phishing and social engineering attacks, the collected information is used in order to gain unauthorized access to protected accounts or data.
+The information in this guide serves as an introduction to the threats posed by phishing, but it is far from comprehensive. Phishing and the cybersecurity world change on a daily basis, with attacks becoming increasingly more sophisticated and more challenging to identify. The best way to combat cyberattacks is to stay informed about the latest attacks and increase security awareness among consumers and your employees from being a victim of a phishing scheme.
+
+WHAT IS PHISHING?
+Phishing is a type of scam. It involves scammers sending communication (usually email but may also be a phone call or SMS) disguised as being from a trusted sender in order to steal confidential information or to make it unavailable.
+
+In the VPS, phishing attacks often involve an employee receiving a scam email containing a hyperlink or an attachment. Where the employee clicks on the link or opens the attachment, they are typically taken to a website where malicious software is installed on their device or they are asked to provide confidential information (such as a username and password). The scammer will then often try to gain access to the employee’s device and accounts.
+
+These phishing emails are often designed to look genuine by copying the format used by the organisation or individual that the scammer is disguised as. In some instances, the phishing emails have even been sent from another VPS employee’s email address where that employee has had their email account compromised.
+
+Where a scammer gains access to your information through phishing, they will often use it to carry out further fraudulent activities. The scammer may:
+
+attempt to gain access to information you hold on your device;
+steal money from you or others at the organisation you work for; or
+attempt to use your email to send further phishing attempts to your contacts, possibly while masquerading as you.
+Below are two examples of the phishing attempts which highlight the various methods scammers use and the potential impact they could have.
+
+Example 1
+
+Robert and Jennifer both work at Victorian Water, a VPS organisation. Robert received an email which appeared to have been sent from Jennifer’s Victorian Water email address.
+
+The email stated: “Hey Robert, click here to view the financial statements for the year.” Robert clicked the link which took him to a website, where he was asked to enter his Victorian Water Office365 username and password to view the document.
+
+In this example, the scammer had already compromised Jennifer’s Victorian Water Office365 account allowing them to send further phishing attempts disguised as being from Jennifer.
+
+The link in the email that Robert clicked sent him to an illegitimate website setup by the scammer. By Robert entering his Victorian Water Office365 username and password, the scammer was able to steal this information.
+
+The scammer then used this information to login to Robert’s Victorian Water Office365 account; view all of the documents he has access to; and send further phishing emails from Robert’s Victorian Water email address, perpetuating the scam.
+
+Example 2
+
+Robert works at Victorian Water, a VPS organisation. Robert received an email which claimed to be from a local that he frequently deals with.
+
+The email included a PDF attachment but no text. Robert was curious to see what was in the PDF, so he opened the PDF. This caused a malicious program to be installed on Robert’s PC.
+
+The malicious program created a rule in Robert’s Outlook email client, which forwarded to the scammer, emails in Robert’s email account, with key words such as ‘invoice’ or ‘credit card.’
+
+Robert was unaware of this rule, and so it went unnoticed for a period of 3 months. During the 3 months, the rule sent over 300 emails from Robert’s email account to the scammer.
+
+The emails contained financial information belonging to Victorian Water’s customers, which the scammer could try to further exploit.
+
+HOW CAN YOU IDENTIFY A PHISHING ATTEMPT?
+The below example illustrates some common signs that a communication is a phishing attempt.
+
+phishing email example
+
+It is unexpected or creates a sense of urgency for you to do something – This might be by sending you an email that is unexpected so you don’t know how to react (e.g. telling you that you have received a missed call and sending you to a website to hear it) or by creating a sense of urgency so that you don’t have time to think about how to react (e.g. telling you that one of your accounts is about to be terminated unless you act quickly). In the example above, the scammer uses the wording ‘important update’ to create a sense of urgency for you to click on the link they have provided.
+It asks you to click a link, open an attachment or sends you to a website which asks you to enter your information – For the phishing attempt to be successful, the scammer needs you to perform an action. In the example above, the scammer asks recipients to click on a link and enter their union username and password combination.
+The link suggests that it will take you to a legitimate website but, when you hover over the link, it shows that it is actually for a different website – In the example above, the link appears legitimate, sending recipients to australianfisheriesunion.com.au. However, recipients who hover over the link will see that if they click on it, it will actually send them to a different website at www.fakelinks.com.au.
+It asks for information that the real or legitimate sender would not necessarily need to know – In the example above, the scammer would send the recipient to a fake website where they would ask them to enter their real username and password combination that the recipient uses for their union membership.
+WHAT STEPS CAN VPS ORGANISATIONS TAKE TO PROTECT AGAINST PHISHING ATTACKS?
+Include security awareness in your organisation’s culture.
+By raising awareness of the signs and dangers of phishing attacks, VPS employees will be able to identify them; be less likely to fall for them; or at least be able to flag an issue and report it to you so you can take timely steps to contain the incident.
+Use spam filters or secure email gateways to block deceptive emails from reaching VPS employees.
+Spam filters and secure email gateways monitor incoming emails for unwanted or fraudulent content. Once identified, they prevent them from ever reaching a VPS employee’s inbox.
+Enable multifactor authentication (MFA) and anomaly login policies.
+Even if an employee provides information to a scammer, these measures decrease a scammer’s ability to gain access to the employee’s work account and increase your ability to detect and respond to incidents in a timely manner.
+Report phishing attempts to CIRS and OVIC.
+You should report phishing attempts to the Victorian Government Cyber Incident Response Service by emailing cybersecurity@dpc.vic.gov.au who can help you respond to the incident.You should also report security incidents to OVIC by emailing a copy of our incident notification form to incidents@ovic.vic.gov.au or contacting us at privacy@ovic.vic.gov.au for privacy advice.
+WHAT STEPS CAN VPS EMPLOYEES TAKE TO PROTECT AGAINST PHISHING ATTACKS?
+Watch out for fake links or attachments.
+Where you suspect an email to be a phishing attempt, contact your IT team. Do not open any attachments, click any links or forward the email to another device.
+Do not provide information to unverified sources.
+If you are unsure about whether you should be providing your information, check with your Privacy Officer or IT team. If the email is from someone familiar but the contents appears surprising or suspicious, contact them on the phone number you already hold to verify if they actually sent it.
+If you receive a phishing email, notify your IT department.
+If you think you have fallen for a phishing attempt or notice suspicious activity on your device, immediately disconnect from the internet and notify your IT team. Do not shut down or restart your device.

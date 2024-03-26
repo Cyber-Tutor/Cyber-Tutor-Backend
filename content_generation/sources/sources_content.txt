@@ -1,0 +1,1136 @@
+1. KEEP A CLEAN MACHINE
+Keep all software on internet connected devices – including personal computers, smartphones and tablets – current to reduce risk of infection from ransomware and malware. If you want to “set it and forget it,” configure your devices to automatically update or to notify you when an update is available. 
+
+2. CREATE LONG, UNIQUE PASSWORDS
+Length trumps complexity. Strong passwords are at least 12 characters long and include letters, numbers and symbols. Ideally, your password is not recognizable as a word or phrase. And, yes, you should have a unique password for each online account. Sounds hard to remember? Using a password manager has never been easier (we’ll say more in a second) – many smartphones and web browsers include password managers and even suggest strong passwords. Otherwise, we recommend coming up with a password that is actually a “passphrase,” that is, a sentence that is at least 12 characters long. Focus on positive sentences or phrases that you like to think about and are easy to remember, such as ILov3StayingSafeOnl1ne! (but don’t use that one).  
+
+3. USE A PASSWORD MANAGER
+It’s time to ditch the notebook if that’s where you keep your passwords – use it for doodles. Ditto for that Notes app or word processing doc – save the hard drive space. Instead, the simplest, most secure way to manage unique passwords is through a password manager application. A password manager is software created to manage all your online credentials like usernames and passwords. Many are free. Often, browsers and device operating systems include password management programs. Password managers store your passwords in an encrypted database (think of it as your personal data vault). These programs also generate new passwords when you need them. Really, it has never been easier to safely generate, store and access your passwords. 
+
+4. ENABLE MULTI-FACTOR AUTHENTICATION
+Multi-factor authentication (MFA), sometimes called 2-factor authentication, adds a whole other level of security to your key accounts. MFA includes biometrics (think face ID scans or fingerprint access), security keys or apps that send you unique, one-time codes when you want to log on to a sensitive account. We recommend you use MFA whenever offered. Read more about the different types of MFA. 
+
+5. THINK BEFORE YOU CLICK
+What’s the most common way for cybercriminals to get your sensitive information? It’s when you click on something you shouldn’t have. Malicious links in email, tweets, texts, posts, social media messages and malicious online advertising (known as malvertising) are a direct way for hackers to get your sensitive information. Don’t make it easy for them. Be wary of clicking on links or downloading anything that comes from a stranger or that you were not expecting. Whenever you get an email or message, count to five – usually that’s all the time you need to determine if the missive seems authentic or not.  
+
+6. REPORT PHISHING
+One of the best ways to take down cybercriminals is by reporting phishing attempts, and nowadays its easier than ever. If the email came to your work email address, report it to your IT manager or security team as quickly as possible. If you’re at home and the email came to your personal email address, do not click on any links (even the unsubscribe link) or reply back to the email. Most email programs and social media platforms allow you to report phishing attempts. But don’t keep that phishing message around – delete it ASAP. You can further protect yourself by blocking the sender from your email program, social media platform or phone. 
+
+7. USE SECURE WI-FI
+Public wireless networks and hotspots are unsecured, which means that anyone could potentially see what you are doing on your laptop or smartphone while you are connected to them. Limit what you do on public WiFi. Especially avoid logging in to key accounts like email and financial services. Consider using a virtual private network (VPN) or a personal/mobile hotspot if you need a more secure connection. 
+
+8. BACK IT UP
+The best way to protect your valuable work, music, photos, data and other digital information is to make copies and store them safely. If you have a copy of your data and your device falls victim to ransomware or other cyber threats, you will be able to restore the data from a backup. If you break your computer or it crashes, you won’t lose the data along with the device. Use the 3-2-1 rule as a guide to backing up your data. The rule is: keep at least three (3) copies of your data, and store two (2) backup copies on different storage media, with one (1) of them located offsite. One of these storage possibilities can be backing up to the cloud, which are secure computer servers you can access through an account.  
+
+9. CHECK YOUR SETTINGS
+Every time you sign up for a new account, download a new app or get a new device, immediately configure the privacy and security settings to your comfort level for information sharing. Regularly check these settings to make sure they are still configured to your comfort. Audit your apps, platforms and games every few months and delete ones you no longer use – then you don’t need to check their settings! 
+
+10. SHARE WITH CARE
+Think before posting about yourself and others online. Consider what a post reveals, who might see it and how it might affect you or others. 
+
+LEARN MORE
+Spam and Phishing: Cybercriminals spend each day polishing their skills in luring people to click on malicious links or open bad attachments.
+
+Online Shopping: Just like you would watch your wallet when at the store, it’s crucial to protect yourself when shopping online. 
+
+Back it Up: Protect yourself against data loss by making backups – electronic copies – of important files.
+
+Malware, Botnets and Ransomware: The internet is a powerful, useful tool, but in the same way that you shouldn’t drive without buckling your seat belt or ride a bike without a helmet, you shouldn’t venture online without taking some basic precautions.
+
+Romance Scams: We all know that people online aren’t always as they appear. However, tens of thousands of internet users fall victim to online romance scams each year, and it can happen to anyone.
+
+Tax Time Safety: Tax season can be a stressful time for many Americans, and while scams are prevalent year-round, there is often a greater proliferation during tax time. Stay safe online while filing your taxes with these best practices, tips and resources.
+
+Spring Clean Your Online Life: A messy digital life leaves your money, identity and personal information vulnerable to bad actors. Keep yourself and your family safe online with these quick tips for a spotless digital space.
+
+Vacation and Travel Tips: Stay cyber safe while away from home by following some simple practices to help keep your devices safe and your vacation plans from going awry.
+
+Creating Strong Passwords
+Last Reviewed: August 18, 2023
+
+Reusing passwords is a dangerous security practice. If someone gets ahold of your password —whether that's from a data  breach, or wherever else—they can often gain access to any other account you used that same password. The solution is to use unique passwords everywhere and take additional steps to secure your accounts when possible.
+
+Creating Strong Passwords Using Password Managers anchor link
+A password manager  is a tool that creates and stores unique passwords for you, so you can use many different passwords on different sites and services without having to memorize them. Password managers:
+
+Generate strong passwords that a human being would be unlikely to guess.
+Store several passwords (and responses to security questions) safely.
+Protect your passwords with a single master password  (or passphrase ).
+Sync passwords between your devices, so you can access these complex passwords from anywhere.
+Choosing the right password manager can take some research, but you can follow our guide to help ease the process.
+
+Passwords managers may not be for everyone, but a good password manager does its best to mitigate potential security problems. It's still important to remember:
+
+Using a password manager creates a single point of failure.
+Password managers are an obvious target for adversaries.
+This is why you should have a strong master password and enable two-factor authentication  when possible. But if a powerful adversary  like a government is targeting you, it’s important to carefully choose the right password manager and set it up for maximum security.
+
+For some people, a low-tech solution might be better than a password manager. It depends on your threat model , but having different passwords for each site written on a piece of paper and kept in a secure location is better than reusing a single password on every site.
+
+Creating Strong Passwords Using Dice anchor link
+You should memorize a few passwords that need to be particularly strong. These include:
+
+Passwords for your device
+Passwords for encryption  (like full-disk encryption)
+The master password, or “passphrase,” for your password manager
+Your email password
+One of many difficulties when people choose passwords themselves is that people aren't very good at making random, unpredictable choices. An effective way of creating a strong and memorable password is to use dice and a word list to randomly choose words. Together, these words form your “passphrase.” A "passphrase" is a type of password that is longer for added security. For disk encryption and your password manager, we recommend selecting a minimum of six words.
+
+Why use a minimum of six words? Why use dice to pick words in a phrase randomly? The longer and more random the password, the harder it is for both computers and humans to guess. To find out why you need such a long, hard-to-guess password, here’s a video explainer.
+
+Password managers make strong passphrases for you, but if you want to try an analog version to learn how it works, you can use one of EFF's standard word lists, or a fandom-inspired word list.
+
+If your computer or device gets compromised and spyware is installed, the spyware can watch you type your master password and could steal the contents of the password manager. So it's still very important to keep your computer and other devices clean of malware  when using a password manager.
+
+A Word About “Security Questions” anchor link
+Be careful with the “security questions” that some websites use to confirm your identity. Honest answers to these questions are often publicly discoverable facts that a determined adversary can easily find and use to bypass your password entirely.
+
+Instead, give fictional answers that no one knows but you. For example, if the security question   asks:
+
+“What was the name of your first pet?”
+
+Your answer could be a random password generated from your password manager. You can also store these fictional answers in your password manager.
+
+Think of sites where you’ve used security questions and consider changing your responses. Do not use the same passwords or security question answers for multiple accounts on different websites or services.
+
+Multi-Factor Authentication and One-Time Passwords anchor link
+Strong, unique passwords make your account security much stronger. To further protect your accounts, enable two-factor authentication when you can.
+
+Some services offer two-factor authentication (also called 2FA, multi-factor authentication, or two-step verification), which requires you to possess two components (a password and a second factor) to gain access to your account. The second factor could be a one-off secret code or a number generated by an app running on a mobile device.
+
+Two-factor authentication using a mobile phone can be done in one of two ways:
+
+Your phone can run an authenticator application that generates security codes (most password managers can do this, or you can use a standalone application such as Authy), or you can use a stand-alone hardware device (such as a YubiKey).
+The service can send you an SMS text message or email with an extra security code that you need to type in whenever you log in.
+If you have a choice, pick the authenticator application or stand-alone hardware device instead of receiving codes by text message. It’s easier for an attacker to redirect these codes to their own phone than it is to bypass the authenticator.
+
+Some services, such as Google, also generate a list of one-time passwords, sometimes called single-use passwords. These are meant to be printed or written down on paper and carried with you. Each of these passwords works only once, so if one is stolen by spyware when you enter it, the thief won't be able to use it for anything in the future. 
+
+More useful than one-time passwords are backups of the security codes. Many authenticator applications offer optional backups, where your security codes are stored on a third-party server. This makes it so that if you lose your phone, you can restore the backup and easily get back into your accounts without finding those one-time passwords. 
+
+If you don't have a backup, and you didn't save the one-time passwords, you may lose access to your accounts forever. Like password managers, this has a security trade-off and some people may not want to back up the tokens. Check with the app's documentation to make sure the backups are end-to-end encrypted. If you are never asked to create a password for the backup, there's a good chance they are not.
+
+Sometimes, You May Need to Disclose Your Password anchor link
+Laws about revealing passwords differ from place to place. In some jurisdictions, you may be able to legally challenge a demand for your password, while in others, local laws allow the government to demand disclosure, and even imprison you on the suspicion that you may know a password or key . Threats of physical harm can be used to force someone to give up their password. Or you may find yourself in a situation, such as traveling across a border, where the authorities can delay you or seize your devices if you refuse to give up a password or unlock your device.
+
+Keeping Your Data Safe
+Last Reviewed: March 22, 2022
+
+Your computers–laptops, cell phones, tablets, and other devices–carry massive amounts of data . Your social contacts, private communications, documents, photos (many of which have confidential information of dozens, even thousands of people) are just some of the things on your devices that you’ll want to keep safe.
+
+Your data can be seized at the border, taken from you in the street, or burgled from your house and copied in seconds. Unfortunately, locking your device with passwords, PINs, or gestures may not protect your data if the device itself is seized. Depending on the type of device and how the data is stored on it, it may be relatively easy to bypass those ways of locking the device. An adversary  may be able to access the storage directly in order to copy or examine your data without your password .
+
+With that said, you can make it harder for those who physically steal your data to unlock its secrets. Here are a few ways you can help keep your data safe.
+
+Encrypt Your Data anchor link
+If you use encryption , your adversary needs both your device and your password to unscramble the encrypted data. Therefore, it's safest to encrypt  all of your data, not just a few folders. Most smartphones and computers offer complete, full-disk encryption as an option.
+
+For smartphones and tablets:
+
+Android offers full-disk encryption when you first set up your device on newer devices, or anytime afterwards under its “Security” settings for all devices. Older devices may not have this option on by default, so it’s best to check under the “Security” menu.
+Apple devices such as the iPhone and iPad describe it as “Data Protection” and turn it on by default when you set a passcode on your device when setting it up.
+For computers:
+
+Apple provides a built-in, full-disk encryption feature on macOS called FileVault.  
+Linux distributions usually offer full-disk encryption when you first set up your system.
+Windows Vista or later includes a full-disk encryption feature called BitLocker.
+BitLocker's code is closed and proprietary, which means it is hard for external reviewers to know exactly how secure it is. Using BitLocker requires you trust Microsoft provides a secure storage system without hidden vulnerabilities. On the other hand, if you're already using Windows, you are already trusting Microsoft to the same extent. If you are worried about surveillance from the kind of adversaries who might know of or benefit from a backdoor in either Windows or BitLocker, consider an alternative open-source operating system  such as GNU/Linux or BSD, especially a version that has been hardened against security attacks, such as Tails or Qubes OS. Alternatively, consider installing an alternative disk encryption software, Veracrypt, to encrypt your hard drive.
+
+Remember: Whatever your device calls it, encryption is only as good as your password. If an adversary has your device, they have all the time in the world to figure out your passwords. An effective way of creating a strong and memorable password is to use dice and a word list to randomly choose words. Together, these words form your “passphrase .” A “passphrase” is a type of password that is longer for added security. For disk encryption we recommend selecting a minimum of six words. Check out our guide to Creating Strong Passwords for more information.
+
+It may be unrealistic for you to learn and enter a long passphrase on your smartphone or mobile device. So, while encryption can be useful to prevent casual access, you should preserve truly confidential data by keeping it hidden from physical access by adversaries, or cordoned away on a much more secure device.
+
+Create a Secure Device anchor link
+Maintaining a secure environment can be hard. At best, you have to change passwords, habits, and perhaps the software you use on your main computer or device. At worst, you have to constantly think about whether you're leaking confidential information or using unsafe practices. Even when you know the problems, you may not be able to employ solutions because sometimes people with whom you need to communicate use unsafe digital security practices. For instance, work colleagues might want you to open email attachments from them, even though you know your adversaries could impersonate them and send you malware .
+
+So what’s the solution? Consider cordoning off valuable data and communications onto a more secure device. You can use the secure device to keep the primary copy of your confidential data. Only use this device occasionally and, when you do, consciously take much more care over your actions. If you need to open attachments, or use insecure software, do it on another machine.
+
+An extra, secure computer may not be as expensive an option as you think. A computer that is seldom used, and only runs a few programs, does not need to be particularly fast or new. You can buy an older netbook for a fraction of the price of a modern laptop or phone. Older machines also have the advantage that secure software like Tails may be more likely to work with them than newer models. Some general advice is almost always true: When you buy a device or an operating system, keep it up-to-date with software updates. Updates will often fix security problems in older code that attacks can exploit. Note that some older operating systems may no longer be supported, even for security updates.
+
+When Setting up a Secure Computer, What Steps Can You Take to Make it Secure? anchor link
+Keep your device well-hidden and don’t discuss its location—somewhere where you are able to tell if it has been tampered with, such as a locked cabinet.
+Encrypt your computer’s hard drive with a strong passphrase so that if it is stolen, the data will remain unreadable without the passphrase.
+Install a privacy- and security-focused operating system like Tails or Qubes. Although either of these options can be an intimidating change from the operating systems you might normally be used to, using either one for simply storing, editing, and writing confidential information will be much easier than if you were to default to them for all your regular activities.
+Keep your device offline. Unsurprisingly, the best way to protect yourself from Internet attacks or online surveillance is to never connect to the Internet. You could make sure your secure device never connects to a local network or Wifi and only copy files onto the machine using physical media, like DVDs or USB drives. In network security, this is known as having an “air gap ” between the computer and the rest of the world. While extreme, this can be an option if you want to protect data that you rarely access, but never want to lose (such as an encryption key , a list of passwords, or a backup copy of someone else's private data that has been entrusted to you). If you only need the secure device to store sensitive data, an encrypted USB key  kept safely hidden, could be the simplest solution.
+Don’t log in to your usual accounts. If you do use your secure device to connect to the Internet, create separate web or email accounts that you use for communications from this device, and use Tor (see guides for Linux, macOS, Windows, and smartphones) to keep your IP address  hidden from those services. If someone is choosing to specifically target your identity with malware, or is only intercepting your communications, separate accounts and Tor can help break the link between your identity, and this particular machine.
+While having one secure device that contains important, confidential information may help protect it from adversaries, it also creates an obvious target. There’s also a risk  of losing the only copy of your data if the machine is destroyed. If your adversary would benefit from you losing all your data, don't keep it in just one place, no matter how secure. Encrypt a copy and keep it somewhere else.
+
+A variation on the idea of a secure machine is to have an insecure machine: a device that you only use when going into a dangerous place or attempting a risky operation. Many journalists and activists, for instance, take a basic netbook with them when they travel. This computer does not have any of their documents or usual contact or email information on it so there’s minimal loss if it is confiscated or scanned. You can apply the same strategy to mobile phones. If you usually use a smartphone, consider buying a cheap throwaway  or burner phone  when travelling for specific communications.
+
+What Should I Know About Encryption?
+Last Reviewed: November 24, 2018
+
+You have probably heard the term “encryption ” used in several contexts and associated with different words. Generally, encryption refers to the mathematical process of making a message unreadable except to a person who has the key  to “decrypt ” it into readable form.
+
+Throughout history, people have used encryption to send messages to each other that (hopefully) couldn’t be read by anyone besides the intended recipient. Today, we have computers that are capable of performing encryption for us. Digital encryption technology has expanded beyond simple secret messages; today, you can use encryption for more elaborate purposes, for example, to verify the author of messages.
+
+Encryption is the best technology we have to protect information from bad actors, governments, and service providers, and it has developed to the point that it is virtually impossible to break—when used correctly.
+
+In this guide, we’ll look at two major ways encryption is applied: to scramble data  at rest and data in transit.
+
+Encrypting Data At Rest anchor link
+Data “at rest” is data that is stored somewhere: on a mobile device, laptop, server, or external hard drive, for example. When data is at rest, it is not moving from one place to another.
+
+One example of a form of encryption that protects data at rest is “full-disk” encryption (also sometimes called “device encryption”). Enabling full-disk encryption encrypts all the information stored on a device and protects the information with a passphrase  or another authentication method. On a mobile device or laptop, this usually looks just like a typical device lock screen, requiring a passcode, passphrase, or thumbprint. However, locking your device (i.e., requiring a password  to “unlock” your device) does not always mean that full-disk encryption is enabled.
+
+      
+A smart phone and laptop that each have a password-protected “lock” screen.
+Be sure to check how your operating system  enables and manages full-disk encryption. While some operating systems have full-disk encryption enabled by default, some operating systems do not. That means someone could access the data on your mobile device by merely breaking the device lock, but not having to break the encryption key  since the device itself is not encrypted. Some systems still store unencrypted plaintext on RAM, even when you are using full-disk encryption. RAM is temporary storage, which means that shortly after your device is powered down the memory typically can't be read, but a sophisticated adversary  could attempt a cold boot attack and conceivably retrieve the RAM contents.
+
+Full-disk encryption can protect your devices from people who have physical access to them. This is useful if you want to protect your data from roommates, coworkers or employers, school officials, family members, partners, police officers, or other law enforcement officials. It also protects the data on your devices if they are stolen or lost, like if you accidentally leave your phone on a bus or at a restaurant.
+
+There are additional ways to encrypt  data at rest. One option, known as “file encryption,” encrypts only specific, individual files on a computer or other storage device. Another option is “drive encryption” (also known as “disk encryption”): this encrypts all of the data on a specific storage area on a device.
+
+You can use these different types of encryption at rest in combination. For example, let’s say you wanted to protect sensitive information on your medical documents. You can use file encryption to separately encrypt an individual medical file stored on your device. You can then use drive encryption to encrypt the part of your device that this medical information is stored on. Finally, if you have enabled full-disk encryption on your device, everything—all medical information as well as every other file on the drive, including the files for the computer’s operating system—is encrypted.
+
+On Surveillance Self-Defense, we’ve written a couple guides for enabling encryption on your devices. Although you can find in-depth descriptions of encryption at rest options online (and here on SSD!), be aware that these options change frequently and instructions can become outdated quickly.
+
+Encrypting Data In Transit anchor link
+
+The diagram shows unencrypted data in transit—which is often the default setting for Internet service providers. On the left, a smartphone sends a green, unencrypted message to another smartphone on the far right. Along the way, a cellphone tower passes the message along to company servers and then to another cellphone tower, which can each see the unencrypted “Hello” message. All computers and networks passing the unencrypted message are able to see the message. At the end, the other smartphone receives the unencrypted “Hello” message.
+Data “in transit” is information that is moving over a network from one place to another. When you send a message on a messaging app, for example, that message moves from your device, to the app company’s servers, to your recipient’s device. Another example is web browsing: when you go to a website, the data from that webpage travels from the website’s servers to your browser.
+
+Some popular apps offer features that seem to protect messages, such as disappearing messages. However, just because a communication (like a chat or message) can feel secure, doesn’t mean that it actually is secure. Computers passing along your message may be able to look at the contents of your message.
+
+It’s important to verify that conversations between you and your recipient are encrypted—and to know whether they are encrypted via transport-layer encryption  or end-to-end encryption .
+
+There are two ways to encrypt data in transit: transport-layer encryption and end-to-end encryption. The type of encryption a service provider supports can be an important factor in deciding what services are right for you. The examples below illustrate the differences between transport-layer encryption and end-to-end encryption.
+
+Transport-layer encryption anchor link
+
+The diagram shows transport-layer encryption. On the left, a smart phone sends a green, unencrypted message: “Hello.” That message is encrypted, and then passed along to a cellphone tower. In the middle, the company servers are able to decrypt the message, re-encrypt it, and send it along to the next cellphone tower. At the end, the other smartphone receives the encrypted message, and decrypts it to read “Hello.”
+Transport-layer encryption, also known as transport layer security  (TLS), protects messages as they travel from your device to the app’s servers and from the app’s servers to your recipient’s device. In the middle, your messaging service provider—or the website you are browsing, or the app you are using—can see unencrypted copies of your messages. Because your messages can be seen by (and are often stored on) company servers, they may be vulnerable to law enforcement requests or leaking if the company’s servers are compromised.
+
+Transport-layer encryption example: HTTPS anchor link
+
+
+Do you notice the green lock and “https://” beside the web address for ssd.eff.org in the web address part of your browser window? HTTPS  is an example of transport-layer encryption that we encounter frequently on the web. It provides more security than unencrypted HTTP. Why? Because the servers of the HTTPS website you are browsing can see the data you enter while on their site (for example, messages, searches, credit card numbers, and logins) however this information is unreadable to eavesdroppers on the network.
+
+If someone is spying on the network and trying to see what websites users are visiting, an HTTP connection offers no protection. An HTTPS connection, on the other hand, hides which specific page on a website you navigate to—that is, everything “after the slash.” For example, if you are using HTTPS to connect to “https://ssd.eff.org/en/module/what-encryption” an eavesdropper can only see “https://ssd.eff.org”.
+
+The web is in the middle of a large shift to using HTTPS for all webpages. This is because HTTP lacks any meaningful security, and HTTPS is secure by default. Webpages that come to you over HTTP are vulnerable to eavesdropping, content injection, cookie stealing, login and password stealing, targeted censorship, and other problems.
+
+We recommend using EFF’s browser extension HTTPS Everywhere to receive the greatest amount of protection with HTTPS. HTTPS Everywhere ensures that if a website we know about offers HTTPS as well as HTTP, you’ll always be using the secure HTTPS version of the site.
+
+Just because a service uses HTTPS does not mean that the service necessarily protects the privacy of its users visiting its website. For example, an HTTPS-protected site may still use tracking cookies  or host malware .
+
+Transport-layer encryption example: VPN anchor link
+A Virtual Private Network  (VPN ) is another example of transport-layer encryption. Without a VPN, your traffic travels over your Internet service provider’s (ISP’s) connection. With a VPN, your traffic still travels over your ISP’s connection, but it will be encrypted between you and your VPN provider. If someone is spying on your local network and trying to see what websites you’re visiting, they will be able to see that you’re connected to a VPN, but not able to see what websites you are ultimately visiting. Your ISP can detect who your VPN provider is.
+
+While using a VPN hides your traffic from your ISP, it also exposes all your traffic to the VPN provider itself. The VPN provider will be able to see, store, and modify your traffic. Using a VPN essentially shifts your trust from your ISP to the VPN, so it’s important to make sure you trust your VPN provider to protect your data.
+
+For further advice on choosing a VPN that’s right for you, read SSD’s guide on VPNs.
+
+End-to-End Encryption anchor link
+
+The diagram shows end-to-end encryption. On the left, a smart phone sends a green, unencrypted message: “Hello.” That message is encrypted, and then passed along to a cellphone tower and company servers. At the end, the other smartphone receives the encrypted message, and decrypts it to read “Hello.” Unlike with transport-layer encryption, your ISP servers are not able to decrypt the message; Only the endpoints (the original devices sending and receiving encrypted messages) have the keys to decrypt the message.  
+End-to-end encryption protects messages in transit all the way from sender to receiver. It ensures that information is turned into a secret message by its original sender (the first “end”) and decoded only by its final recipient (the second “end”). No one, including the app you are using, can “listen in” and eavesdrop on your activity.
+
+Accessing end-to-end encrypted messages in an app on your device actually means that the app company itself can’t read them. This is a core characteristic of good encryption: even the people who design and deploy it cannot themselves break it.
+
+On Surveillance Self-Defense, we offer guides for using end-to-end encryption tools in our Communicating With Others guide.
+
+Transport-Layer Encryption or End-to-End Encryption? anchor link
+Important questions to ask to decide whether you need transport-layer encryption or end-to-end encryption are: Do you trust the app or service you are using? Do you trust its technical infrastructure? How about its policies to protect against law enforcement requests?
+
+If you answer “no,” to any of these questions, then you need end-to-end encryption. If you answer “yes” to them, then a service that supports only transport-layer encryption may suffice for you—but it is generally better to go with services that support end-to-end encryption when possible.
+
+ 
+
+We created the animation below to demonstrate how end-to-end and transport-layer encryption work for data in transit. On the left is an end-to-end encryption chat tool (a chat box using the Off-the-Record  (“OTR ”) instant messaging encrypted protocol ). On the right, is a transport-layer encryption chat box (encrypted through the Google Hangouts’ website use of HTTPS).
+
+
+
+In the GIF, the primary user types a message in the Google Hangouts chat box:
+
+“Hi! This is not end-to-end encrypted. Google can see our conversation.”
+
+This user also has an Off-the-Record (OTR) chat box open and enables the “private conversation” setting. On the OTR chat box, the descriptive text says:
+
+“Attempting to start a private conversation with [gmail account]. Private conversation with [gmail account] has started. However, their identity has not been verified.”
+
+Simultaneously, in the Google Hangouts chat box, gibberish ciphertext is being exchanged, showing that the users are now on the Off-the-Record (OTR) end-to-end encryption protocol. Every message passed through OTR chat box also appears in the Google Hangouts chat box, however, instead of being readable, it appears as gibberish. The other user types a message in the OTR client:
+
+“It looks like gibberish to anyone else.”
+
+The primary user writes:
+
+“Yup, it looks like nonsense.”
+
+The other user sends a smiley emoji.
+
+What Encryption In Transit Does Not Do anchor link
+Encryption is not a cure-all. Even if you are sending encrypted messages, the message will be decrypted by the person with whom you are communicating. If your endpoints (the devices that you are using for communication) are compromised, your encrypted communications can be compromised. Additionally, the person with whom you are communicating can take screenshots or keep records (logs) of your communication.
+
+If you automatically store backups of encrypted conversations to “the cloud” (other computers), be mindful to check that your backups are also encrypted. This ensures that your conversations are not only encrypted in transit, but also at rest.
+
+
+
+If you encrypt data in transit, it will protect the content of your communications, but will not encrypt metadata. For example, you can use encryption to scramble the messages between you and your friend into gibberish, but it does not hide:
+
+that you and your friend are communicating.
+that you are using encryption to communicate.
+other types of information about your communication, such as the location, times and length of communication.
+People with heightened surveillance concerns (such as those worried about active monitoring of their networks) can put themselves at risk  by only using encryption during sensitive times or for specific activities. Why? If you only use encryption sometimes, it could tie your metadata  to important dates and times. Therefore, use encryption as much as possible, even for mundane activities.
+
+Also, if you’re the only person using encryption on a network, this metadata may be seen as suspicious. This is why many encryption enthusiasts encourage everyone to use encrypted tools whenever they are able: to normalize the use of encryption for people who really need it.
+
+Putting It All Together anchor link
+Together, encrypting both data in transit and at rest will offer you more comprehensive security than using just one or the other. This is what information security experts call “defense in depth.” By utilizing multiple methods to defend your data, you can achieve a deeper level of protection.
+
+For example, if you send unencrypted messages (not encrypting your data in transit) from an encrypted mobile device (encrypting your data at rest), those messages will still be vulnerable to network eavesdropping and interception from governments, service providers, or technically-skilled adversaries. The record of the messages on your mobile device, however, will be protected from someone with physical access to your mobile device if they don’t have the passcode.
+
+Conversely, if you send end-to-end encrypted messages (encrypting your data in transit) on an unencrypted device (not encrypting your data at rest), those messages will be impermeable to snooping and eavesdropping on the network. If someone gets physical access to your mobile device, however, they will be able to access and read the messages.
+
+With these examples in mind, encrypting your data both while it’s in transit on the network and while it’s at rest on your device is ideal for protecting yourself from a wider range of potential risks.
+
+Key Concepts in Encryption
+Last Reviewed: November 26, 2018
+
+Under some circumstances, encryption  can be fairly automatic and simple. But there are ways encryption can go wrong. The more you understand it, the safer you will be against such situations. We recommend reading the “What Should I Know About Encryption?” guide first if you haven’t already.
+
+In this guide, we will look at five main ideas. These are important concepts for understanding encryption in transit:
+
+A cipher, a key 
+Symmetric and asymmetric encryption
+Private and public keys
+Identity verification for people (public key fingerprints)
+Identity verification for websites (security certificates)
+A Cipher, A Key anchor link
+You’ve probably seen something that, on its face, is not understandable to you. Maybe it looks like it’s in another language, or like it’s gibberish—there’s some sort of barrier to being able to read and understand it. This doesn’t necessarily mean that it’s encrypted.
+
+What differentiates something that is not understandable from something that’s encrypted?
+
+Encryption is a mathematical process used to scramble information, so that it can be unscrambled only with special knowledge. The process involves a cipher and a key.
+
+A cipher is a set of rules (an algorithm) for encrypting and decrypting. These are well-defined steps that can be followed as a formula.
+
+A key is a piece of information that instructs the cipher in how to encrypt  and decrypt . Keys are one of the most important concepts for understanding encryption.
+
+One Key or Many Keys? anchor link
+In symmetric encryption, there is one single key to both encrypt and decrypt information.
+
+
+Older forms of encryption were symmetric. For the “Caesar cipher” used by Julius Caesar, the key to encrypt and decrypt a message was a shift of three. For example, “A” would be changed to “D.” The message “ENCRYPTION IS COOL” would be encrypted to “HQFUBSWLRQ LV FRRO” using the key of three. That same key would be used to decrypt it back to the original message.
+Symmetric encryption is still used today—it often comes in the form of “stream ciphers” and “block ciphers,” which rely on complex mathematical processes to make their encryption hard to crack. Encryption today includes many steps of scrambling data  to make it hard to reveal the original content without the valid key. Modern symmetric encryption algorithms, such as the Advanced Encryption Standard (AES) algorithm, are strong and fast. Symmetric encryption is widely used by computers for tasks like encrypting files, encrypting partitions on a computer, completely encrypting devices and computers using full-disk encryption, and encrypting databases like those of password managers. To decrypt this symmetrically-encrypted information, you’ll often be prompted for a password . This is why we recommend using strong passwords, and provide tutorials for generating strong passwords to protect this encrypted information.
+
+Having a single key can be great if you are the only person who needs to access that information. But there’s a problem with having a single key: what if you wanted to share encrypted information with a friend far away? What if you couldn’t meet with your friend in person to share the private key? How could you share the key with your friend over an open Internet connection?
+
+Asymmetric encryption, also known as public key encryption , addresses these problems. Asymmetric encryption involves two keys: a private key (for decryption) and a public key (for encryption).
+
+
+
+Symmetric Encryption
+
+Asymmetric Encryption
+
+Fast
+Slow
+Doesn’t require a lot of computing power
+Requires a lot of computing power
+Useful for encrypting both large and small messages
+Useful for encrypting small messages
+Requires sharing the key for encryption and decryption
+The decryption key does not need to be shared — only the “public key” for encryption is shared
+Cannot be used for verifying identities (authentication)
+Can be used for identity verification (authentication)
+Symmetric and asymmetric encryption are often used together for encrypting data in transit.
+
+Asymmetric Encryption: Private and Public Keys anchor link
+Private and public keys come in matched pairs, because the private key and public key are mathematically tied together. You can think of it like a rock that is split in half. When held back together, the two halves fit in place to form the whole. No other rock-half will do. The public key and private key files are much the same, but are ultimately composed of computer-readable representations of very large numbers.
+
+
+
+Although it is called a “public key,” it can be confusing to think of the public key as an actual, literal key to open things. It doesn’t quite serve that function. For more in-depth information on public keys and private keys, see SSD’s deep dive on public key cryptography.
+
+
+A public key is a file that you can give to anyone or publish publicly. When someone wants to send you an end-to-end encrypted message, they’ll need your public key to do so.
+
+
+
+Your private key lets you decrypt this encrypted message. Because your private key allows you to read encrypted messages, it becomes very important to protect your private key. In addition, your private key can be used to sign documents so that others can verify that they really came from you.
+
+Since the private key is ultimately a file on a device that requires protection, we encourage you to password protect and encrypt the device where the private key is stored. On Surveillance Self-Defense, we have guides for strong passwords and device encryption.
+
+
+
+Public Key
+
+Private Key
+
+A file that can be shared widely (can be shared over the Internet easily)
+A file that must be kept safe and protected
+Sender needs the public key to encrypt information to the recipient
+Used to decrypt encrypted messages that are addressed to the matched public key
+Represented by a “public key fingerprint ,” which is used for verifying identities (authentication)
+Used for digital signatures, allowing a way to verify a sender’s identity (authentication)
+Can be optionally posted to permanent, publicly-accessible databases, such as “keyservers” (keyservers are prominent in PGP  encrypted email)
+ 
+In some ways, you can think of sending information in transit like sending a postcard. In the postcard illustration on the left (below), a sender writes: “HI! :-)” The sender addresses it to the message recipient. This message is unencrypted, and anyone passing the message along the way can read it.
+
+
+
+On the right is that same postcard, with the message encrypted between the sender and receiver. The message still conveys the message “Hi! :-)” but now it looks like a block of encrypted gibberish to the rest of us.
+
+How is this done? The sender has found the recipient’s public key. The sender addresses the message to the recipient’s public key, which encrypts the message. The sender has also included their signature to show that the encrypted message is really from them.
+
+Note that the metadata—of who is sending and who is receiving the message, as well as additional information like time sent and received, where it passed through, and so on—is still visible. We can see that the sender and receiver are using encryption, we can tell that they are communicating, but we can’t read the content of their message.
+
+Who Are You Encrypting To? Are They Who They Really Say They Are? anchor link
+Now, you might be wondering: “I get that my public key lets someone send me an encrypted message, and that my private key lets me read that encrypted message. But what if someone pretends to be me? What if they create a new public and private key, and impersonate me?”
+
+That’s where public key cryptography is especially useful: It lets you verify your identity and your recipient’s identity. Let’s look at the capabilities of the private key more closely.
+
+
+
+In addition to letting you read encrypted messages that are sent to your public key, your private key lets you place unforgeable digital signatures on messages you send to other people, as though to say “yes, this is really me writing this.”
+
+Your recipient will see your digital signature  along with your message and compare it with the information listed from your public key.
+
+Let’s look at how this works in practice.
+
+Identity Verification for People: Public Key Fingerprints anchor link
+When we send any kind of message, we rely on the good faith of people participating. It’s like in the real world: We don’t expect a mail delivery person to meddle with the contents of our mail, for example. We don’t expect someone to intercept a friend’s letter to us, open and modify it, and send it to us, as though nothing had been changed. But there’s a risk  this could happen.
+
+Encrypted messages have this same risk of being modified, however, public key cryptography allows us a way to double-check if information has been tampered with, by double-checking someone’s digital identity with their real-life identity.
+
+The public key is a giant block of text in a file. It is also represented in a human-readable shortcut called a key fingerprint.
+
+
+
+The word “fingerprint ” means lots of different things in the field of computer security.
+
+One use of the term is a “key fingerprint,” a string of characters like “65834 02604 86283 29728 37069 98932 73120 14774 81777 73663 16574 23234” that should allow you to uniquely and securely check that someone on the Internet is using the right private key.
+
+
+
+In some apps, this information can be represented as a QR code that you and your friend scan off each other’s devices.
+
+You can double-check that someone’s digital identity matches who they say they are through something called “fingerprint verification.”
+
+Fingerprint verification is best done in real-life. If you’re able to meet with your friend in person, have your public key fingerprint available and let your friend double-check that every single character from your public key fingerprint matches what they have for your public key fingerprint. Checking a long string of characters like “342e 2309 bd20 0912 ff10 6c63 2192 1928” is tedious, but worth doing. If you’re not able to meet in person, you can make your fingerprint available through another secure channel, like another end-to-end encrypted messaging or chat system, or posted on a HTTPS  site.
+
+Verifying someone’s key fingerprint gives you a higher degree of certainty that it’s really them. But it’s not perfect because if the private keys are copied or stolen (say you have malware  on your device, or someone physically accessed your device and copied the file), someone else would be able to use the same fingerprint. For this reason, if a private key is “stolen,” you will want to generate a new public and private key pair , and give your friends your new public key fingerprint.
+
+Summary: Public-Key Encryption Capabilities anchor link
+In general, using public-key encryption can provide users:
+
+Secrecy: A message encrypted with public-key cryptography  allows the sender to create a message that is secret, so that only the intended recipient can read it.
+
+Authenticity: A recipient of a message signed with public-key cryptography can verify that the message was authentically crafted by the sender if they have the sender’s public key.
+
+Integrity: A message signed or encrypted with public-key cryptography, in general, cannot be tampered with, otherwise the message will not decrypt or verify correctly. This means that even unintentional disruption of a message (e.g. because of a temporary network problem) will be detectable.
+
+Identity Verification for Websites and Services: Security Certificates anchor link
+You might wonder: “I can verify public key fingerprints, but what’s the equivalent for the web? How can I double-check that I’m using a service that really is the service that it says it is? How can I be sure that no one is interfering with my connection to a service?”
+
+Someone using end-to-end encryption  shares their public key widely so others can verify that they are who they say they are. Similarly, when using transport-layer encryption , your computer automatically checks to confirm whether a public key for a service is who it really says it is, and that it is encrypting to the intended service: this is called a security certificate .
+
+Below, you can see an example of the security certificate for SSD from a generic Web browser . This information is often accessible by clicking the HTTPS lock in your Web browser and pulling up the certificate details.
+
+
+
+The Web browser on your computer can make encrypted connections to sites using HTTPS. Websites often use security certificates to prove to your browser that you have a secure connection to the real site, and not to some other system that’s tampering with your connection. Web browsers examine certificates to check the public keys of domain names—(like www.google.com, www.amazon.com, or ssd.eff.org). Certificates are one way of trying to determine if you know the correct public key for a person or website, so that you can communicate securely with them. But how does your computer know what the right public key is for sites you visit?
+
+Modern browsers and operating systems include a list of trusted Certificate Authorities (CAs). The public keys for these CAs are pre-bundled when you download the browser or buy a computer. Certificate Authorities sign the public key of websites once they’ve validated them as legitimately operating a domain (such as www.example.com). When your browser visits an HTTPS site, it verifies that the certificate the site delivered has actually been signed by a CA that it trusts. This means that a trusted third-party has verified that the site is who they are claiming to be.
+
+Just because a site’s security certificate has been signed by a Certificate Authority, does not mean that the website is necessarily a secure site. There are limits to what a CA can verify—it can’t verify that a website is honest or trustworthy. For example, a website may be “secured” using HTTPS, but still host scams and malware. Be vigilant, and learn more by reading our guide on malware and phishing.
+
+From time to time, you will see certificate-related error messages on the Web. Most commonly this is because a hotel or cafe network is trying to intercept your connection to a website in order to direct you to their login portal before accessing the web, or because of a bureaucratic mistake in the system of certificates. But occasionally it is because a hacker, thief, or police or spy agency is breaking the encrypted connection. Unfortunately, it is extremely difficult to tell the difference between these cases.
+
+This means you should never click past a certificate warning if it relates to a site where you have an account or are reading any sensitive information.
+
+Putting It All Together: Symmetric Keys, Asymmetric Keys, & Public Key Fingerprints. anchor link
+The example of Transport-Layer Security Handshakes
+
+When using transport-layer encryption, your computer’s browser and the computer of the website you’re visiting are using both symmetric algorithms and asymmetric algorithms. 
+
+Let’s examine a concrete example of how all these ideas work together: when you connect to this HTTPS website (https://ssd.eff.org/), what happens?
+
+When a website uses HTTPS, your browser and the website’s server have a very fast set of interactions called “the handshake.” Your browser—the likes of Google Chrome, Mozilla Firefox, Tor Browser, and so forth—is talking to the server (computer) hosting our website, https://ssd.eff.org.
+
+In the handshake, the browser and server first send each other notes to see if they have any shared preferences for encryption algorithms (these are known as “cipher suites”). You can think of it like your browser and our ssd.eff.org server are having a quick conversation: they’re asking each other what encryption methods they both know and should communicate in, as well as which encryption methods they prefer. (“Do we both know how to use an asymmetric algorithm like RSA in combination with a symmetric algorithm like AES? Yes, good. If this combination of encryption algorithms doesn’t work for us, what other encryption algorithms do we both know?”)
+
+Then, your browser uses asymmetric encryption: it sends a public key certificate to ssd.eff.org to prove that you are who you say you are. The site's server checks this public key certificate against your public key. This is to prevent a malicious computer from intercepting your connection.
+
+Once your identity is confirmed, the site’s server uses symmetric encryption: it generates a new, symmetric, secret key file. It then asymmetrically encrypts your browser’s public key, and sends it to your browser. Your browser uses its private key to decrypt this file.
+
+If this symmetric key works, your browser and website’s server use it to encrypt the rest of their communications. (This set of interactions is the transport layer security  (TLS) handshake.) Thus, if all goes right in the handshake, your connection to ssd.eff.org shows up as Secure, with HTTPS beside ssd.eff.org.
+
+For a deeper dive on public and private keys, as well as verification, read our SSD guide on public key encryption next.
+
+Your Security Plan
+Last Reviewed: October 27, 2023
+
+Trying to protect all your data  from everything all the time is impractical and exhausting. But, have no fear! Security is a process, and through thoughtful planning, you can put together a plan that’s best for you. Security isn’t just about the tools you use or the software you download. It begins with understanding the unique threats you face and how you can counter those threats.
+
+In computer security, a threat  is a potential event that could undermine your efforts to defend your data. You can counter the threats you face by determining what you need to protect and from whom you need to protect it. This is the process of security planning, often referred to as “threat modeling .”
+
+This guide will share how to make a security plan for your digital information and how to determine what solutions are best for you.
+
+What does a security plan look like? Let’s say you want to keep your house and possessions safe. Here are a few questions you might ask, using some keywords like “assets ” and “adversaries” that will come up again later:
+
+What do I have inside my home that is worth protecting?
+
+Assets could include: jewelry, electronics, financial documents, passports, or photos
+Who do I want to protect it from?
+
+Adversaries could include: burglars, roommates, or guests
+How likely is it that I will need to protect it?
+
+Does my neighborhood have a history of burglaries? How trustworthy are my roommates/guests? What are the capabilities of my adversaries? What are the risks I should consider?
+
+How bad are the consequences if I fail?
+
+Do I have anything in my house that I cannot replace? Do I have the time or money to replace these things? Do I have insurance that covers goods stolen from my home? Are there other people in my life whose security will be compromised if these threats occur?
+
+How much trouble am I willing to go through to prevent these consequences?
+
+Am I willing to buy a safe for sensitive documents? Can I afford to buy a high-quality lock? Do I have time to open a security box at my local bank and keep my valuables there?
+
+Who are my allies?
+
+Are there people I live with that could help protect the things I care about? Are there neighbors who might know more about where we live and the resources we have access to?
+
+Once you have asked yourself these questions, you are in a position to assess what measures to take. If your possessions are valuable, but the probability of a break-in is low, then you may not want to invest too much money in a lock. But, if the probability of a break-in is high, you’ll want to get the best lock on the market, and consider adding a security system.
+
+You may already begin to sense that there is no definitive answer to these questions. Rather, you have to make judgments based on what you value and the likelihood that some threat could come to pass. That is the essence of this exercise; making educated decisions based on measuring severity of impact of threats, likelihood of them occurring, and prioritizing what things you want to protect.
+
+How do I make my own security plan? Where do I start? anchor link
+When building a security plan answer these six questions:
+
+What do I want to protect?
+Who do I want to protect it from?
+How bad are the consequences if I fail?
+How likely is it that I will need to protect it?
+How much trouble am I willing to go through to try to prevent potential consequences?
+Who are my allies?
+Let’s take a closer look at each of these questions.
+
+What do I want to protect? anchor link
+An “asset” is something you value and want to protect. In the context of digital security, an asset is usually some kind of information. For example it could be your emails, contact lists, direct messages, location, or other documents. Your devices themselves may also be assets.
+
+Make a list of your assets: data that you keep, where it’s kept, who has access to it, and what stops others from accessing it.
+
+Who do I want to protect it from? anchor link
+To answer this question, it’s important to identify who might want to target you or your information. A person or entity that poses a threat to your assets is an “adversary .” Examples of potential adversaries are your boss, law enforcement, your former partner, your business competition, your government, or a hacker on a public network. It could even include people you would otherwise trust who might accidentally compromise your assets by being careless with their own security plans.
+
+Make a list of potential or known adversaries, or those who might want to get ahold of your assets. Your list may include individuals, a government agency, or corporations. Depending on who your adversaries are, under some circumstances this list might be something you want to destroy after you’re done security planning.
+
+How bad are the consequences if I fail? anchor link
+There are many ways an adversary could gain access to your data. For example, an adversary could get you to click on a malicious link sent to your email address that compromises your computer. Or more simply, it could be someone screenshotting your private DM’s and using that information against you.
+
+The motives of adversaries differ widely, as do their tactics. Some might be highly technically sophisticated, while others are more like scams made to gain your trust and ultimately betray it.
+
+Security planning involves understanding how bad the consequences could be if an adversary successfully gains access to one of your assets. To determine this, you should consider the capability  of your adversary. For example, your mobile phone provider has access to all your phone records. Your government might have stronger capabilities.
+
+Write down what your adversary might want to do with your private data.
+
+How likely is it that I will need to protect it? anchor link
+Risk  is the likelihood that a particular threat against a particular asset will actually occur. It goes hand-in-hand with capability. For example, while your mobile phone provider has the capability to access all of your data, the risk of them posting your private data online to harm your reputation is low.
+
+It is important to distinguish between what might happen and the probability it may happen. For instance, there is a threat that your building might collapse, but the risk of this happening is far greater in San Francisco (where earthquakes are common) than in Stockholm (where they are not).
+
+Assessing risks is both a personal and a subjective process. Many people find certain threats unacceptable no matter the likelihood they will occur because the mere presence of the threat at any likelihood is not worth the cost. In other cases, people disregard high risks because they don’t view the threat as a problem.
+
+Write down which threats you are going to take seriously, and which may be too rare or too harmless (or too difficult to combat) to worry about.
+
+How much trouble am I willing to go through to try to prevent potential consequences? anchor link
+There is no perfect option for security. Not everyone has the same priorities, concerns, or access to resources. Your risk assessment will allow you to plan the right strategy for you, balancing convenience, cost, and privacy.
+
+For example, an attorney representing a client in a national security case may be willing to go to greater lengths to protect communications about that case, such as using encrypted email, than a family member who regularly emails funny cat videos.
+
+Write down what options you have available to you to help mitigate your unique threats. Note if you have any financial constraints, technical constraints, or social constraints.
+
+Who are my allies? anchor link
+As we’ve indicated several times throughout this guide—digital privacy and security is a team sport that’s best applied with the help of others. This is not just because there is power in numbers, but because your privacy and security overlap with others in your life. If a threat affects you, it could also affect them, and vice versa.
+
+Consider who you extend that trust to. For example, consider if someone may be an "insider threat," a person in your trusted network who could betray your security in one way or another. But don’t let the fear of an insider threat discourage you from making connections with others. Rather, use it as a guide to urge you to plan carefully and make sure others in your circles are taking their security seriously as well.
+
+Open up a dialogue with others who likely share the same concerns you do. Come to some shared agreements about how to care for each other, and what information to trust each other with.
+
+Security planning as a regular practice anchor link
+Keep in mind your security plan can change as your situation changes. Thus, revisiting your security plan frequently is good practice.
+
+Create your own security plan based on your own unique situation. Then mark your calendar for a date in the future. This will prompt you to review your plan and check back in to determine whether it’s still relevant to your situation.
+
+Communicating with Others
+Last Reviewed: June 08, 2020
+
+Telecommunication networks and the Internet have made communicating with people easier than ever, but have also made surveillance more prevalent. Without taking extra steps to protect your privacy, every phone call, text message, email, instant message, video and audio chat, and social media message could be vulnerable to eavesdroppers.
+
+Often the most privacy-protective way to communicate with others is in person, without computers or phones being involved at all. Because this isn’t always possible, the next best thing is to use end-to-end encryption .
+
+How Does End-to-End Encryption Work? anchor link
+End-to-end encryption ensures that information is turned into a secret message by its original sender (the first “end”), and decoded only by its final recipient (the second “end”). This means that no one can “listen in” and eavesdrop on your activity, including wifi cafe snoops, your Internet service provider, and even the website or app you are using itself. Somewhat counter-intuitively, just because you access messages in an app on your phone or information from a website on your computer does not mean that the app company or website platform itself can see them. This is a core characteristic of good encryption : even the people who design and deploy it cannot themselves break it.
+
+All the tools that have guides on the SSD site use end-to-end encryption. You can use end-to-end encryption for any kind of communication — including voice and video calls, messaging and chat, and email.
+
+(Not to be confused with end-to-end encryption is transport-layer encryption . While end-to-end encryption protects messages, for example, all the way from you to your recipient, transport-layer encryption only protects them as they travel from your device to the app’s servers and from the app’s servers to your recipient’s device. In the middle, your messaging service provider—or the website you are browsing, or the app you are using—can see unencrypted copies of your messages.)
+
+Under the hood, end-to-end encryption works like this: When two people want to communicate via end-to-end encryption (for example, Akiko and Boris) they must each generate pieces of data , called keys. These keys can be used to turn data that anyone can read into data that can be only read by someone who has a matching key . Before Akiko sends a message to Boris, she encrypts it to Boris's key so that only Boris can decrypt  it. Then she sends this encrypted message across the Internet. If anyone is eavesdropping on Akiko and Boris—even if they have access to the service that Akiko is using to send this message (such as her email account)—they will only see the encrypted data and will be unable to read the message. When Boris receives it, he must use his key to decrypt it into a readable message.
+
+Some services, like Google Hangouts, advertise “encryption,” but use keys that are created and controlled by Google, not the sender and final receiver of the message. This is not end-to-end encryption. To be truly secure, only the “ends” of the conversation should have the keys that let them encrypt  and decrypt. If the service you use controls the keys, that is transport layer-encryption instead.
+
+End-to-end encryption means that users must keep their keys secret. It can also mean doing work to make sure the keys used to encrypt and decrypt belong to the right people. Using end-to-end encryption can involve some effort—from simply choosing to download an app that offers it to proactively verifying keys—but it's the best way for users to verify the security of their communications without having to trust the platform that they're both using.
+
+Learn more about encryption in What Should I know About Encryption?, Key Concepts in Encryption, and Different Types of Encryption. We also explain one particular kind of end-to-end encryption—called “public key encryption ”—in more detail in A Deep Dive on End-to-End Encryption.
+
+Phone Calls and Text Messages versus Encrypted Internet Messages anchor link
+When you make a call from a landline or a mobile phone, your call is not end-to-end encrypted. When you send a text message (also known as SMS) on a phone, the text is not encrypted at all. Both allow governments or anyone else with power over the phone company to read your messages or record your calls. If your risk assessment includes government interception, you may prefer to use encrypted alternatives that operate over the Internet. As a bonus, many of these encrypted alternatives also offer video.
+
+Some examples of services or software that offer end-to-end encrypted texting and voice and video calls include:
+
+Signal
+WhatsApp
+Wire
+Some examples of services that do not offer end-to-end encryption by default include:
+
+Google Hangouts
+Kakao Talk
+Line
+Snapchat
+WeChat
+QQ
+Yahoo Messenger
+And some services, like Facebook Messenger and Telegram, only offer end-to-end encryption if you deliberately turn it on. Others, like iMessage, only offer end-to-end encryption when both users are using a particular device (in the case of iMessage, both users need to be using an iPhone).
+
+How Much Can You Trust Your Messaging Service? anchor link
+End-to-end encryption can defend you against surveillance by governments, hackers, and the messaging service itself. But all of those groups might be able to make secret changes in the software you use so that even if it claims to use end-to-end encryption, it is really sending your data unencrypted or with weakened encryption.
+
+Many groups, including EFF, spend time watching well-known providers (like WhatsApp, which is owned by Facebook, or Signal) to make sure they really are providing the end-to-end encryption they promise. But if you are concerned about these risks, you can use tools that use publicly known and reviewed encryption techniques and are designed to be independent of the transport systems they use. OTR  and PGP  are two examples. These systems rely on user expertise to operate, are often less user-friendly, and are older protocols that don’t use all of the modern best encryption techniques.
+
+Off-the-Record (OTR) is an end-to-end encryption protocol  for real-time text conversations that can be used on top of a variety of instant messaging services. Some tools that incorporate OTR include:
+
+Pidgin (for Windows or Linux)
+Adium (for macOS)
+Jitsi (for Linux, Windows, macOS)
+PGP (or Pretty Good Privacy) is the standard for end-to-end encryption of email. For detailed instructions on how to install and use PGP encryption for your email, see:
+
+How to: Use PGP for macOS
+How to: Use PGP for Linux
+PGP for email is best-suited for technically experienced users communicating with other technically experienced users who are well aware of PGP’s complexities and limitations.
+
+What End-To-End Encryption Does Not Do anchor link
+End-to-end encryption only protects the content of your communication, not the fact that you are communicating in the first place. It does not protect your metadata , which includes, for example, the subject line of an email, who you are communicating with, and when. If you are making a call from a cell phone, information about your location is also metadata.
+
+Metadata can provide extremely revealing information about you even when the content of your communication remains secret.
+
+Metadata about your phone calls can give away some very intimate and sensitive information. For example:
+
+They know you rang a phone sex service at 2:24 am and spoke for 18 minutes, but they don't know what you talked about.
+They know you called the suicide prevention hotline from the Golden Gate Bridge, but the topic of the call remains a secret.
+They know you spoke with an HIV testing service, then your doctor, then your health insurance company in the same hour, but they don't know what was discussed.
+They know you received a call from the local NRA office while it was having a campaign against gun legislation, and then called your senators and congressional representatives immediately after, but the content of those calls remains safe from government intrusion.
+They know you called a gynecologist, spoke for a half hour, and then called the local Planned Parenthood's number later that day, but nobody knows what you spoke about.
+Other Important Features anchor link
+End-to-end encryption is only one of many features that may be important to you in secure communication. As described above, end-to-end encryption is great for preventing companies and governments from accessing your messages. But for many people, companies and governments are not the biggest threat , and therefore end-to-end encryption might not be the biggest priority.
+
+For example, if someone is worried about a spouse, parent, or employer with physical access to their device, the ability to send ephemeral, “disappearing” messages might be their deciding factor in choosing a messenger. Someone else might be worried about giving their phone number out, and so the ability to use a non-phone-number “alias” might be important.
+
+More generally, security and privacy features are not the only variables that matter in choosing a secure communications method. An app with great security features is worthless if none of your friends and contacts use it, and the most popular and widely used apps can vary significantly by country and community. Poor quality of service or having to pay for an app can also make a messenger unsuitable for some people.
+
+The more clearly you understand what you want and need out of a secure communication method, the easier it will be to navigate the wealth of extensive, conflicting, and sometimes outdated information available.
+
+Choosing Your Tools
+Last Reviewed: October 06, 2019
+
+With so many companies and websites offering tools geared towards helping individuals improve their own digital security, how do you choose the tools that are right for you?
+
+We don’t have a foolproof list of tools that can defend you (though you can see some common choices in our Tool Guides). But if you have a good idea of what you are trying to protect, and who you are trying to protect it from, this guide can help you choose the appropriate tools using some basic guidelines.
+
+Remember, security isn't about the tools you use or the software you download. It begins with understanding the unique threats you face and how you can counter those threats. Check out our Assessing your Risks guide for more information.
+
+Security is a Process, not a Purchase anchor link
+The first thing to remember before changing the software you use or buying new tools is that no tool or piece of software will give you absolute protection from surveillance in all circumstances. Therefore, it’s important to think about your digital security practices holistically. For example, if you use secure tools on your phone, but don’t put a password  on your computer, the tools on your phone might not help you much. If someone wants to find out information about you, they will choose the easiest way to obtain that information, not the hardest.
+
+Secondly, it’s impossible to protect against every kind of trick or attacker, so you should concentrate on which people might want your data , what they might want from it, and how they might get it. If your biggest threat  is physical surveillance from a private investigator with no access to internet surveillance tools, you don't need to buy some expensive encrypted phone system that claims to be "NSA-proof." Alternatively, if you face a government that regularly jails dissidents because they use encryption  tools, it may make sense to use simpler tactics—like arranging a set of harmless-sounding, pre-arranged codes to convey messages—rather than risk  leaving evidence that you use encryption software on your laptop. Coming up with a set of possible attacks you plan to protect against is called threat modeling.
+
+Given all that, here are some questions you can ask about a tool before downloading, purchasing, or using it.
+
+How Transparent is it? anchor link
+There's a strong belief among security researchers that openness and transparency leads to more secure tools.
+
+Much of the software the digital security community uses and recommends is open-source. This means the code that defines how it works is publicly available for others to examine, modify, and share. By being transparent about how their program works, the creators of these tools invite others to look for security flaws and help improve the program.
+
+Open-source software  provides the opportunity for better security, but does not guarantee it. The open source advantage relies, in part, on a community of technologists actually checking the code, which, for small projects (and even for popular, complex ones), may be hard to achieve.
+
+When considering a tool, see if its source code is available and whether it has an independent security audit to confirm the quality of its security. At the very least, software or hardware should have a detailed technical explanation of how it functions for other experts to inspect.
+
+How Clear are its Creators About its Advantages and Disadvantages? anchor link
+No software or hardware is entirely secure. Seek out tools with creators or sellers who are honest about the limitations of their product.
+
+Blanket statements that say that the code is “military-grade” or “NSA-proof” are red flags. These statements indicate that the creators are overconfident or unwilling to consider the possible failings in their product.
+
+Because attackers are always trying to discover new ways to break the security of tools, software and hardware needs to be updated to fix vulnerabilities. It can be a serious problem if the creators are unwilling to do this, either because they fear bad publicity or because they have not built the infrastructure to do so. Look for creators who are willing to make these updates, and who are honest and clear about why they are doing so.
+
+A good indicator of how toolmakers will behave in the future is their past activity. If the tool's website lists previous issues and links to regular updates and information—like specifically how long it has been since the software was last updated—you can be more confident that they will continue to provide this service in the future.
+
+What Happens if the Creators are Compromised? anchor link
+When security toolmakers build software and hardware, they (just like you) must have a clear threat model. The best creators explicitly describe what kind of adversaries they can protect you from in their documentation.
+
+But there's one attacker that many manufacturers do not want to think about: themselves! What if they are compromised or decide to attack  their own users? For instance, a court or government may compel a company to hand over personal data or create a “backdoor” that will remove all the protections their tool offers. So consider the jurisdiction(s) where the creators are based. If you’re worried about protecting yourself from the government of Iran, for example, a US-based company will be able to resist Iranian court orders, even if it must comply with US orders.
+
+Even if a creator is able to resist government pressure, an attacker may attempt to break into the toolmakers' own systems in order to attack its customers.
+
+The most resilient tools are those that consider this as a possible attack and are designed to defend against this. Look for language that asserts that a creator cannot access private data, rather than promises that a creator will not. Look for institutions with a reputation for fighting court orders for personal data.
+
+Has it Been Recalled or Criticized Online? anchor link
+Companies selling products and enthusiasts advertising their latest software can be misled, be misleading, or even outright lie. A product that was originally secure might have terrible flaws in the future. Make sure you stay well-informed on the latest news about the tools that you use.
+
+It's a lot of work for one person to keep up with the latest news about a tool. If you have colleagues who use a particular product or service, work with them to stay informed.
+
+Which Phone Should I Buy? Which Computer? anchor link
+Security trainers are often asked: “Should I buy Android or an iPhone?” or “Should I use a PC or a Mac?” or “What operating system  should I use?” There are no simple answers to these questions. The relative safety of software and devices is constantly shifting as new flaws are discovered and old bugs are fixed. Companies may compete with each other to provide you with better security, or they may all be under pressure from governments to weaken that security.
+
+Some general advice is almost always true, however. When you buy a device or an operating system, keep it up-to-date with software updates. Updates will often fix security problems in older code that attacks can exploit. Note that some older phones and operating systems may no longer be supported, even for security updates. In particular, Microsoft has made it clear that versions of Windows Vista, XP, and below will not receive fixes for even severe security problems. This means that if you use these, you cannot expect them to be secure from attackers. The same is true for OS X before 10.11 or El Capitan.
+
+Now that you’ve considered the threats you face, and know what to look for in a digital security tool, you can more confidently choose tools that are most appropriate for your unique situation.
+
+Products Mentioned in Surveillance Self-Defense anchor link
+We try to ensure that the software and hardware mentioned in SSD complies with the criteria listed above. We have made a good faith effort to only list products that:
+
+have a solid grounding in what we currently know about digital security,
+are generally transparent about their operation (and their failings),
+have defenses against the possibility that the creators themselves will be compromised, and
+are currently maintained, with a large and technically-knowledgeable user base.
+We believe that they have, at the time of writing, a wide audience who is examining them for flaws, and would raise concerns to the public quickly. Please understand that we do not have the resources to examine or make independent assurances about their security. We do not endorse these products and cannot guarantee complete security.
+
+Protecting Yourself on Social Networks
+Last Reviewed: October 13, 2023
+
+Social networks are among the most popular websites on the internet. Facebook, TikTok, and Instagram have over a billion users. Social networks were generally built on the idea of sharing posts, photographs, and personal information. They have also become forums for organizing and speech. Any of these activities can rely on privacy and pseudonymity.
+
+Thus, the following questions are important to consider when using social networks: How can I interact with these sites while protecting myself? My basic privacy? My identity? My contacts and associations? What information do I want to keep private and who do I want to keep it private from?
+
+Depending on your circumstances, you may need to protect yourself against the social network itself, against other users of the site, or both.
+
+Tips to Keep in Mind When Creating an Account anchor link
+Do you want to use your legal name? Some social media sites have so-called “real name policies,” but these have become more lax over time. If you do not want to use your legal name when registering for a social media site, do not. If you choose to register with another name you’re known by, consider who it is that knows you by this name, and if it makes sense for you to appear on this site with it.
+
+When you register, don't provide more information than is necessary. If you are concerned with hiding your identity, use a separate email address and avoid giving your phone number. Both of these pieces of information can identify you individually and can link different accounts together. A number of services offer temporary disposable email addresses for this purpose. You can also consider a single-use email, sometimes called aliases, that generate a random email address, like "RTkIotoi[at]emailservice.com," and then forward those emails to your real account. Some email services offer these aliases for free. Bear in mind that for both of these temporary email or alias services, you are entrusting these companies with whatever data  passes through them.
+
+Be careful when choosing a profile photo or image. In addition to metadata  that might include the time and place the photo was taken, the image itself can provide some information. Before you choose a picture, ask: was it taken outside your home or workplace? Are any addresses or street signs visible? Even the smallest of details, such as reflections captured in the image, can reveal unique identifying points of the location it was taken.
+
+Be aware that your IP address  may be logged at registration.
+
+Choose a strong password and, when possible, enable two-factor authentication.
+
+Beware of password  recovery questions such as “What city were you born in?” or “What is the name of your pet?”  because their answers can be mined from your social media details. You may want to choose password recovery answers that are false. One good way to remember the answers to password recovery questions, should you choose to use false answers for added security, is to note your chosen answers in a password manager. Most password managers have areas alongside saved login credentials where you can store such notes.
+
+Newly launched social media sites may not have many security or privacy protections, may not offer robust moderation controls, and may shift the privacy policy more frequently than established websites. This does not mean you should avoid a new social network entirely, but keep in mind the site may lack some basic safety features you've grown used to. For example, some more recent social media networks, like Mastodon, use different technology entirely, and require different tactics to manage your privacy and security.
+
+Check the Social Media Site's Privacy Policy anchor link
+Information stored by third parties is subject to their own policies and may be used for commercial purposes or shared with other companies, like marketing firms. While reading privacy policies is a near-impossible task, you may want to read the sections that describe how your data is used, when it is shared with other parties, how the company handles deleting your account if you no longer want to use it, and how the service responds to law enforcement requests.
+
+Social networking sites are usually for-profit businesses and often collect sensitive information beyond what you explicitly provide—where you are, what interests and advertisements you react to, what other sites you've visited (e.g. through “Like” buttons). Consider blocking  third-party cookies  and using tracker-blocking browser extensions to make sure extraneous information isn't being passively transmitted to third parties.
+
+Change Your Privacy Settings anchor link
+Specifically, change the default settings. For example, do you want to share your posts with the public, or only with a specific group of people? Should people be able to find you using your email address or phone number? Do you want your location shared automatically?
+
+Even though every social media platform has its own unique settings, you can find some patterns.
+
+Privacy settings tend to answer the question: “Who can see what?” Here you’ll probably find settings concerning audience defaults (“public,” “friends of friends,” “friends only,” etc.), location, photos, contact information, tagging, and if people can find your profile in searches.
+
+Security (sometimes called “safety”) settings will probably have more to do with blocking/muting other accounts, and if you want to be notified if there is an unauthorized attempt to authorize your account. Sometimes, you’ll find login settings—like two-factor authentication and a backup email/phone number—in this section. Other times, these login settings will be in an account settings or login settings section, along with options to change your password.
+
+Take advantage of security and privacy “check-ups.” Facebook, Google, and other major websites offer “check-up” features. These tutorial-style guides walk you through common privacy and security settings in plain language and are an easy way to get your settings right.
+
+On your phone, you may have to switch out of the app itself and into your phone’s settings to toggle which parts of your phone’s data and features the app can access. Turn off all unnecessary access to things like location, pictures, contacts, and anything else that isn’t absolutely necessary for the app to function. It’s also a good idea generally to turn off your device’s ad identifier setting that allows all apps to track you.
+
+Finally, remember that privacy settings are subject to change. Sometimes, these privacy settings get stronger and more granular; sometimes not. Pay attention to these changes closely to see if any information that was once private will be shared, or if any additional settings will allow you to take more control of your privacy.
+
+Keep Separate Profiles Separate anchor link
+For a lot of us, it’s critical to keep different account identities separate. This can apply to dating websites, professional profiles, anonymous accounts, and accounts in various communities.
+
+Phone numbers and photos are two types of information to keep an eye on. Photos, in particular, can sneakily link accounts you intend to keep separate. This is a surprisingly common issue with dating sites and professional profiles. 
+
+If you want to maintain your anonymity or keep a certain account’s identity separate from others, use a photo or image that you don’t use anywhere else online. 
+
+Use Google’s reverse image search function to double-check if you're not sure where you've used a photo. Use a username checking service to scan across many apps at once to find out if you’ve used a username in the past elsewhere and forgotten about it. If you discover that one of these pieces of information is in a place you didn’t expect, don’t get scared or panic. Think in baby steps: instead of trying to wipe all information about you off the entire internet, focus on specific pieces of information, where they are, and what you can do about them.
+
+Familiarize Yourself With Facebook Groups Settings anchor link
+Facebook groups are places for social action, advocacy, and other potentially sensitive activities, but group settings can be confusing. Learn more about group privacy settings and work with group members to keep your Facebook groups private and secure.
+
+Privacy Is A Team Sport anchor link
+Don’t just change your own social media settings and behavior. Take the additional step of talking with your friends about the potentially sensitive data you reveal about each other online. Even if you don’t have a social media account, or even if you untag yourself from posts, friends can still unintentionally identify you, report your location, and make their connections to you public. Protecting privacy means not only taking care of ourselves, but also taking care of each other.
+
+Passwords are the keys to your digital castle. Just like your housekeys, you want to do everything you can to keep your passwords safe.  
+Passwords can be made ironclad with additional authentication methods, such as multifactor authentication (MFA).
+
+Creating, storing and remembering passwords can be a pain for all of us online, but the truth is that passwords are your first line of defense against cybercriminals and data breaches. Also, it has never been easier to maintain your passwords with free, simple-to-use password managers. With a few moments of forethought today, you can stay safe online for years to come.
+
+LONG, UNIQUE, COMPLEX 
+No matter what accounts they protect, all passwords should be created with these three guiding principles in mind:
+
+Long – Every one of your passwords should be at least 12 characters long.
+Unique – Each account needs to be protected with its own unique password. Never reuse passwords. This way, if one of your accounts is compromised, your other accounts remain secured. We’re talking really unique, not just changing one character or adding a “2” at the end – to really trick up hackers, none of your passwords should look alike.
+Complex – Each unique password should be a combination of upper case letters, lower case letters, numbers and special characters (like >,!?). Again, remember each password should be at least 12 characters long. Some websites and apps will even let you include spaces.   
+HOW OFTEN DO I CHANGE MY PASSWORD?
+If your password is long, unique and complex, our recommendation is that you don’t need to ever change it unless you become aware that an unauthorized person is accessing that account, or the password was compromised in a data breach.
+
+This recommendation is backed up by the latest guidance from the National Institute of Standards and Technology. For many years, cybersecurity experts told us to change our passwords every few months. However, this constant change isn’t helpful if your passwords are each long, unique and complex. In fact, if you change your passwords often, you risk reusing old passwords or falling into bad habits of creating similar or weak passwords.
+
+BUT REMEMBERING ALL MY PASSWORDS IS SO HARD!? 
+You probably have a lot of online accounts. And because all your passwords should be unique, that means you have a lot of passwords. But the fact remains that using long, unique and complex passwords remains the best way to keep all of your digital accounts safe. There are many free and easy-to-use tools out today that makes managing your library of unique passwords a snap.
+
+Today, the truth is that you don’t have to remember your passwords. If you use the latest tools, you don’t need to rack your brain at every login screen. You just need to remember the one password that unlocks your password manager vault.
+
+DON’T TAKE A PASS ON PASSWORD MANAGERS.
+As our lives expand while we do more online, we’ve gone from having just a couple of passwords to today, where we might manage upwards of 100 or more. If you’re like most people, you’re probably using the same password for most of your accounts—and that’s not safe. If your one password gets stolen because of a breach, it can be used it to gain access to all your accounts and your sensitive information. But no need to fret, password managers are easy to use and make a big difference. 
+
+DON’T PASS ON PASSWORD MANAGERS 
+We’ve all probably used one password to secure multiple, maybe even all, of our digital accounts. But that’s not safe, and it becomes even more unsafe as time goes on. If your one password gets stolen because of a breach, it becomes a skeleton key for your whole cyber life. This compromised password can be used it to gain access to all your accounts and your sensitive information.  
+
+Here’s where password managers really shine. Password managers are pieces of software that often take the form of apps, browser plugins or they might be included automatically in your browser or computer operating system. With a few clicks, you can generate new, secure passwords that are long, unique and complex. These passwords managers automatically store your passwords and can autofill them when you arrive at the site.  
+
+Password managers literally take a few minutes to download and get started with.  
+You can fill in all your passwords at once, or just add a few passwords for your key accounts (email, banking and social media, for example) and add more over time. Many times, when you log into a site, your password manager will ask if you want to store the password – click yes, and, boom, another account is secured. And to keep your password manager extra safe, secure it with multi-factor authentication (MFA).
+
+IT’S SAFE TO DITCH THE NOTEBOOK 
+A password manager is like a combined security guard and butler who tags along as you surf the web, safely carrying your passwords like a ring of keys.  
+
+A password manager is best the way to create and maintain strong passwords for the every-increasing number of online accounts we log into. These programs store your usernames and passwords in a secure, encrypted database. When you need a new password, you can get a hyperstrong suggestion that is automatically stored in the password manager.  
+
+A password manager frees you from keeping a confusing notebook of passwords in a drawer, or a messy sticky note with all of your most important passwords stuck on your computer. Now you only need to remember the single password that unlocks your password manager vault.   
+
+PASSWORD MANAGER ADVANTAGES 
+Password managers not only let you manage hundreds of unique passwords for your online accounts, but some of the services also offer other advantages: 
+
+Saves time 
+Works across all your devices and operating systems 
+Protects your identity 
+Notify you of potential phishing websites 
+Alerts you when a password has potentially become compromised 
+UNDERSTANDING PASSWORD MANAGERS 
+We learned in our 2022 Oh Behave! Survey that even though password managers are the best way to keep your information safe, Americans have many misconceptions about them. About 65% of Americans don’t trust password managers! 
+
+Why is this? There are a couple of reasons, but many are afraid that storing all their passwords in one place means they are at risk if a hacker breaches your vault.
+
+This line of thinking, however, is misguided. Password managers today are safer than ever before, and they are much safer than using a physical notebook, storing passwords in a Notes app or reusing passwords that are easy to remember.  
+
+Compare your options and look for a quality password management system – you have a lot of choices! Here is why a password manager is the best for keeping your passwords safe: 
+
+Encryption: Quality password managers encrypt all of the passwords stored on them, no matter whether the passwords are stored on your device or on the company’s servers. This means that your passwords would be basically impossible to decode if a hacker tried to breach your password manager. The only access to your passwords on a password manager is with a password only you know.   
+Multi-Factor Authentication: Because your password vault on a password manager is so valuable, the best password managers require multi-factor authentication for you to log in. This means that anyone trying to view your passwords from unfamiliar device will need to log in multiple ways. This can include a facial ID, fingerprint scan, inputting a code you get in an SMS text message or approving the log-in attempt on a separate app. This builds another wall around your passwords, so you know they are kept extra-secure.  
+Zero Knowledge: As the name suggests, zero knowledge means a password manager does not know what your password is – the company does not store the keys needed to decrypt the main password that unlocks your vault. This means that your main password is never kept on the system’s servers. You are the only one who knows it, so you should make it strong and protect it with MFA. 
+PASSWORD MANAGER OPTIONS
+There are many different free or paid password managers available for personal or business use. Some examples include: 
+Keeper 
+Bitwarden 
+1Password  
+NordPass  
+Dashlane  
+LastPass               
+
+How to: Avoid Phishing Attacks
+Last Reviewed: September 30, 2019
+
+On your path to improving your digital security, you may encounter bad actors who attempt to undermine your security goals. We call these bad actors adversaries. When an adversary  sends an email or link that looks innocent, but is actually malicious it’s called phishing.
+
+A phishing attack  usually comes in the form of a message meant to convince you to:
+
+click on a link;
+open a document;
+install software on your device; or
+enter your username and password  into a website that’s made to look legitimate.
+Phishing attacks can trick you into giving up your passwords or trick you into installing malware  on your device. Attackers can use malware to remotely control your device, steal information, or spy on you.
+
+This guide will help you to identify phishing attacks when you see them and outline some practical ways to help defend against them.
+
+Types of Phishing Attacks anchor link
+Phishing for Passwords (aka Credential Harvesting) anchor link
+Phishers can trick you into giving them your passwords by sending you a deceptive link. Web addresses in a message may appear to have one destination, but lead to another. On your computer, you can usually see the destination URL by hovering over the link. But links can be further disguised with lookalike letters, or by using domain names that are one letter off from legitimate domain names and may direct you to a webpage that appears to go to a service that you use, such as Gmail or Dropbox. These fake replica login screens often look so legitimate that it’s tempting to type your username and password. If you do, you will send your login credentials to the attackers.
+
+So before typing any passwords, look at the address bar of your web browser . It will show the real domain name  of the page. If it doesn't match the site you think you’re logging into, don't continue! Remember that seeing a corporate logo on the page doesn't confirm it's real. Anybody can copy a logo or design onto their own page to try and trick you.
+
+Some phishers use sites that look like popular Web addresses to fool you: ht﻿tps://wwwpaypal.com/ is different from https://www.paypal.com/. Similarly ht﻿tps://www.﻿pa﻿ypaI.com/ (with a capital letter “i” instead of a lowercase “L”) is different from https://www.paypal.com/.  Many people use URL shorteners to make long URLs easier to read or type, but these can be used to hide malicious destinations. If you receive a shortened URL like a t.co link from Twitter, try putting it into https://www.checkshorturl.com/ to see where it's really going.
+
+Remember, it's easy to forge emails so that they display a false return address. This means that checking the apparent email address of the sender isn't enough to confirm that an email was really sent by the person it appears to be from.
+
+Spearphishing anchor link
+Most phishing attacks cast a wide net. An attacker might send emails to hundreds or thousands of people claiming to have an exciting video, important document, or billing dispute.
+
+But sometimes phishing attacks are targeted based on something the attacker already knows about an individual. This is called “spearphishing.” Imagine you receive an email from your Uncle Boris that says it contains pictures of his kids. Since Boris actually has kids and it looks like it is from his address, you open it. When you open the email, there is a PDF document attached to it. When you open the PDF, it may even display pictures of Boris’ kids, but it also quietly installs malware on your device that can be used to spy on you. Uncle Boris didn't send that email, but someone who knows you have an Uncle Boris (and that he has children) did. The PDF document that you clicked on started up your PDF reader, but took advantage of a bug in that software to run its own code. In addition to showing you a PDF, it also downloaded malware onto your computer. That malware could retrieve your contacts and record what your device's camera and microphone sees and hears.
+
+The best way to protect yourself from phishing attacks is to never click on any links or open any attachments. But this advice is unrealistic for most people. Below are some practical ways to defend against phishing.
+
+How to Help Defend Against A Phishing Attack anchor link
+Keep your software updated anchor link
+Phishing attacks that use malware often rely on software bugs in order to get the malware onto your machine. Usually once a bug becomes known, a software manufacturer will release an update to fix it. This means that older software has more publicly-known bugs that could be used to help install malware. Keeping your software up to date reduces malware risks.
+
+Use a password manager with auto-fill anchor link
+Password managers that auto-fill passwords keep track of which sites those passwords belong to. While it’s easy for a human to be tricked by fake login pages, password managers are not tricked in the same way. If you use a password manager  (including the built-in password manager in your browser), and it refuses to auto-fill a password, you should hesitate and double check the site you’re on. Better yet, use randomly generated passwords so that you are forced to rely on auto-fill, and less likely to type your password into a fake login page.
+
+Verify Emails with Senders anchor link
+One way to determine if an email is a phishing attack is to check via a different channel with the person who supposedly sent it. If the email was purportedly sent from your bank, don’t click on links in the email. Instead, call your bank or open your browser and type in the URL of your bank's website. Likewise, if your Uncle Boris sends you an email attachment, call him on the phone and ask if he sent you pictures of his kids before opening it.
+
+Open Suspicious Documents in Google Drive anchor link
+Some people expect to receive attachments from unknown persons. For example, journalists commonly receive documents from sources. But it can be difficult to verify that a Word document, Excel spreadsheet, or PDF file isn't malicious.
+
+In these cases, don't double-click the downloaded file. Instead, upload it to Google Drive or another online document reader. This will turn the document into an image or HTML, which almost certainly will prevent it from installing malware on your device. If you're comfortable with learning new software and willing to spend time setting up a new environment for reading mail or foreign documents, there are dedicated operating systems designed to limit the effect of malware. TAILS is a Linux-based operating system  that deletes itself after you use it. Qubes is another Linux-based system that carefully separates applications so that they cannot interfere with each other, limiting the effect of any malware. Both are designed to work on laptop or desktop computers.
+
+You can also submit untrusted links and files to VirusTotal, an online service that checks files and links against several different antivirus  engines and reports the results. This isn't foolproof—antivirus often fails to detect new malware or targeted attacks—but it is better than nothing.
+
+Any file or link that you upload to a public website, such as VirusTotal or Google Drive, can be viewed by anyone working for that company, or possibly anyone with access to that website. If the information contained in the file is sensitive or privileged communications, you may want to consider an alternative.
+
+Use a Universal 2nd Factor (U2F) Key at Login anchor link
+Some sites allow you to use a special hardware token with advanced capabilities to avoid phishing attempts. These tokens (or “keys”) communicate with your browser to establish per-site credentials for logging in. This is called Universal 2nd Factor or “U2F,” because it is a standard way to require a second authentication method—in addition to your passphrase —at login. You simply log in normally, and (when prompted) connect the key  to your computer or smartphone and press a button to log in. If you are on a phishing site, the browser will know not to log you in with credentials established on the legitimate site. This means that even if a phisher tricks you and steals your passphrase, they won’t compromise your account. Yubico (one manufacturer of such keys) provides more information about U2F.
+
+This should not be confused for two-factor authentication  in general, which may or may not provide phishing protection.
+
+Be Careful of Emailed Instructions anchor link
+Some phishing emails claim to be from a computer support department or technology company and ask you to reply with your passwords, or to allow a “computer repair person” remote access to your computer, or to disable some security feature on your device. The email might give a purported explanation of why this is necessary, by claiming, for example, that your email box is full or that your computer has been hacked. Unfortunately, obeying these fraudulent instructions can be bad for your security. Be especially careful before giving anyone technical data  or following technical instructions unless you can be absolutely certain that the request's source is genuine.
+
+What is Tor? anchor link
+Tor is a volunteer-run service that provides both privacy and anonymity online by masking who you are and from where you are connecting. The service also protects you within the Tor network itself—you can have good assurance that you’ll remain anonymous to other Tor users.
+
+For people who might need occasional anonymity and privacy when accessing websites, the Tor Browser provides a quick and easy way to use the Tor network.
+
+The Tor Browser works just like a regular web browser . Web browsers are programs you use to view web sites. Examples include Chrome, Firefox, and Safari. Unlike other web browsers, though, the Tor Browser sends your communications through Tor, making it harder for people who are monitoring you to know exactly what you're doing online, and harder for people monitoring the sites you use to know where you're connecting from.
+
+Some Tips to Keep in Mind When Using Tor anchor link
+Tor is a useful tool for privacy and anonymity, but remember that it's generally impossible to achieve perfect anonymity. Knowing the limitations of Tor, and following some best practices, can help you stay safe online without too many surprises:
+
+Browsing the web is much slower over Tor, and certain websites may not work at all.
+The Tor Browser funnels only the browsing you do in the browser through the Tor network. Other apps or services installed on your device will not be routed through Tor.
+If you log into a website using the Tor Browser or fill out forms with personally identifying information, that website will be able to identify you and may know that you're using Tor.
+You can use Tor to circumvent censorship in a number of countries, but keep in mind that anyone who can see your network activity can also see that you're using Tor.
+Don't install or add any additional browser plugins to the Tor Browser that could de-anonymize you. Tor is already set up with a set of privacy protecting rules, so you do not need additional ad or tracker blockers.
+Beware of opening documents downloaded with Tor, especially when you have Tor running. Some documents may include internet-connected resources that may be downloaded when you open the document outside of Tor, which could reveal your IP address .
+The Tor Browser can access both the regular web that you're used to, as well as special ".onion" sites that only live on the Tor network. Unlike traditional websites, which have a public IP address, a .onion address is hidden, unique, and provides end-to-end encryption . You can check a number of EFF sites this way, including Surveillance Self-Defense itself (this link will only work in the Tor Browser).
+The Tor Project maintains a page with other tips for anonymity that is worth checking periodically for other best practices for using Tor safely.
+
+Installing a Tor Browser anchor link
+Only download Tor from the official app stores on mobile. If you are ever unsure about the validity of the Tor app, head to Tor's official download page first, and click the link for your operating system  from there. 
+
+If you search for "Tor Browser" in the Google Play Store and iPhone App Store, you will see dozens of results of mostly for-profit apps. These apps may not be endorsed by the Tor Project and may come bundled with unvetted VPNs. Only download the free apps listed here in this guide, or linked from Tor's official page.
+
+On Android anchor link
+Download the Tor Browser app from the Google Play Store.
+
+On iPhone anchor link
+Due to some limitations around how the iPhone works, Tor doesn't make a version of the Tor Browser for the iPhone. Instead, the Tor Project recommends using Onion Browser, an open-source browser that offers two ways to connect to the Tor network: directly in the app, or by using a second app, called Orbot, which creates a VPN  profile to route all your device's traffic through the Tor network (note that Orbot is not a VPN provider and does not charge a fee, it just uses the VPN profile for network routing). 
+
+Apple requires browsers on iOS to use something called WebKit, which prevents Onion Browser from having the exact same privacy protections as Tor Browser on other devices unless you also use Orbot. But both using Onion Browser on its own or with Orbot are viable for many privacy concerns. Orbot may provide some privacy improvements, but there's less room for error if you stick to just the Onion Browser because it's easier to set up. For this guide, we'll stick to only the Onion Browser, which requires your phone to be on iOS 17.
+
+Download the Onion Browser app from the Apple App Store.
+
+How to use Tor anchor link
+On Android anchor link
+When you open the Tor Browser app, the first thing it'll ask you to do is tap the "Connect" button. Do so and the app will go through a short process of connecting to the Tor network.
+From here, you can start browsing the web if you like, no additional configurations required.
+But if you want to dig in more, there are some settings to consider exploring. In the top right corner, tap the Three-dot icon (⋮) > Settings. 
+
+You'll find a number of options here to customize the app, but the most important one to know is "Security Settings." 
+
+The Tor Browser's default "Standard" security level will block many known privacy and security issues found in other web browsers. For example, it uses an HTTPS-only mode and NoScript by default. You can also crank up the security further if needed.
+
+Changing Tor's "Security Level" to its "Safest" setting disables a variety of website features that can potentially be used against you. This will make you safer from well-funded attackers who can interfere with your internet connection or use new unknown bugs in these features. But the "Safest" setting can make some websites unusable. The default "Standard" setting is fine for everyday privacy protection, but you can set it to "Safest" if you are worried about sophisticated attackers, or if you don't mind if some websites do not display correctly. You can get more information about each security level here.
+If Tor is not working for you and you're in a country where the Tor network is blocked, you can try connecting to a bridge. Head to Three-dot icon (⋮) > Settings > Tor Network > Config Bridge where you'll find three options:
+
+Obfs4: This cloaks your traffic and gets around some Tor blocking , but works best if you're in a country where Tor isn't blocked.
+Snowflake: Snowflake makes your internet activity appear as though you're using the internet for a regular video or voice call. 
+Meek-azure: Makes it look like you are browsing a Microsoft website instead of using Tor. This option is incredibly slow, but if obfs4 and snowflake do not work, give it a shot.
+You can also manually enter in the address of a bridge if you have a trusted source that provides you with one. The Tor Project maintains a list of trusted bridges here.
+
+On iPhone anchor link
+When you open the Onion Browser, the first thing you'll need to do is choose how you want to connect to the Tor network, either through the app itself or by using Orbot. Using Orbot can shore up some security holes in how iOS handles video and audio, as well as better protect your IP address. But Orbot adds a more technical layer, and may require additional troubleshooting. If you're comfortable with that, go ahead and download Orbot, then follow the instructions in the Onion Browser to get it working. 
+
+If you do not want to deal with that, tap "Use built-in Tor" to get started.
+The Onion Browser itself is where you'll do all your browsing. From here, you can start using the internet as you usually would.
+Depending on your needs, you may want to consider changing the default security level. Tap the shield icon in the top-left corner and you're shown three options: Gold, Silver, and Bronze.
+
+When possible, we recommend changing this to the "Gold" option, which disables JavaScript. This can make some websites unusable, but protects against sites using JavaScript to find your IP address, and disables most audio and video players.
+If Tor is not working for you and you're in a country where the Tor network is blocked, you can try connecting to a bridge. Tap the onion icon in the top-right corner of the app, then tap "Bridge Configuration." If you are unsure if you need to use a bridge, tap the "Try Auto-Configuration" button and the Onion Browser will attempt to find the right bridge for you. If that doesn't work, you can manually select one. While there are more options than this, the three main ones to know about are:
+
+Obfs4: This cloaks your traffic and gets around some Tor blocking, but works best if you're in a country where Tor isn't blocked.
+Snowflake: Snowflake makes your internet activity appear as though you're using the internet for a regular video or voice call.
+Meek-azure: Makes it look like you are browsing a Microsoft website instead of using Tor. This option is incredibly slow, but if obfs4 and snowflake do not work, give it a shot.
+
+Choosing the VPN That's Right for You
+Last Reviewed: July 07, 2023
+
+VPN  stands for “Virtual Private Network .” When you connect to a VPN, all data  that you send (such as the requests to servers when browsing the web) appears to originate from the VPN itself, rather than your internet service provider (ISP). This masks your IP address , which can be an important tool for protecting your privacy, since your IP address provides an indication of your general location and can therefore be used to identify you.
+
+In practice, VPNs can:
+
+Protect your internet activity from prying eyes, especially if you’re connected to an unsecure Wi-Fi network in a café, airport, library, or somewhere else. This has become a less critical aspect of VPNs as the majority of web traffic is now encrypted using HTTPS, but in certain situations, where you may not want a network operator or ISP to see your basic web traffic, a VPN is still useful.
+
+Circumvent internet censorship on a network that blocks certain sites or services. For example, when you are working from a school’s internet connection or in a country that blocks content. Note: it’s important to keep up to date on security news for specific countries’ policies on VPNs.
+
+Connect you to the corporate intranet  at your office while you’re traveling abroad, at home, or any other time you are out of the office.
+
+One common misconception is that VPNs are just for desktop computers. Logging in to strange or unfamiliar Wi-Fi connections from your phone can be just as risky as logging onto a strange Wi-Fi network from your computer. You can have a VPN on your phone to encrypt  traffic from your carrier and ISP.
+
+There is no one-size-fits-all solution when it comes to VPNs. Just like email, there are many VPN services out there and you should choose the service that works best for you. Depending on which one you choose, you can benefit from an increased level of security when connected to networks you wouldn’t ordinarily trust. But this means you're placing your trust in the VPN.
+
+So do you need a VPN? And which VPN should you use? This guide will help you think through what tools are right for you, and what factors you should consider in your search for a VPN.
+
+Let’s Start With the Basics: How do VPNs Actually Work? anchor link
+
+
+A VPN routes all your web traffic through an "encrypted tunnel" between your devices and the VPN server. Then, the traffic leaves the VPN to its ultimate destination, masking your original IP address. From a website's point of view, it appears your location is wherever the VPN server is. A VPN also hides your web browsing from your ISP and the local network owner (like a coffee shop or hotel). This is important because according to a 2021 report, the FTC found ISPs in the U.S. share more of your browsing data with third-parties than you might expect. However, while a VPN hides your browsing data from the ISP, it's all visible to the VPN provider.
+
+For additional information, this article from the Center for Democracy & Technology covers more of the technical aspects.
+
+Things to Consider: What VPNs Don’t Do anchor link
+A VPN protects your internet traffic from surveillance on the public network, but it does not protect your data from the private network you’re using. If you are using a corporate VPN, then whoever runs the corporate network will see your traffic. If you are using a commercial VPN , whoever runs the service will see your traffic.
+
+A disreputable VPN service might do this deliberately, to collect personal information or other valuable data.
+
+The manager of your corporate or commercial VPN may also be subject to pressure from governments or law enforcement to turn over information about the data you have sent over the network. You should review your VPN provider’s privacy policy for information about the circumstances under which your VPN provider may turn your data over to governments or law enforcement.
+
+You should also take note of the countries in which the VPN provider does business. The provider will be subject to the laws of those countries, including laws governing government requests for information. Laws vary from country to country, and sometimes those laws allow officials to collect information without notifying you or giving you an opportunity to contest it. The VPN provider may also be subject to legal requests for information from countries with whom the countries in which it operates have a legal assistance treaty.
+
+Most commercial VPNs require you to pay using a credit card, which includes information about you that you may not want to disclose to your VPN provider, as it can easily be linked back to your identity. If you would like to keep your credit card number from your commercial VPN provider, use a VPN provider that accepts gift cards, or use temporary or disposable credit card numbers. Also, note that the VPN provider may still collect your IP address when you use the service, which can also be used to identify you, even if you use an alternative payment method. If you would like to hide your IP address from your VPN provider, you could use Tor when connecting to your VPN, or connect to the VPN only from a public Wi-Fi network.
+
+A VPN is not a tool for anonymity, and while it can protect your location from some companies, there are many other ways companies may track you, including GPS, web cookies , tracking pixels, or fingerprinting.
+
+For many circumstances, a VPN isn't the most important security step to take. Instead, using strong passwords, setting up two-factor authentication, enabling HTTPS-only mode, encrypting your devices, running software updates, and blocking trackers, are a more impactful step to securing yourself online.
+
+How Do I Choose a VPN That’s Right For Me? anchor link
+Everyone has different needs for how they hope to use a VPN. And the range and quality of VPNs varies a lot from one service to another. To find the VPN that’s right for you, you can evaluate VPNs based on the following criteria:
+
+Claims anchor link
+Is the VPN provider making claims about their product or services? Maybe they claim not to log any user connection data (see data collection below), or they claim not to share or sell data. Remember that a claim is not a guarantee, so be sure you verify these claims. Dig deep into a VPN provider’s privacy policy to uncover details about how your data is monetized, even if the VPN doesn’t sell it to third parties directly. On the VPN's marketing pages, keep an eye out for hyperbolic claims around privacy or security, too, as any VPN that makes impossible claims may not be trustworthy in other areas.
+
+Trust and transparency anchor link
+VPN providers can subject their service to third-party security audits, preferably annually, with results which are then made public. This type of transparency can reveal otherwise unknown security vulnerabilities in the VPN apps, data access, and infrastructure. As a potential subscriber, it's a sign the VPN provider is trying to take security seriously. But there's no certainty that the practices aren't changed after the audit, especially if compelled to do so by a government.
+
+Business model anchor link
+Even if a VPN isn’t selling your data, it must be able to stay in operation somehow. If the VPN doesn’t sell its service, how is it keeping its business afloat? Does it solicit donations? What is the business model for the service? Some VPNs run on a “freemium” model, meaning they are free to join, but after you hit a data cap they charge you. VPNs can be entirely free, but sell your data. They can use a recurring subscription, which will keep charging you if you forget to cancel. If your budget is constrained, this is useful information to know. VPNs may also throw in extra features, like ad and tracker blocking , though they provide you with much less control than an ad blocking browser extension.
+
+Reputation anchor link
+It is worthwhile to do a search on the people and organizations associated with the VPN. Is it endorsed by security professionals? Does the VPN have news articles written about it? If the VPN was established by people known in the information security community, it is more likely to be trustworthy. Be skeptical of a VPN offering a service that no one wants to stake their personal reputation on, or one that is run by a company that no one knows about. It can be beneficial to look for a VPN's "about" page to see if it lists its founders or employees. Transparency of leadership isn't a guarantee that a company is reputable, but it is a sign the company is trying to establish trust.
+
+Data collection anchor link
+A service that does not collect data in the first place will not be able to sell that data. When looking through the privacy policy, see whether the VPN actually collects user data and whether it sells it. A VPN company might log your data if it doesn't specifically rule it out in its privacy policy. And, depending on jurisdiction, a government can demand that data or issue a subpoena for it.
+
+Even if a company claims not to log connection data, this is not a guarantee of good behavior. We encourage you to investigate instances where a VPN has been mentioned in the media. They may have been caught misleading or lying to their customers.
+
+Encryption anchor link
+How safe is the VPN encryption ? If a VPN is using broken encryption—such as Point-to-Point Tunneling Protocol (PPTP)—any data flowing through it can be easily decrypted and viewed by your ISP or country. Check to see if the VPNs use one of two different protocols, OpenVPN and WireGuard, which have become standard. Though, OpenVPN use seems to be on the decline in recent years, and some VPN providers may use their own implementations of Wireguard. If you’re using a work VPN, contact your IT department and inquire about the security of the connection.
+
+EFF cannot vouch for any VPN or ratings. Some VPNs with exemplary privacy policies could be run by devious people. Do not use a VPN that you do not trust.
+
+Remember: There is no one-size-fits-all VPN. There are many factors to consider when choosing a VPN. Always remember to consider your security plan before making any decisions about the tools you use to protect your digital security.
+
+Privacy for Students
+Last Reviewed: March 01, 2020
+
+Schools are increasingly adopting surveillance technology to spy on students while they’re at school, at home, or even on their social media. The companies that make these surveillance products and services advertise them to schools as a way to keep students safe–but there’s no evidence so far that they actually protect students, and worst of all, they can harm the people they are supposed to protect.
+
+Surveillance isn’t normal–it’s spying. Schools that use these technologies to track and monitor students are violating their privacy. If you’re a student being spied on by one of these technologies, you’re right to be concerned.
+
+Techniques Used to Invade Your Privacy anchor link
+While not all of the technologies used to surveil students have the same capabilities, these are some of the techniques that can be used to track every move you make and the data  that can be gathered through these techniques. The types of surveillance and related filtering technologies schools are using continue to grow, so this list does not cover every type of tool or the ways they could be used.
+
+Types of Data That Can Be Tracked anchor link
+Location Data: Tracking students’ location using their device’s GPS coordinates, Wi-Fi connections, and contactless chips in bus passes/ID cards, potentially both on and off school property. Schools have used this data for automated attendance tracking and management, including for class tardiness and school bus riding, and assigning consequences such as detention.
+Audiovisual Data: Images, video, and audio of students while they are on school grounds. These can be compared to databases of known audiovisual files to identify a person.
+Web Browsing Data: Monitoring browsing history keeps a record of everything you read online, every site you access, and every term you search for, and then forwards this information to school administrators, and possibly reviewers employed by the surveillance service company.
+Device Usage: Some invasive software can capture and keep a record of everything you do on a device (phone or laptop), even the things you type or delete. This can include everything you search for on the Internet, what you post on social media, and messages sent through chat applications. If you log into a website or service (like your email or social media accounts), invasive software may also capture your usernames and passwords.
+Types of Technologies That Can Track You anchor link
+Spyware (sometimes called stalkerware): This is an application that has been installed on a device that gives the administrator full control over it. If this surveillance tool has been installed on your device, the administrator of the spyware could have access to every single file, picture, text message, email, and social media post (even the disappearing ones). Once this application is installed, the device can be monitored in real time and scanned for things like location data, contacts, call/text logs, and browser history.
+Surveillance Cameras: Some schools have installed surveillance cameras that have the ability to identify and track students as they move across campus, both inside buildings and outdoors. These cameras may also have face recognition capabilities.
+Microphones: Microphones can be installed at various points across a school. They can be equipped with software that is used to record and analyze all sound for the purposes of aggression and stress detection, but this technology is often inaccurate.
+Social Media Monitoring: These are services that monitor students’ social media accounts and then report flagged content to school administrators. These services also have the potential to map who students are friends with, who they spend time with, and what topics they are interested in.
+Internet Monitoring and Filtering: If you use school Wi-Fi, administrators can get a high-level view of your web browsing activity, and even block access to some sites. A more invasive version of this technology requires students to install a security certificate , which enables administrators to decrypt students’ encrypted Internet activity. When this kind of certificate is installed, administrators can access everything students read and type into their browsers while on school Wi-Fi, like questions on search engines, messages sent to others, and even sensitive information like passwords.
+Document and Email Scanning: Some services integrate with productivity tools students use to complete their assignments and communicate with each other and school staff. These integrations use filters to scan the contents of what students write in services such as Google for Education (also known as G-Suite) and Microsoft’s Office 365. In some cases, these services also scan email attachments, such as images or PDFs.
+What Happens to All this Data?
+Data Aggregation, Reporting, and Sharing: Many of these services and technologies retain and store the invasive data they gather about students. This data can tell detailed stories about a student’s life and contain extremely sensitive information that can cause serious harm if there is a data leak. Some companies may even sell this data or share it with third parties. In some cases, student data is reported to school resource officers or the police.
+
+What Can I Do About It? anchor link
+#1. Understand How School Surveillance Affects You anchor link
+Before you can address school surveillance, it’s important to know the ways it can affect you and the people around you.
+
+What Do They Know?
+The best solutions for fighting back against surveillance don’t need to involve a fancy tool or workaround. Sometimes, the smartest way to beat surveillance technology is not to use the systems that are targeted by surveillance (if you can), or to be careful about the information you do reveal as you navigate using them.
+
+An important step in this process is finding out what, if any, surveillance technologies your school is using to track you, the devices you use (personal or school-issued), and school networks. Find out and research what the school is using, so that you know what information is being tracked and can take steps to protect yourself and your data.
+
+Privacy as a Team Sport
+Protecting your privacy is a job no one can do alone. While there are many steps you can take to protect your privacy on your own, the real protection comes when we protect each others’ privacy as a group. If you change your own tools and behavior, but your classmates don’t, it’s more likely that information about you will be caught up in the surveillance they are under as well.
+
+Let’s use an example scenario to explore how this could happen:
+
+You’re socializing with friends from your school, and some who go to other schools. You turned off location tracking on your mobile device, but your friends haven’t. Their devices are tracking all of their movements and how long they are in a location. One of your classmates takes a picture of everyone with their mobile device. Since their mobile device is tracking their location, this information is included in the picture’s metadata . Your friend posts the picture on their public social media profile and tags you. If your school is conducting social media surveillance, they can see who posted the picture, everyone in the picture, and the time and location the picture was taken. Even though you tried to keep yourself from being tracked, your school now knows all of this information–not just about you, but about everyone in your friend group who was there.
+
+You are only as protected as the least-protected person in your social group. That’s why it’s important to help each other and protect your privacy as a team.
+
+You may wonder, “How could the information gathered in this scenario be used to harm me or my friends?” Here are some examples:
+
+Your friends who don’t attend your school are now included in your school’s surveillance system dragnet and don’t know they have been surveilled.
+You and your friends might be attending an LGBTQ+ event when the photo was taken. If you share or discuss this photo on social media while being under school surveillance, it may trigger a scanning technology's list of keywords and notify school officials. If school officials have biases against LGBTQ+ people–or if the school gives unsupportive parents access to this information via a dashboard, parent login, or even direct notifications–this could put you or your friend's well-being at risk .
+You might be doing political organizing for a cause, and if you’re at a private or religious school, the school and/or your parents may not approve of it depending on the issue. In this scenario, your school could suspend you or your parents could punish you for this activity.
+#2. Talk About It anchor link
+Talk to Your Friends: Help them understand the problem, why their privacy is important to protect, and that privacy is a team sport.
+Talk to Trusted Adults: Tell them your concerns and ask for their help.
+Use Your Collective Voice: Tell your school how surveillance affects you. Request, at least, transparency and accountability on decisions regarding school surveillance technologies: your school should be honest about what technologies they are using, how the technologies work, and how your data is being protected. You should also ask them to provide proof that the technologies actually help improve school and student safety. You may even want to demand that your school stop using certain technologies altogether or promise not to adopt certain technologies in the future.
+Meet with your school’s principal, information technology administrator, and other school administrators.
+Attend school board meetings and present your concerns.
+Find your school’s or district’s calendar of board meetings.
+Recruit other students and have clear talking points.
+Speak during the comment period for the topic if it’s on the agenda, or in the general comment period if it’s not on the agenda (arrive early and sit toward the front to give yourself the best chance of getting to speak).
+Be courageous and firm. It’s your privacy, not theirs.
+Research and write about it in your school newspaper or other student media.
+Create a petition and organize your classmates.
+Contact state/federal government officials and ask them to act to protect your privacy.
+Arguments You Might Encounter
+Surveillance proponents use a few common arguments to convince you to give up fighting for your privacy. Here are counterpoints you can use to push back against surveillance culture and help others understand the harm it does.
+
+Myth #1. “If you did nothing wrong, you’ve got nothing to hide.”
+
+This argument is based on an incorrect assumption: that only “bad” people or people who broke the rules or the law want privacy. There are numerous reasons why someone would want to maintain their privacy. It comes down to this: what do you want to protect? The fact that you went to a health clinic or attended a political rally, searched online about sexual orientations or a health issue, or shared personal photos with a friend–these are all examples of things that are private and should remain that way. Privacy is about protecting things that matter to you.
+
+Myth #2. “You’re worried that we could use this technology to cause serious harm, but we would never do that!”
+
+The people in charge want you to trust that, while they could use surveillance technologies to abuse their power, they wouldn’t. It’s not a matter of trust–they shouldn’t have this power in the first place. Here’s a short film that explores the effect surveillance can have on people, with examples of how this power imbalance is unjust. Another issue is that student data is often in the hands of the companies that provide these surveillance products and services, that have control over this sensitive data, and could share it with others.
+
+Myth #3. “This is for your own safety.”
+
+There is no evidence that these technologies increase student safety, and, in fact, they have been shown to harm the very students they are intended to protect:
+
+When people are constantly being watched, their behavior changes. They don’t feel comfortable being themselves, and often censor themselves because being watched makes them afraid.
+Surveillance breaks down the trust that students have with their teachers, with their schools, and with each other. When students need help, they are too afraid to reach out to anyone who could help them because of this lack of trust.
+Marginalized students are often unfairly targeted and punished because of this unwarranted and invasive surveillance.
+Myth #4. “It’s useless to fight against it.”
+
+This is privacy paralysis, and this sense of helplessness is exactly how surveillance proponents want you to feel. However, you do have the power to create change. When people collectively work together to fight for what they believe in, it works. Don’t let anyone tell you differently.
+
+#3. Minimize the Data Being Tracked anchor link
+Surveillance is all about getting as much information about you as possible: your habits, where you go and when, who you associate with, and what you care about. While the strategies described below won’t protect you from all the surveillance types described in this guide, they will help reduce the amount of data that can be collected about you.
+
+Lockdown Your Identity Online
+Protect yourself on social networks:
+Where you can, change your social media accounts to be private instead of public, and review all new follower requests before approving them. You may also want to review your current followers to make sure you know and trust them.
+If you need a public account, consider using a separate, private account for topics, posts, or conversations you’d like to keep private.
+Don’t just change your own social media settings and behavior. Talk with your friends about the potentially sensitive data you reveal about each other online, and how you can protect each other as a team.
+Reduce the risks you face in online groups by adjusting visibility settings.
+Enable two-factor authentication (or “2FA ”) on as many online accounts as you can. If the data gathered about you through surveillance is leaked in a breach, having 2FA enabled will make it harder for others to access your accounts, even if they know your usernames and passwords.
+Turn Off Location Tracking When You Don’t Need It
+The way to do this can vary by device and by application. You can change your overall location-tracking preferences in your system settings, but this may not turn off location tracking completely. For example, some mobile device applications may turn your location tracking on for a variety of reasons; you may need to look at your phone’s settings, or in some cases each application’s permissions to disable it.
+
+Be Aware of Risks in Personal vs. School Environments
+For students worried about school surveillance, it’s critical to keep your personal and school lives separate. Avoid using school devices, accounts, and networks for personal activity. Even if your school claims to use geofencing (i.e. you’re only monitored on campus), a lot of the information can leak between your personal and school life through your Internet activity or the devices you use.
+
+Devices and Networks: Everything you do on a school-issued device, even if you’re using your home Wi-Fi or another trusted network, could be tracked. Similarly, if you’re using a personal device on a school network, your activity could also be monitored. That’s why it’s best to access your personal or sensitive accounts only on your personal devices and networks you trust. This might not always be possible, but it’s a good goal.
+Logins: Don’t use your school email address for any personal online accounts. This could expose notifications, direct messages, and other content from your personal accounts to the school’s monitoring systems.
+Web Browsing: If there is information you don’t want your school to track, it’s better to search for those topics off of school devices and networks.
+Use Good Digital Security Practices
+Take good care of your data by using encryption  on your devices.
+Use a password manager to create strong passwords.
+Decide what you want to protect and choose tools that work for you.
+And Lastly... anchor link
+Surveillance isn’t normal, and it isn’t okay. You are right to feel concerned and to want to speak up about your privacy. To learn more about how you can protect yourself, check out the rest of Surveillance Self-Defense’s guides. If you need a place to get started, take a look at our Security Starter Pack or our playlist of guides for LGBTQ Youth.
+
+Tips to Help Protect Your Privacy
+Personal info is like money: Value it. Protect it. Information about you, such as your purchase history or location, has value – just like money. Be thoughtful about who gets that information and how it’s collected through apps and websites. You should delete unused apps, keep others current and review app permissions.
+
+Share with care. Think before posting about yourself and others online. Consider what it reveals, who might see it and how it could be perceived now and in the future.
+
+Own your online presence. Set the privacy and security settings on websites and apps to your comfort level for information sharing. Each device, application or browser you use will have different features to limit how and with whom you share information.
+
+Think before you act. Information about you, such as the games you like to play, your contacts list, where you shop and your geographic location, has tremendous value. Be thoughtful about who gets that information and understand how it’s collected through websites and apps.
+
