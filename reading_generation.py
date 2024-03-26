@@ -55,10 +55,6 @@ def generate_reading(topic, details):
     return chain.run(documents)
 
 if __name__ == '__main__':
-    #topic = "password security"
-    #details = ["strong passwords", "password managers", "password security", "recommended practices"]
-    #reading = generate_reading(topic, details)
-    #print(reading)
     parser = argparse.ArgumentParser(description='Generate reading')
     parser.add_argument('--topic', type=str, help='the topic of the reading', required=True)
     parser.add_argument('--details', nargs='+', help='the details of the reading', required=True)
