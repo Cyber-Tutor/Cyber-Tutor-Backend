@@ -54,10 +54,16 @@ def generate_reading(topic, details):
 
     return chain.run(documents)
 
+def save_reading(reading, save_path):
+    with open(save_path, 'w') as f:
+        f.write(reading)
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Generate reading')
     parser.add_argument('--topic', type=str, help='the topic of the reading', required=True)
     parser.add_argument('--details', nargs='+', help='the details of the reading', required=True)
+    parser.add_argument('--save_path', type=str, help='the directory to save the reading to', required=True)
     args = parser.parse_args()
     reading = generate_reading(args.topic, args.details)
+    save_reading(reading, f"{args.save_path}/{args.topic}.txt")
     print(reading)
