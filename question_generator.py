@@ -13,7 +13,7 @@ class QuestionGenerator:
     def __init__(self):
         self.chain = self.initialize()
 
-    def create_question(self, topic, details, difficulty):
+    def create_question(self, topic, details, difficulty, content):
         prompt_template = PromptTemplate.from_template("""
         Write a multiple choice question (a, b, c, d) about {topic}, specifically {details} that is targeted towards a difficulty of {difficulty}.
         Format the response as a JSON object with the following keys:
@@ -25,7 +25,7 @@ class QuestionGenerator:
         The "answer" key MUST be one of the choices in the "choices" list.
         """)
 
-        result = self.chain(prompt_template.format(topic=topic, details=details, difficulty=difficulty))
+        result = self.chain(prompt_template.format(topic=topic, details=details, difficulty=difficulty, content=content))
         
         # return question if no error in generation occurred
         try:
@@ -33,6 +33,20 @@ class QuestionGenerator:
         except:
             return None
 
+
+    def detail_generator(self, reading):
+        prompt_template = PromptTemplate.from_template("""
+            Given the following reading content: {reading}, generate a list of details that can be used to create questions.
+            The details should be specific points that can be used to create questions.
+            Format the response as a JSON object with the keys for each detail being the index of the detail.
+            """
+        )
+        details = self.chain(prompt_template.format(reading=reading))
+        try:
+            return details['result']
+        except:
+            return None
+        
 
     def initialize(self):
         embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", convert_system_message_to_human=True)
@@ -50,6 +64,7 @@ class QuestionGenerator:
 
 if __name__ == '__main__':
     q_gen = QuestionGenerator()
+    """
     print(q_gen.create_question("2fa", "what it is", "beginner"))
     print(q_gen.create_question("phishing", "what it is", "beginner"))
     print(q_gen.create_question("password management", "best practices", "beginner"))
@@ -61,4 +76,6 @@ if __name__ == '__main__':
     print(q_gen.create_question("2fa", "what it is", "hard"))
     print(q_gen.create_question("phishing", "what it is", "hard"))
     print(q_gen.create_question("password management", "best practices", "hard"))
+    print(q_gen.create_question("online security", "best practices", "hard"))
+    """
     print(q_gen.create_question("online security", "best practices", "hard"))
