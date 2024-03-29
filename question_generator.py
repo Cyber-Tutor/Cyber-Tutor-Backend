@@ -13,7 +13,7 @@ class QuestionGenerator:
     def __init__(self):
         self.chain = self.initialize()
 
-    def create_question(self, topic, details, difficulty, content):
+    def create_question(self, topic, details, difficulty):
         prompt_template = PromptTemplate.from_template("""
         Write a multiple choice question (a, b, c, d) about {topic}, specifically {details} that is targeted towards a difficulty of {difficulty}.
         Format the response as a JSON object with the following keys:
@@ -25,7 +25,7 @@ class QuestionGenerator:
         The "answer" key MUST be one of the choices in the "choices" list.
         """)
 
-        result = self.chain(prompt_template.format(topic=topic, details=details, difficulty=difficulty, content=content))
+        result = self.chain(prompt_template.format(topic=topic, details=details, difficulty=difficulty))
         
         # return question if no error in generation occurred
         try:
@@ -34,14 +34,22 @@ class QuestionGenerator:
             return None
 
 
-    def detail_generator(self, reading):
-        prompt_template = PromptTemplate.from_template("""
-            Given the following reading content: {reading}, generate a list of details that can be used to create questions.
-            The details should be specific points that can be used to create questions.
-            Format the response as a JSON object with the keys for each detail being the index of the detail.
+    def detail_generator(self, reading, count):
+        prompt_template = PromptTemplate.from_template(f"""
+            You are to read the following article.  Generate {count} details that could be used to create quiz questions based on the reading.  
+            Do not generate quiz questions, only content that will be used in later prompts to generate the questions.
+            Output the details as a JSON object with the keys for each detail being the index of the detail. Do not add ```json``` to the output.
+            If there are multiple details in a single line, separate them with a comma.
+            Keep the details contained to a single line.
+            Do not capitalize the first letter of the details.
+            Use any and all relevant information from the article to generate the details.
+            An example looks like: what is 2FA, specifically what type of methods are available
+            See the article below:
+
+            {reading}
             """
         )
-        details = self.chain(prompt_template.format(reading=reading))
+        details = self.chain(prompt_template.format(count=count, reading=reading))
         try:
             return details['result']
         except:
@@ -64,18 +72,4 @@ class QuestionGenerator:
 
 if __name__ == '__main__':
     q_gen = QuestionGenerator()
-    """
-    print(q_gen.create_question("2fa", "what it is", "beginner"))
-    print(q_gen.create_question("phishing", "what it is", "beginner"))
-    print(q_gen.create_question("password management", "best practices", "beginner"))
-    print(q_gen.create_question("online security", "best practices", "beginner"))
-    print(q_gen.create_question("2fa", "what it is", "intermediate"))
-    print(q_gen.create_question("phishing", "what it is", "intermediate"))
-    print(q_gen.create_question("password management", "best practices", "intermediate"))
-    print(q_gen.create_question("online security", "best practices", "intermediate"))
-    print(q_gen.create_question("2fa", "what it is", "hard"))
-    print(q_gen.create_question("phishing", "what it is", "hard"))
-    print(q_gen.create_question("password management", "best practices", "hard"))
-    print(q_gen.create_question("online security", "best practices", "hard"))
-    """
     print(q_gen.create_question("online security", "best practices", "hard"))
