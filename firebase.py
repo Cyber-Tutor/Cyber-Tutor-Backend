@@ -121,6 +121,6 @@ class Firebase:
     def create_reading(self, section, chapter, group, content):
         reading_group = f"{group}GroupContent"
         reading_ref = self.db.collection('topics').document(section).collection('chapters').document(chapter)
-        reading_ref.set({
+        reading_ref.update({
             reading_group: content
         })
