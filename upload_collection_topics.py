@@ -44,6 +44,8 @@ def upload_data(file_path):
                     "chapterTitle",
                     "controlGroupContent",
                     "experimentalGroupContent",
+                    "controlGroupVideoURLs",
+                    "experimentalGroupVideoURLs",
                     "controlGroupImageURLs",
                     "experimentalGroupImageURLs",
                     "order",
