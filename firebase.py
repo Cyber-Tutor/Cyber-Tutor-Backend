@@ -121,9 +121,13 @@ class Firebase:
     def create_reading(self, section, chapter, group, content, difficulty):
         reading_group = f"{group}GroupContent"
         reading_ref = self.db.collection('topics').document(section).collection('chapters').document(chapter)
+        # get all chapter content
         chapter_content = reading_ref.get()
+        # get reading content for group
         reading = chapter_content.to_dict()[reading_group]
+        # add reading content for difficulty
         reading[difficulty] = content
+        # update reading content
         reading_ref.update({
             reading_group: reading
         })
