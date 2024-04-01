@@ -9,6 +9,9 @@ import os
 dotenv.load_dotenv()
 
 
+"""
+Load text from file into chroma db
+"""
 def main(file):
     loader = TextLoader(file)
     documents = loader.load()
@@ -22,7 +25,10 @@ def main(file):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Process some integers.')
+    """
+    Load text from file into chroma db
+    """
+    parser = argparse.ArgumentParser(description='Load text from file into chroma db')
     parser.add_argument('--content', type=str, help='the path to the content to store', required=True)
     args = parser.parse_args()
 

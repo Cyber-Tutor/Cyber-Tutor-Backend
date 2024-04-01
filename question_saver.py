@@ -21,14 +21,19 @@ def save_questions(questions, section, chapter):
         }
         db.create_question(quiz_question)
 
-
+"""
+Reads quiz questions from json file
+"""
 def read_questions(question_path):
     with open(question_path, 'r') as f:
         return json.load(f)
     
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Process some integers.')
+    """
+    Saves quiz questions from json file to firebase
+    """
+    parser = argparse.ArgumentParser(description='Save quiz questions to firebase')
     parser.add_argument('--section', type=str, help='content section', required=True)
     parser.add_argument('--chapter', type=str, help='content chapter', required=True)
     parser.add_argument('--path', type=str, help='a string for the quiz json path', required=True)

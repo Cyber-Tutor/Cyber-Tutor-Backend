@@ -8,13 +8,18 @@ from langchain_core.runnables import RunnableLambda, RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 from multiprocessing import Pool
 
-
 import dotenv
 import os
 import argparse
 
 dotenv.load_dotenv()
 
+
+"""
+Generate reading content based on topic, details, and difficulty
+Reading is generated, then formatting is refined
+Returns reading content
+"""
 def generate_reading(topic, details, difficulty):
     print(f"Generating reading for {topic} at {difficulty} difficulty")
     embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", convert_system_message_to_human=True)
@@ -55,12 +60,21 @@ def generate_reading(topic, details, difficulty):
     
     return format_chain.invoke(topic)
 
+
+"""
+Save reading to file
+"""
 def save_reading(reading, save_path):
     with open(save_path, 'w') as f:
         f.write(reading)
 
 
 if __name__ == '__main__':
+    """
+    Generate reading content based on topic and reading content
+    Uses multiprocessing to generate readings for beginner, intermediate, and expert levels
+    Reading is generated using content from the vector database and then formatted
+    """
     parser = argparse.ArgumentParser(description='Generate reading')
     parser.add_argument('--topic', type=str, help='the topic of the reading', required=True)
     parser.add_argument('--details', nargs='+', help='the details of the reading', required=True)
@@ -70,7 +84,6 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     reading_args = [(args.topic, args.details, difficulty) for difficulty in args.difficulty]
-    readings = []
     with Pool() as p:
         readings = p.starmap(generate_reading, reading_args)
     
@@ -79,4 +92,3 @@ if __name__ == '__main__':
         print("Reading saved at", f"{args.save_path}/{args.name}_{difficulty}.txt") 
 
     # python reading_generation.py --topic "2fa" --details "introduction to topic" "what is 2fa" "2fa factors"  --save_path content_generation/content/reading/2fa --name introduction_to_2fa
-    # 

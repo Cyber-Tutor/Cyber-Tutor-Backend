@@ -4,7 +4,8 @@ from firebase import Firebase
 
 
 """
-upload reading to firebase
+Upload reading to firebase
+Can upload a single reading file or all reading files in a directory
 """
 def upload_reading(section, chapter, reading_path, group):
     db = Firebase()
@@ -29,7 +30,7 @@ def upload_reading(section, chapter, reading_path, group):
 
 
 """
-load reading from file
+Load reading from file
 """
 def load_reading(reading_path):
     with open(reading_path, 'r') as f:
