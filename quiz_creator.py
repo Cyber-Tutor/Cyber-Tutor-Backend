@@ -82,74 +82,28 @@ def main(args):
     q_gen = QuestionGenerator()
     quizzes = []
     if os.path.isdir(args.reading_path):
-        detail_args = []
-        files = []
         file_names = []
-        q_gens = []
-
         gen_args = []
         for file in os.listdir(args.reading_path):
             if file.endswith(".txt"):
-                #if any(difficulty in file for difficulty in args.difficulty):
                 difficulty = "beginner" if "beginner" in file else "intermediate" if "intermediate" in file else "expert" if "expert" in file else None
                 if difficulty:
-                    # create question generator for each reading file
-                    #q_gen = QuestionGenerator()
-                    #q_gens.append(q_gen)
-
                     # get file for each reading file
                     reading_file_path = os.path.join(args.reading_path, file)
                     gen_args.append((reading_file_path, difficulty, args))
-                    #files.append(reading_file_path)
-                    # create details arguments for each reading file
-                    #detail_args.append((reading_file_path, args.detail_count))
-                    # save file name for each reading file
-                    #file_names.append(os.path.basename(reading_file_path))
-                    """
-                    print("Generating details for", file)
-                    details = get_details(q_gen, reading_file_path, args.detail_count)
-                    print("Details generated for", file)
-                    print("Creating quiz for", file)
-                    quiz = quiz_creator(q_gen, details, difficulty, args.topic, args.q_per_detail)
-                    print("Quiz created for", file)
-                    if args.save_path:
-                        save_path = os.path.join(args.save_path, f"{args.topic}_{difficulty}.json")
-                        save_quiz(quiz, save_path)
-                        print("Quiz saved at", save_path)
-                    elif args.section and args.chapter:
-                        save_questions(quiz, args.section, args.chapter)
-                        print("Quiz saved to firebase")
-                    """
-                    #print("Quiz created for", file)
-        # generate details for all reading files
+
+        # generate quizzes for all reading files
         with Pool() as p:
             quizzes = p.starmap(generate_quiz, gen_args)
         print("Quizzes created for", *file_names)
 
-        """
-        with Pool() as p:
-            details = p.starmap(get_details, detail_args)
-        print("Details generated for", *file_names)
-
-        # create quiz arguments for each reading file
-        quiz_args = []
-        for i, file in enumerate(files):
-            difficulty = "beginner" if "beginner" in file else "intermediate" if "intermediate" in file else "expert" if "expert" in file else None
-            quiz_args.append((details.pop(0), difficulty, args.topic, args.q_per_detail))
-            print("Creating quiz for", os.path.basename(file))
-
-        # generate quizzes for all reading files
-        with Pool() as p:
-            quizzes = p.starmap(quiz_creator, quiz_args)
-        print("Quizzes created for", *file_names)
-        """
     else:
-        details = get_details(args.reading_path, args.detail_count)
+        q_gen = QuestionGenerator()
+        details = get_details(q_gen, args.reading_path, args.detail_count)
         file = os.path.basename(args.reading_path)
         difficulty = "beginner" if "beginner" in file else "intermediate" if "intermediate" in file else "expert" if "expert" in file else None
         if difficulty:
             quiz = quiz_creator(q_gen, details, difficulty, args.topic, args.q_per_detail)
-            quizzes.append(quiz)
             print("Quiz created for", os.path.basename(args.reading_path))
             if args.save_path:
                 save_path = os.path.join(args.save_path, f"{args.topic}_{difficulty}.json")
@@ -161,20 +115,6 @@ def main(args):
         else:
             raise ValueError("Difficulty not found in file name")
                 
-    # save quiz to file if arg specifies save path
-    # else upload quiz to firebase
-    """
-    for i, quiz in enumerate(quizzes):
-        if args.save_path:
-            if os.path.isdir(args.save_path):
-                save_path = os.path.join(args.save_path, f"{args.topic}_{args.difficulty[i]}.json")
-            else:
-                save_path = args.save_path
-            save_quiz(quiz, save_path)
-        elif args.section and args.chapter:
-            save_questions(quiz, args.section, args.chapter)
-    """
-
 
 if __name__ == '__main__':
     """
