@@ -3,9 +3,13 @@ import argparse
 from firebase import Firebase
 
 
+"""
+upload reading to firebase
+"""
 def upload_reading(section, chapter, reading_path, group):
     db = Firebase()
 
+    # if reading path is a directory, upload all reading files in the directory
     if os.path.isdir(reading_path):
         for file in os.listdir(reading_path):
             if file.endswith(".txt"):
@@ -16,6 +20,7 @@ def upload_reading(section, chapter, reading_path, group):
                     reading = load_reading(reading_file_path)
                     db.create_reading(section, chapter, group, reading, difficulty)
     else:
+        # if reading path is a file, upload the reading file
         reading = load_reading(reading_path)
         file = os.path.basename(reading_path)
         difficulty = "beginner" if "beginner" in file else "intermediate" if "intermediate" in file else "expert" if "expert" in file else None
@@ -23,6 +28,9 @@ def upload_reading(section, chapter, reading_path, group):
             db.create_reading(section, chapter, group, reading)
 
 
+"""
+load reading from file
+"""
 def load_reading(reading_path):
     with open(reading_path, 'r') as f:
         reading = f.readlines()
