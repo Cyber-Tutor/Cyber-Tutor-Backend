@@ -1,6 +1,7 @@
 from question_generator import QuestionGenerator
 from question_saver import save_questions
 
+from multiprocessing import Pool
 import argparse
 import json
 import os
@@ -12,26 +13,26 @@ def quiz_creator(q_gen, details, difficulty, topic, q_per_detail=1):
 
     # create questions for each detail based on topic, difficulty
     for level in difficulty:
-        for detail in details:
-            for _ in range(q_per_detail):
-                # pass if question generation fails
-                question = q_gen.create_question(topic, detail, level)
-                # test to see if llm output is valid json 
-                try: 
-                    question_json = json.loads(question)
-                except json.JSONDecodeError:
-                    continue
+        #for detail in details:
+        for _ in range(q_per_detail):
+            # pass if question generation fails
+            try:
+                question = q_gen.create_questions(topic, details, level)
+            except:
+                print("Question generation failed")
+                continue
+            # test to see if llm output is valid json 
+            try: 
+                question_json = json.loads(question)
+            except json.JSONDecodeError:
+                raise ValueError("Questions are not in valid JSON format")
 
-                quiz_question = {
-                    "question": question_json,
-                    "difficulty": level,
-                }
-
-                quiz.append(quiz_question)
+            for q in question_json['questions']:
+                quiz.append(q)
     return quiz
 
 
-def get_details(reading_path, detail_count):
+def get_details(q_gen, reading_path, detail_count):
     with open(reading_path, 'r') as f:
         reading = f.readlines()
         reading = ''.join(reading)
@@ -47,18 +48,142 @@ def get_details(reading_path, detail_count):
     return details
     
 
+def generate_quiz(reading_path, difficulty, args):
+    q_gen = QuestionGenerator()
+    name = os.path.basename(reading_path)
+
+    print("Generating details for", name)
+    details = get_details(q_gen, reading_path, args.detail_count)
+    print("Details generated for", name)
+
+    print("Creating quiz for", name)
+    quiz = quiz_creator(q_gen, details, difficulty, args.topic, args.q_per_detail)
+    print("Quiz created for", name)
+
+    if args.save_path:
+        save_path = os.path.join(args.save_path, f"{args.topic}_{difficulty}.json")
+        save_quiz(quiz, save_path)
+        print("Saved quiz locally for", name)
+    elif args.section and args.chapter:
+        save_questions(quiz, args.section, args.chapter)
+        print("Saved quiz to firebase for", name)
+    else:
+        raise ValueError("No save path or section and chapter specified")
+
 
 def save_quiz(quiz, save_path):
     with open(save_path, 'w') as f:
         json.dump(quiz, f)
 
 
+def main(args):
+    if not args.save_path and not args.section and not args.chapter:
+        raise ValueError("No save path or section and chapter specified")
+    q_gen = QuestionGenerator()
+    quizzes = []
+    if os.path.isdir(args.reading_path):
+        detail_args = []
+        files = []
+        file_names = []
+        q_gens = []
+
+        gen_args = []
+        for file in os.listdir(args.reading_path):
+            if file.endswith(".txt"):
+                #if any(difficulty in file for difficulty in args.difficulty):
+                difficulty = "beginner" if "beginner" in file else "intermediate" if "intermediate" in file else "expert" if "expert" in file else None
+                if difficulty:
+                    # create question generator for each reading file
+                    #q_gen = QuestionGenerator()
+                    #q_gens.append(q_gen)
+
+                    # get file for each reading file
+                    reading_file_path = os.path.join(args.reading_path, file)
+                    gen_args.append((reading_file_path, difficulty, args))
+                    #files.append(reading_file_path)
+                    # create details arguments for each reading file
+                    #detail_args.append((reading_file_path, args.detail_count))
+                    # save file name for each reading file
+                    #file_names.append(os.path.basename(reading_file_path))
+                    """
+                    print("Generating details for", file)
+                    details = get_details(q_gen, reading_file_path, args.detail_count)
+                    print("Details generated for", file)
+                    print("Creating quiz for", file)
+                    quiz = quiz_creator(q_gen, details, difficulty, args.topic, args.q_per_detail)
+                    print("Quiz created for", file)
+                    if args.save_path:
+                        save_path = os.path.join(args.save_path, f"{args.topic}_{difficulty}.json")
+                        save_quiz(quiz, save_path)
+                        print("Quiz saved at", save_path)
+                    elif args.section and args.chapter:
+                        save_questions(quiz, args.section, args.chapter)
+                        print("Quiz saved to firebase")
+                    """
+                    #print("Quiz created for", file)
+        # generate details for all reading files
+        with Pool() as p:
+            quizzes = p.starmap(generate_quiz, gen_args)
+        print("Quizzes created for", *file_names)
+
+        """
+        with Pool() as p:
+            details = p.starmap(get_details, detail_args)
+        print("Details generated for", *file_names)
+
+        # create quiz arguments for each reading file
+        quiz_args = []
+        for i, file in enumerate(files):
+            difficulty = "beginner" if "beginner" in file else "intermediate" if "intermediate" in file else "expert" if "expert" in file else None
+            quiz_args.append((details.pop(0), difficulty, args.topic, args.q_per_detail))
+            print("Creating quiz for", os.path.basename(file))
+
+        # generate quizzes for all reading files
+        with Pool() as p:
+            quizzes = p.starmap(quiz_creator, quiz_args)
+        print("Quizzes created for", *file_names)
+        """
+    else:
+        details = get_details(args.reading_path, args.detail_count)
+        file = os.path.basename(args.reading_path)
+        difficulty = "beginner" if "beginner" in file else "intermediate" if "intermediate" in file else "expert" if "expert" in file else None
+        if difficulty:
+            quiz = quiz_creator(q_gen, details, difficulty, args.topic, args.q_per_detail)
+            quizzes.append(quiz)
+            print("Quiz created for", os.path.basename(args.reading_path))
+            if args.save_path:
+                save_path = os.path.join(args.save_path, f"{args.topic}_{difficulty}.json")
+                save_quiz(quiz, save_path)
+                print("Quiz saved at", save_path)
+            elif args.section and args.chapter:
+                save_questions(quiz, args.section, args.chapter)
+                print("Quiz saved to firebase")
+        else:
+            raise ValueError("Difficulty not found in file name")
+                
+    # save quiz to file if arg specifies save path
+    # else upload quiz to firebase
+    """
+    for i, quiz in enumerate(quizzes):
+        if args.save_path:
+            if os.path.isdir(args.save_path):
+                save_path = os.path.join(args.save_path, f"{args.topic}_{args.difficulty[i]}.json")
+            else:
+                save_path = args.save_path
+            save_quiz(quiz, save_path)
+        elif args.section and args.chapter:
+            save_questions(quiz, args.section, args.chapter)
+    """
+
+
 if __name__ == '__main__':
+    """
+    Creates quiz questions based on provided reading content.  Difficulty is derived from the difficulty specified in the reading file name.
+    """
     parser = argparse.ArgumentParser(description='Create a quiz')
-    #parser.add_argument('--details_path', type=str, help='the path to the question details file', required=True)
     # required arguments
     parser.add_argument('--topic', type=str, help='topic of the questions', required=True)
-    parser.add_argument('--reading_path', type=str, help='the path to the reading file', required=True)
+    parser.add_argument('--reading_path', type=str, help='the path to the reading content directory or file', required=True)
     # optional arguments
     parser.add_argument('--difficulty', nargs='+', help='a list of strings for the difficulty levels', default=['beginner', 'intermediate', 'expert'])
     parser.add_argument('--detail_count', type=int, help='the number of details to generate', default=20)
@@ -68,23 +193,6 @@ if __name__ == '__main__':
     parser.add_argument('--section', type=str, help='the section of the quiz questions', default=None)
     parser.add_argument('--chapter', type=str, help='the chapter of the quiz questions', default=None)
     args = parser.parse_args()
+    main(args)
 
-    q_gen = QuestionGenerator()
-    details = get_details(args.reading_path, args.detail_count)
-    print(details)
-    quiz = quiz_creator(q_gen, details, args.difficulty, args.topic, args.q_per_detail)
-    print(quiz)
-
-    # save quiz to file if arg specifies save path
-    # else upload quiz to firebase
-    if args.save_path is not None:
-        if os.path.isdir(args.save_path):
-            save_path = os.path.join(args.save_path, f"{args.topic}.json")
-        else:
-            save_path = args.save_path
-
-        save_quiz(quiz, save_path)
-    elif args.section and args.chapter:
-        save_questions(quiz, args.section, args.chapter)
-    else:
-        raise ValueError("No save path or section and chapter specified")
+    # python quiz_creator.py --topic 2fa --reading_path content_generation/content/reading/2fa --save_path content_generation/content/quizzes/2fa
