@@ -11,11 +11,11 @@ def save_questions(questions, section, chapter):
 
     for question in questions:
         quiz_question = {
-            'question': question['question']['question'],
-            'answer': question['question']['answer'],
+            'question': question['question'],
+            'answer': question['answer'],
             'difficulty': question['difficulty'],
-            'choices': question['question']['choices'],
-            'explanation': question['question']['explanation'],
+            'choices': question['choices'],
+            'explanation': question['explanation'],
             'topicId': section,
             'chapterId': chapter
         }
