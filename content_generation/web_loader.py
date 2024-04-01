@@ -1,6 +1,5 @@
-from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
+from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_community.document_loaders import WebBaseLoader
 from langchain_community.vectorstores import Chroma
 import dotenv
 
@@ -40,8 +39,10 @@ def web_loader(urls):
     for url in urls:
         print("Scraping: ", url)
         try: 
+            # loads web page as documents
             loader = WebScraper(url)
             documents = loader.load()
+            # splits documents into chunks
             text_splitter = RecursiveCharacterTextSplitter(chunk_size=1024, chunk_overlap=20)
             docs = text_splitter.split_documents(documents)
             print("docs: ", docs)

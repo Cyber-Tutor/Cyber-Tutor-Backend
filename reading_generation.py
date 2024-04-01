@@ -1,10 +1,6 @@
 from langchain.prompts import PromptTemplate
-from langchain_core.prompts import ChatPromptTemplate
 from langchain_community.vectorstores import Chroma
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
-from langchain.chains import StuffDocumentsChain, LLMChain, ReduceDocumentsChain
-from langchain.chains.summarize import load_summarize_chain
-from langchain_core.runnables import RunnableLambda, RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 from multiprocessing import Pool
 

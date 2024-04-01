@@ -1,5 +1,4 @@
 from firebase import Firebase
-# from db_data import QuizQuestion
 import json
 import argparse
 
