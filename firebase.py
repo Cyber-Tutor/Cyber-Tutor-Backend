@@ -118,9 +118,12 @@ class Firebase:
     group is either 'experimental', 'control', or other group name
     content is reading content
     """
-    def create_reading(self, section, chapter, group, content):
+    def create_reading(self, section, chapter, group, content, difficulty):
         reading_group = f"{group}GroupContent"
         reading_ref = self.db.collection('topics').document(section).collection('chapters').document(chapter)
+        chapter_content = reading_ref.get()
+        reading = chapter_content.to_dict()[reading_group]
+        reading[difficulty] = content
         reading_ref.update({
-            reading_group: content
+            reading_group: reading
         })
