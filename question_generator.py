@@ -4,12 +4,18 @@ from langchain_community.vectorstores import Chroma
 from langchain.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 
-
 import dotenv
 import os
 
 dotenv.load_dotenv()
 
+
+"""
+QuestionGenerator class that handles generating questions and details
+It uses the Chroma database as context for question and detail generation.
+Details are topics that questions are based on, generated from reading content
+Questions are generated based on the topic, generated details, and difficulty level. 
+"""
 class QuestionGenerator:
     def __init__(self):
         embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", convert_system_message_to_human=True)
@@ -18,19 +24,22 @@ class QuestionGenerator:
         self.retriever = self.db.as_retriever()
         self.llm = ChatGoogleGenerativeAI(model=os.environ['LLM_MODEL'], convert_system_message_to_human=True)
 
-
-    def create_questions(self, topic, details, difficulty):
+    """
+    Generates multiple choice questions based on a topic, details, and difficulty level
+    It generates as many questions as there are details, with each question targeting a specific detail
+    Returns questions in a JSON object with the key "questions" containing a list of questions
+    """
+    def create_question(self, topic, detail, difficulty):
         prompt_template = PromptTemplate.from_template("""
         You are given the following context: {context}.
-        Write multiple choice questions (a, b, c, d) about """ + topic + """, specifically one question for each detail that is targeted towards a difficulty of """ + difficulty + """.
-        The list of details is as follows: """ + ', '.join(details) + """.
-        Format the response as a JSON object.  Each question is a JSON object with the following keys:
+        Write a multiple choice question (a, b, c, d) about """ + topic + """, targeted towards a difficulty of """ + difficulty + """.
+        The question should specifically be about """ + detail + """.
+        Format the response as a JSON object.  The JSON object with the following keys:
         - "question": The question you want to ask
         - "answer": The correct answer to the question, either "a", "b", "c", or "d"
         - "choices": keys of a, b, c, d with the answer choices.
         - "explanation": An explanation of the correct answer.
-        - "difficulty": """ + difficulty + """.
-        Add each question to a list with key "questions" and return the list as a JSON object. Do not add ```json``` to the output.
+        Do not add ```json``` to the output.
         Do not repeat answer choices.  Do not make answer choices too similar to each other.
         The "answer" key MUST be one of the choices in the "choices" list.
         """)
@@ -52,6 +61,10 @@ class QuestionGenerator:
             return None
 
 
+    """
+    Generates question details based on provided reading
+    Returns details in a JSON object with the index of the detail as the key
+    """
     def detail_generator(self, reading, count):
         chain = RetrievalQA.from_chain_type(
             self.llm,
@@ -82,5 +95,4 @@ class QuestionGenerator:
 if __name__ == '__main__':
     q_gen = QuestionGenerator()
     print(q_gen.create_questions("online privacy", ["best practices", "how to stay secure"], "expert"))
-    # FIX QUESTION SAVER AND QUIZ CREATOR WITH NEW QUESTION FORMAT AND DIFFICULTY KEY
-    # CHANGE FROM CLASS TO FUNCTIONS IN QUIZ CREATOR
+    
