@@ -7,7 +7,7 @@ import json
 import os
 
 
-def quiz_creator(q_gen, details, difficulty, topic, q_per_detail=1):
+def quiz_creator(q_gen, reading, details, difficulty, topic, q_per_detail=1):
     # get list of question details from file
     quiz = []
 
@@ -18,16 +18,16 @@ def quiz_creator(q_gen, details, difficulty, topic, q_per_detail=1):
             while not generated:
                 # pass if question generation fails
                 try:
-                    question = q_gen.create_question(topic, detail, difficulty)
+                    question = q_gen.create_question(reading, topic, detail, difficulty)
                 except Exception as e:
                     print("Question generation failed: ", e)
                     continue
-                print(question)
+
                 # test to see if llm output is valid json 
                 try: 
                     question_json = json.loads(question)
                 except json.JSONDecodeError:
-                    print("Questions are not in valid JSON format")
+                    print("Question is not in valid JSON format")
                     continue
 
                 try:
@@ -52,10 +52,7 @@ def quiz_creator(q_gen, details, difficulty, topic, q_per_detail=1):
     return quiz
 
 
-def get_details(q_gen, reading_path, detail_count):
-    with open(reading_path, 'r') as f:
-        reading = f.readlines()
-        reading = ''.join(reading)
+def get_details(q_gen, reading, detail_count):
     details_json = q_gen.detail_generator(reading, detail_count)
 
     # test to see if llm output is valid json
@@ -68,16 +65,16 @@ def get_details(q_gen, reading_path, detail_count):
     return details
     
 
-def generate_quiz(reading_path, difficulty, args):
+def generate_quiz(reading, difficulty, args):
     q_gen = QuestionGenerator()
-    name = os.path.basename(reading_path)
+    name = os.path.basename(args.reading_path)
 
     print("Generating details for", name)
-    details = get_details(q_gen, reading_path, args.detail_count)
+    details = get_details(q_gen, reading, args.detail_count)
     print("Details generated for", name)
 
     print("Creating quiz for", name)
-    quiz = quiz_creator(q_gen, details, difficulty, args.topic, args.q_per_detail)
+    quiz = quiz_creator(q_gen, reading, details, difficulty, args.topic, args.q_per_detail)
     print("Quiz created for", name)
 
     if args.save_path:
@@ -96,6 +93,13 @@ def save_quiz(quiz, save_path):
         json.dump(quiz, f)
 
 
+def open_reading(reading_path):
+    with open(reading_path, 'r') as f:
+        reading = f.readlines()
+        reading = ''.join(reading)
+    return reading
+
+
 def main(args):
     if not args.save_path and not args.section and not args.chapter:
         raise ValueError("No save path or section and chapter specified")
@@ -106,12 +110,13 @@ def main(args):
         for file in os.listdir(args.reading_path):
             if file.endswith(".txt"):
                 difficulty = "beginner" if "beginner" in file else "intermediate" if "intermediate" in file else "expert" if "expert" in file else None
-                if difficulty:
+                if difficulty and difficulty in args.difficulty:
                     # get file for each reading file
                     reading_file_path = os.path.join(args.reading_path, file)
+                    reading = open_reading(reading_file_path)
                     file_names.append(file)
                     # create arguments for generating quizzes with multiprocessing
-                    gen_args.append((reading_file_path, difficulty, args))
+                    gen_args.append((reading, difficulty, args))
 
         # generate quizzes for all reading files
         with Pool() as p:
@@ -119,11 +124,12 @@ def main(args):
         print("Quizzes created for", *file_names)
 
     else:
-        details = get_details(q_gen, args.reading_path, args.detail_count)
+        reading = open_reading(args.reading_path)
+        details = get_details(q_gen, reading, args.detail_count)
         file = os.path.basename(args.reading_path)
         difficulty = "beginner" if "beginner" in file else "intermediate" if "intermediate" in file else "expert" if "expert" in file else None
         if difficulty:
-            quiz = quiz_creator(q_gen, details, difficulty, args.topic, args.q_per_detail)
+            quiz = quiz_creator(q_gen, reading, details, difficulty, args.topic, args.q_per_detail)
             print("Quiz created for", os.path.basename(args.reading_path))
             if args.save_path:
                 save_path = os.path.join(args.save_path, f"{args.topic}_{difficulty}.json")
@@ -156,3 +162,5 @@ if __name__ == '__main__':
     main(args)
 
     # python quiz_creator.py --topic 2fa --reading_path content_generation/content/reading/2fa --save_path content_generation/content/quizzes/2fa
+    # python quiz_creator.py --topic 2fa --reading_path content_generation/content/reading/2fa --section two_factor_authentication --chapter introduction_to_2fa
+    # python quiz_creator.py --topic "online privacy" --reading_path content_generation/content/reading/online_privacy/introduction_to_online_privacy --section online_privacy --chapter introduction_to_online_privacy
