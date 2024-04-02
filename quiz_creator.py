@@ -12,23 +12,43 @@ def quiz_creator(q_gen, details, difficulty, topic, q_per_detail=1):
     quiz = []
 
     # create questions for each detail based on topic, difficulty
-    for level in difficulty:
-        #for detail in details:
+    for detail in details:
         for _ in range(q_per_detail):
-            # pass if question generation fails
-            try:
-                question = q_gen.create_questions(topic, details, level)
-            except:
-                print("Question generation failed")
-                continue
-            # test to see if llm output is valid json 
-            try: 
-                question_json = json.loads(question)
-            except json.JSONDecodeError:
-                raise ValueError("Questions are not in valid JSON format")
+            generated = False
+            while not generated:
+                # pass if question generation fails
+                try:
+                    question = q_gen.create_question(topic, detail, difficulty)
+                except Exception as e:
+                    print("Question generation failed: ", e)
+                    continue
+                print(question)
+                # test to see if llm output is valid json 
+                try: 
+                    question_json = json.loads(question)
+                except json.JSONDecodeError:
+                    print("Questions are not in valid JSON format")
+                    continue
 
-            for q in question_json['questions']:
-                quiz.append(q)
+                try:
+                    keys = question_json['choices'].keys()
+                    choices = ["a", "b", "c", "d"]
+                    for choice in choices:
+                        if choice not in keys:
+                            raise KeyError("Choices are not valid")
+                except KeyError:
+                    print("Choices are not valid", question_json)
+                    continue
+                
+                question = {
+                    "question": question_json['question'],
+                    "answer": question_json['answer'],
+                    "choices": question_json['choices'],
+                    "explanation": question_json['explanation'],
+                    "difficulty": difficulty
+                }
+                quiz.append(question)
+                generated = True
     return quiz
 
 
@@ -80,7 +100,6 @@ def main(args):
     if not args.save_path and not args.section and not args.chapter:
         raise ValueError("No save path or section and chapter specified")
     q_gen = QuestionGenerator()
-    quizzes = []
     if os.path.isdir(args.reading_path):
         file_names = []
         gen_args = []
@@ -90,6 +109,8 @@ def main(args):
                 if difficulty:
                     # get file for each reading file
                     reading_file_path = os.path.join(args.reading_path, file)
+                    file_names.append(file)
+                    # create arguments for generating quizzes with multiprocessing
                     gen_args.append((reading_file_path, difficulty, args))
 
         # generate quizzes for all reading files
@@ -98,7 +119,6 @@ def main(args):
         print("Quizzes created for", *file_names)
 
     else:
-        q_gen = QuestionGenerator()
         details = get_details(q_gen, args.reading_path, args.detail_count)
         file = os.path.basename(args.reading_path)
         difficulty = "beginner" if "beginner" in file else "intermediate" if "intermediate" in file else "expert" if "expert" in file else None
