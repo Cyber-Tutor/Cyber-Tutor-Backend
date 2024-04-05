@@ -43,18 +43,7 @@ class QuestionGenerator:
         Do not repeat answer choices.  Do not make answer choices too similar to each other.
         The "answer" key MUST be one of the choices in the "choices" list.
         """)
-        """
-        retriever = self.db.as_retriever()
 
-        chain = (
-            {"context": retriever}
-            | prompt_template
-            | self.llm
-            | StrOutputParser()
-        )
-        
-        result = chain.invoke(topic)
-        """
         result = self.llm.invoke(prompt_template.format(reading=reading, topic=topic, difficulty=difficulty, detail=detail))
         # return question if no error in generation occurred
         try:
