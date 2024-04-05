@@ -77,8 +77,7 @@ class QuestionGenerator:
             You are to read the following article.  Generate {count} details that could be used to create quiz questions based on the reading.  
             Do not generate quiz questions, only content that will be used in later prompts to generate the questions.
             Output the details as a JSON object with the keys for each detail being the index of the detail. Do not add ```json``` to the output.
-            If there are multiple details in a single line, separate them with a comma.
-            Keep the details contained to a single line.
+            If there are multiple details, separate them with a comma.
             Do not capitalize the first letter of the details.
             Use any and all relevant information from the article to generate the details.
             An example looks like: what is 2FA, specifically what type of methods are available
