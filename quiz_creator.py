@@ -7,6 +7,11 @@ import json
 import os
 
 
+"""
+Generates a quiz based on the reading content and difficulty level
+For each detail, it generates a question based on the topic, reading content, and difficulty level
+Returns a list of questions in a JSON object
+"""
 def quiz_creator(q_gen, reading, details, difficulty, topic, q_per_detail=1):
     # get list of question details from file
     quiz = []
@@ -52,6 +57,10 @@ def quiz_creator(q_gen, reading, details, difficulty, topic, q_per_detail=1):
     return quiz
 
 
+"""
+Generates a list of details based on the reading content
+Returns a list of details as a JSON object
+"""
 def get_details(q_gen, reading, detail_count):
     details_json = q_gen.detail_generator(reading, detail_count)
 
@@ -65,6 +74,12 @@ def get_details(q_gen, reading, detail_count):
     return details
     
 
+"""
+Creates a quiz based on the reading content and difficulty level
+Generates a list of details to base questions off of from the reading content
+Then it generates a quiz based on the details and reading content
+Quiz is saved to a file or uploaded to firebase
+"""
 def generate_quiz(reading, difficulty, args):
     q_gen = QuestionGenerator()
     name = os.path.basename(args.reading_path)
@@ -88,11 +103,17 @@ def generate_quiz(reading, difficulty, args):
         raise ValueError("No save path or section and chapter specified")
 
 
+"""
+Saves quiz to json file
+"""
 def save_quiz(quiz, save_path):
     with open(save_path, 'w') as f:
         json.dump(quiz, f)
 
 
+"""
+Opens reading file and returns content as a string
+"""
 def open_reading(reading_path):
     with open(reading_path, 'r') as f:
         reading = f.readlines()
@@ -100,6 +121,11 @@ def open_reading(reading_path):
     return reading
 
 
+"""
+Main function for generating quizzes
+If reading path is a directory, generates quizzes for all reading difficulties in the directory
+If reading path is a file, generates a quiz for the reading file
+"""
 def main(args):
     if not args.save_path and not args.section and not args.chapter:
         raise ValueError("No save path or section and chapter specified")
@@ -160,7 +186,3 @@ if __name__ == '__main__':
     parser.add_argument('--chapter', type=str, help='the chapter of the quiz questions', default=None)
     args = parser.parse_args()
     main(args)
-
-    # python quiz_creator.py --topic 2fa --reading_path content_generation/content/reading/2fa --save_path content_generation/content/quizzes/2fa
-    # python quiz_creator.py --topic 2fa --reading_path content_generation/content/reading/2fa --section two_factor_authentication --chapter introduction_to_2fa
-    # python quiz_creator.py --topic "online privacy" --reading_path content_generation/content/reading/online_privacy/introduction_to_online_privacy --section online_privacy --chapter introduction_to_online_privacy
