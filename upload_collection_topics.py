@@ -3,7 +3,6 @@ import json
 import firebase_admin
 from firebase_admin import credentials, firestore
 
-# Initialize Firebase
 cred = credentials.Certificate("serviceAccountKey.json")
 firebase_admin.initialize_app(cred)
 db = firestore.client()
@@ -20,7 +19,7 @@ def upload_data(file_path):
 
     for topic_details in data["topics"]:
         topic_id = to_snake_case(topic_details["topicTitle"])
-        topic_ref = db.collection("topics").document(topic_id)
+        topic_ref = db.collection("topics2").document(topic_id)
         topic_ref.set(
             {
                 "topicDescription": topic_details["topicDescription"],
@@ -57,4 +56,4 @@ def upload_data(file_path):
 
 
 if __name__ == "__main__":
-    upload_data("data/topics6.json")
+    upload_data("topics.json")
