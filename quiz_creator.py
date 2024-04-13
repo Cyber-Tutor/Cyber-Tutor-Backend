@@ -12,7 +12,7 @@ Generates a quiz based on the reading content and difficulty level
 For each detail, it generates a question based on the topic, reading content, and difficulty level
 Returns a list of questions in a JSON object
 """
-def quiz_creator(q_gen, reading, details, difficulty, topic, q_per_detail=1):
+def quiz_creator(q_gen, details, difficulty, topic, q_per_detail=1):
     # get list of question details from file
     quiz = []
 
@@ -23,7 +23,7 @@ def quiz_creator(q_gen, reading, details, difficulty, topic, q_per_detail=1):
             while not generated:
                 # pass if question generation fails
                 try:
-                    question = q_gen.create_question(reading, topic, detail, difficulty)
+                    question = q_gen.create_question(topic, detail, difficulty)
                 except Exception as e:
                     print("Question generation failed: ", e)
                     continue
@@ -89,7 +89,7 @@ def generate_quiz(reading, difficulty, args):
     print("Details generated for", name)
 
     print("Creating quiz for", name)
-    quiz = quiz_creator(q_gen, reading, details, difficulty, args.topic, args.q_per_detail)
+    quiz = quiz_creator(q_gen, details, difficulty, args.topic, args.q_per_detail)
     print("Quiz created for", name)
 
     if args.save_path:
