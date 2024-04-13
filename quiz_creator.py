@@ -84,23 +84,21 @@ def generate_quiz(reading, difficulty, args):
     q_gen = QuestionGenerator()
     name = os.path.basename(args.reading_path)
 
-    print("Generating details for", name)
+    print(f"Generating details for {name} at {difficulty} difficulty")
     details = get_details(q_gen, reading, args.detail_count)
-    print("Details generated for", name)
+    print(f"Details generated for {name} at {difficulty} difficulty")
 
-    print("Creating quiz for", name)
+    print(f"Creating quiz for {name} at {difficulty} difficulty")
     quiz = quiz_creator(q_gen, details, difficulty, args.topic, args.q_per_detail)
-    print("Quiz created for", name)
+    print(f"Quiz created for {name} at {difficulty} difficulty")
 
     if args.save_path:
         save_path = os.path.join(args.save_path, f"{args.topic}_{difficulty}.json")
         save_quiz(quiz, save_path)
-        print("Saved quiz locally for", name)
+        print(f"Saved quiz locally for {name} at {difficulty} difficulty at {save_path}")
     elif args.section and args.chapter:
         save_questions(quiz, args.section, args.chapter)
-        print("Saved quiz to firebase for", name)
-    else:
-        raise ValueError("No save path or section and chapter specified")
+        print(f"Saved quiz to firebase for {name} at {difficulty} difficulty")
 
 
 """
