@@ -29,7 +29,7 @@ def generate_reading(topic, details, difficulty):
         """You are an author who writes guides about cybersecurity topics.  The article is targeted at """ + difficulty + """ difficulty readers.
         Beginner readers are new to the topic and should be given a high level overview. Intermediate readers have some knowledge of the topic and need a more in-depth explanation. Expert readers are well versed in the topic and need a very detailed explanation.
         You are given the following context: {context}.  Write an article specifically about the following topics: """ + detail_list + """.
-        Go in depth into every detail about the topics.
+        Go in depth into every detail about the topics.  Replace any formatting with HTML tags.  Do not wrap then entire document in HTML tags.
         """
     )
     # chain to generate reading content
@@ -41,10 +41,14 @@ def generate_reading(topic, details, difficulty):
     )
 
     format_prompt = PromptTemplate.from_template(
-        """You are given a document that contains the following text: {document}.
-        It is written in markdown format.  Remove the markdown formatting.
-        Remove any # headers. Remove any **bold** and *italic* text.  Replace and * bullets with -.
-        Return the text as plain text.  These rules MUST be enforced.
+        """You are a HTML developer. You are given a document that contains the following text: {document}.
+        You need to make it render inside an already prepared HTML document properly.  Replace the markdown formatting with HTML tags.
+        Replace any **bold** text with <strong>bold</strong> text.  Replace any *italic* text with <em>italic</em> text.
+        Replace any - lists with <ul> lists.  Replace any 1. lists with <ol> lists.
+        Remove any duplicate tags. Do not include <!DOCTYPE html>, <html>, <head>, or <body> tags.
+        Do not wrap the entire document with ```html``` tags.
+        Make the title a <h1> tag.  Make the subtitles <h2> tags.  Make the paragraphs <p> tags.
+        Make sure all tags are properly closed.
         """
     )
     # chain to format reading content
@@ -80,6 +84,10 @@ if __name__ == '__main__':
     parser.add_argument('--difficulty', nargs='+', help='the difficulty of the reading', required=False, default=['beginner', 'intermediate', 'expert'])
     args = parser.parse_args()
 
+    for difficulty in args.difficulty:
+        if difficulty not in ['beginner', 'intermediate', 'expert']:
+            raise ValueError("Invalid difficulty level.  Difficulty must be beginner, intermediate, or expert")
+        
     # generate readings for each difficulty level using multiprocessing
     reading_args = [(args.topic, args.details, difficulty) for difficulty in args.difficulty]
     with Pool() as p:
