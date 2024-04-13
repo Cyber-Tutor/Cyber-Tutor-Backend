@@ -37,7 +37,7 @@ def load_reading(reading_path):
     with open(reading_path, 'r') as f:
         reading = f.readlines()
     reading = ''.join(reading)
-    reading = reading.replace('\n', '\\n')
+    #reading = reading.replace('\n', '\\n')
     return reading
 
 
