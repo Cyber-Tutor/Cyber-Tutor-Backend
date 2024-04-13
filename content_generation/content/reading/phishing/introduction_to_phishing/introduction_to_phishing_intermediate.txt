@@ -1,42 +1,38 @@
-Introduction to Phishing: A Comprehensive Guide for Intermediate Readers
+<h1>Introduction to Phishing</h1>
 
-Defining Phishing
-Phishing is a type of cyberattack that uses deceptive methods to trick individuals into surrendering personal or sensitive information, such as passwords, credit card numbers, or social security numbers. Attackers use various platforms such as email, phone (Vishing), and text messages (Smishing) to execute phishing scams. Their goal is to gain access to accounts or systems, often leading to identity theft or financial losses.
+<p>Phishing is a type of cyberattack that uses email, phone, or text messages to trick users into revealing sensitive information, such as passwords, credit card numbers, or personal details. Phishing attacks are often disguised as legitimate communications from a trusted source, such as a bank or a government agency.</p>
 
-How Phishing Works
-Phishing scams often employ tactics that evoke trust. Attackers may:
+<h2>How Does Phishing Work?</h2>
 
-- Impersonate Legitimate Organizations: They create emails or phone calls that appear to come from credible entities, such as banks, government agencies, or familiar companies.
-- Use Personalized Information: To make their communications seem more legitimate, attackers may include seemingly authentic details about the intended victim, such as their name, address, or recent transactions.
-- Create Urgency or Fear: Phishing messages often create a sense of urgency, pressuring victims to act quickly without proper consideration. Alternatively, they may evoke fear by threatening account suspension or financial penalties for non-compliance.
-- Request Sensitive Information: The ultimate goal of phishing attacks is to obtain sensitive information. This may include login credentials, credit card numbers, or personal identification numbers (PINs).
+<p>Phishing attacks typically follow a three-step process:</p>
 
-Types of Phishing Attacks
-Phishing attacks come in various forms, each employing distinct tactics:
+<ol>
+  <li><strong>The attacker sends an email, text message, or phone call that appears to come from a legitimate source.</strong> The message typically contains a link to a fake website or a request for sensitive information.</li>
+  <li><strong>The user clicks on the link or provides the requested information.</strong> This action could lead to the user's personal information being stolen or their computer being infected with malware.</li>
+  <li><strong>The attacker uses the stolen information to commit fraud or other crimes.</strong> This could include stealing money from the user's bank account, using their credit card to make unauthorized purchases, or selling their personal information to third parties.</li>
+</ol>
 
-- Email Phishing: The most prevalent phishing method involves sending emails that mimic legitimate communications from trusted sources. These emails often contain links that redirect users to malicious websites designed to steal sensitive information.
-- Spear Phishing: This targeted phishing attack focuses on specific individuals or organizations. Attackers gather personal information about their targets to craft highly personalized and convincing phishing emails.
-- Whaling: A sophisticated phishing attack that specifically targets high-level executives or influential individuals within an organization.
-- Clone Phishing: Attackers replicate legitimate emails by copying their headers and content, modifying only certain elements, such as the sender's address or attachments.
-- Man-in-the-Middle Phishing: Interception and alteration of legitimate emails during transmission, allowing attackers to insert malicious links or redirect users to phishing websites.
+<h2>What are the Different Types of Phishing Attacks?</h2>
 
-How to Avoid Phishing
-Recognizing and avoiding phishing scams requires vigilance and awareness:
+<p>There are many different types of phishing attacks, including:</p>
 
-- Examine Sender's Address: Scrutinize the sender's email address carefully. Look for any suspicious characters, misspellings, or unfamiliar domains.
-- Hover Over Links: Before clicking on any links, hover over them to reveal the actual destination URL. If the URL appears suspicious or does not match the sender's email address, do not proceed.
-- Be Wary of Attachments: Avoid opening attachments from unfamiliar senders or emails that appear suspicious. Malicious attachments can contain malware or viruses that compromise your system.
-- Use Strong Passwords: Employ robust and unique passwords for all online accounts to minimize the risk of compromise in the event of a phishing attack.
-- Educate Yourself: Stay informed about phishing techniques and educate yourself on the latest scams. Regularly check reputable sources for updates on phishing trends and security measures.
-- Use Antivirus and Anti-Phishing Software: Install and maintain up-to-date antivirus and anti-phishing software to proactively detect and block phishing threats.
-- Trust Your Instincts: If an email or phone call raises any suspicions or seems too good to be true, trust your instincts and do not engage.
+<ul>
+  <li><strong>Email phishing:</strong> This is the most common type of phishing attack. Phishing emails typically contain a link to a fake website or a request for sensitive information.</li>
+  <li><strong>Spear phishing:</strong> This is a more targeted type of phishing attack that is directed at specific individuals or organizations. Spear phishing emails are often personalized and appear to come from a trusted source, such as a friend or colleague.</li>
+  <li><strong>Whaling:</strong> This is a type of phishing attack that targets high-level executives. Whaling emails are often very sophisticated and can be difficult to detect.</li>
+  <li><strong>Smishing:</strong> This is a type of phishing attack that uses text messages. Smishing messages typically contain a link to a fake website or a request for sensitive information.</li>
+  <li><strong>Vishing:</strong> This is a type of phishing attack that uses phone calls. Vishing attacks often use automated messages to trick users into providing sensitive information.</li>
+</ul>
 
-Additional Tips for Phishing Avoidance
+<h2>How to Avoid Phishing</h2>
 
-- Disable Macros in Office Documents: By default, macros are disabled in Microsoft Office applications. Ensure that this setting remains disabled to prevent malicious macros from executing and infecting your system.
-- Use a Virtual Keyboard: When entering sensitive information online, consider using an on-screen virtual keyboard instead of your physical keyboard. This measure helps prevent keyloggers from capturing your keystrokes.
-- Be Mindful of Social Media: Be cautious about clicking on links or interacting with unfamiliar profiles on social media platforms, as these can be avenues for phishing attacks.
-- Report Phishing Attempts: If you encounter a phishing attempt, report it to the appropriate authorities and notify the organization being impersonated. This helps mitigate the threat for others and contributes to the collective fight against phishing.
+<p>There are a number of things you can do to avoid phishing attacks:</p>
 
-Conclusion
-Phishing remains a pervasive threat in the cybersecurity landscape. By understanding the tactics employed by attackers, being vigilant, and implementing effective preventive measures, you can protect yourself from falling victim to phishing scams. Remember, the key to staying safe is to be informed, cautious, and proactive.
+<ul>
+  <li>Be suspicious of any unsolicited emails, text messages, or phone calls that ask you to click on a link or provide sensitive information.</li>
+  <li>Hover over any links in emails or text messages before clicking on them. If the link does not go to the website that the email or text message claims it does, do not click on it.</li>
+  <li>Never provide sensitive information, such as your password, credit card number, or Social Security number, in response to an email, text message, or phone call.</li>
+  <li>Use strong passwords and change them regularly.</li>
+  <li>Keep your software up to date. Software updates often include security patches that can help to protect you from phishing attacks.</li>
+  <li>Be aware of the latest phishing scams. The Federal Trade Commission (FTC) has a website where you can report phishing attacks and learn about the latest scams..</li>
+</ul>
