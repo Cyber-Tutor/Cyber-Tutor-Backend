@@ -41,8 +41,8 @@ def quiz_creator(q_gen, details, difficulty, topic, q_per_detail=1):
                     for choice in choices:
                         if choice not in keys:
                             raise KeyError("Choices are not valid")
-                except KeyError:
-                    print("Choices are not valid", question_json)
+                except KeyError as e:
+                    print(e, question_json)
                     continue
                 
                 question = {
