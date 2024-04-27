@@ -41,16 +41,26 @@ def generate_reading(topic, details, difficulty):
     )
 
     format_prompt = PromptTemplate.from_template(
-        """You are a HTML developer. You are given a document that contains the following text: {document}.
+        """
+        You are a HTML developer. You are given a document that contains the following text: {document}.
         You need to make it render inside an already prepared HTML document properly.  Replace the markdown formatting with HTML tags.
-        Replace any **bold** text with <strong>bold</strong> text.  Replace any *italic* text with <em>italic</em> text.
-        Replace any - lists with <ul> lists.  Replace any 1. lists with <ol> lists.
         Remove any duplicate tags. Do not include <!DOCTYPE html>, <html>, <head>, or <body> tags.
-        Do not wrap the entire document with ```html``` tags.
-        Make the title a <h1> tag.  Make the subtitles <h2> tags.  Make the paragraphs <p> tags.
+        Do not wrap the entire document with html tags.
         Make sure all tags are properly closed.
+        Please decorate all classes with Tailwind CSS.
+        Do not use default HTML tags, but instead, use <div> tags
         """
     )
+    """
+    You are a HTML developer. You are given a document that contains the following text: {document}.
+    You need to make it render inside an already prepared HTML document properly.  Replace the markdown formatting with HTML tags.
+    Replace any **bold** text with <strong>bold</strong> text.  Replace any *italic* text with <em>italic</em> text.
+    Replace any - lists with <ul> lists.  Replace any 1. lists with <ol> lists.
+    Remove any duplicate tags. Do not include <!DOCTYPE html>, <html>, <head>, or <body> tags.
+    Do not wrap the entire document with ```html``` tags.
+    Make the title a <h1> tag.  Make the subtitles <h2> tags.  Make the paragraphs <p> tags.
+    Make sure all tags are properly closed.
+    """
     # chain to format reading content
     format_chain = (
         {"document": reading_chain}
