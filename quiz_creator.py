@@ -12,7 +12,7 @@ Generates a quiz based on the reading content and difficulty level
 For each detail, it generates a question based on the topic, reading content, and difficulty level
 Returns a list of questions in a JSON object
 """
-def quiz_creator(q_gen, details, difficulty, topic, q_per_detail=1):
+def quiz_creator(q_gen, reading, details, difficulty, topic, q_per_detail=1):
     # get list of question details from file
     quiz = []
 
@@ -23,7 +23,7 @@ def quiz_creator(q_gen, details, difficulty, topic, q_per_detail=1):
             while not generated:
                 # pass if question generation fails
                 try:
-                    question = q_gen.create_question(topic, detail, difficulty)
+                    question = q_gen.create_question(reading, topic, detail, difficulty)
                 except Exception as e:
                     print("Question generation failed: ", e)
                     continue
@@ -67,6 +67,7 @@ def get_details(q_gen, reading, detail_count):
     # test to see if llm output is valid json
     try:
         json.loads(details_json)
+        print(details_json)
     except json.JSONDecodeError:
         raise ValueError("Details are not in valid JSON format")
     # convert json to list
@@ -89,9 +90,9 @@ def generate_quiz(reading, difficulty, args):
     print(f"Details generated for {name} at {difficulty} difficulty")
 
     print(f"Creating quiz for {name} at {difficulty} difficulty")
-    quiz = quiz_creator(q_gen, details, difficulty, args.topic, args.q_per_detail)
+    quiz = quiz_creator(q_gen, reading, details, difficulty, args.topic, args.q_per_detail)
     print(f"Quiz created for {name} at {difficulty} difficulty")
-
+    
     if args.save_path:
         save_path = os.path.join(args.save_path, f"{args.topic}_{difficulty}.json")
         save_quiz(quiz, save_path)

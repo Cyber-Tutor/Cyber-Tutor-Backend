@@ -29,9 +29,10 @@ class QuestionGenerator:
     It generates as many questions as there are details, with each question targeting a specific detail
     Returns questions in a JSON object with the key "questions" containing a list of questions
     """
-    def create_question(self, topic, detail, difficulty):
+    def create_question(self, reading, topic, detail, difficulty):
         prompt_template = PromptTemplate.from_template("""
-        You are given the following context: {context}.
+        You are given the following context: {context}.     
+        Base the question on the following reading: """ + reading + """"       
         Write a multiple choice question (a, b, c, d) about """ + topic + """, targeted towards a difficulty of """ + difficulty + """.
         The question should specifically be about """ + detail + """.
         Format the response as a JSON object.  The JSON object with the following keys:
@@ -53,7 +54,7 @@ class QuestionGenerator:
             | StrOutputParser()
         )
 
-        result = chain.invoke(topic)
+        result = chain.invoke(detail)
         # return question if no error in generation occurred
         try:
             return result
