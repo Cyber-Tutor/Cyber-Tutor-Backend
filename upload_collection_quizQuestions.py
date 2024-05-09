@@ -12,8 +12,6 @@ def upload_quiz_questions(input_file_path, db):
         data = json.load(f)
 
     for question in data["quizQuestions"]:
-        question_id = question["questionId"]
-        question_ref = db.collection("quizQuestions").document(question_id)
         question_data = {
             key: val
             for key, val in question.items()
@@ -28,9 +26,10 @@ def upload_quiz_questions(input_file_path, db):
                 "explanation",
                 "topics",
                 "fromChapter",
+                "isHumanWritten",
             ]
         }
-        question_ref.set(question_data)
+        db.collection("quizQuestions").add(question_data)
 
 
 if __name__ == "__main__":
