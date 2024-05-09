@@ -14,7 +14,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_password_creation_skills",
       "question": "To avoid security breaches, what should you NOT do with your password?",
-      "questionId": "02AWyF3zsJIOs4Dp4Pjx"
+      "questionId": "02AWyF3zsJIOs4Dp4Pjx",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -30,7 +31,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_password_creation_skills",
       "question": "Why is it imperative to refrain from reusing the same password for multiple accounts?",
-      "questionId": "0BgwCbnR9MrBK02EdJ5k"
+      "questionId": "0BgwCbnR9MrBK02EdJ5k",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -46,7 +48,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_password_security_knowledge",
       "question": "What is a potential vulnerability of using a code generator for 2FA?",
-      "questionId": "0b5J7PtZTpHbpSMfJmU2"
+      "questionId": "0b5J7PtZTpHbpSMfJmU2",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -62,7 +65,8 @@
       "difficulty": "expert",
       "chapterId": "understanding_2fa",
       "question": "Of the following, which is the most accurate description of 2FA?",
-      "questionId": "0yUmLQ1kBz3w44orjFo8"
+      "questionId": "0yUmLQ1kBz3w44orjFo8",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -78,7 +82,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is a telltale sign of identity theft?",
-      "questionId": "121bL0YJHw8iyGCpZ3HL"
+      "questionId": "121bL0YJHw8iyGCpZ3HL",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -94,7 +99,8 @@
       "difficulty": "expert",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "What are two common methods of authentication used in 2FA?",
-      "questionId": "13aBGCfYDq5UG2qiWpQ4"
+      "questionId": "13aBGCfYDq5UG2qiWpQ4",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -110,7 +116,8 @@
       "difficulty": "beginner",
       "chapterId": "understanding_2fa",
       "question": "Which of the following does **not** qualify as two-factor authentication?",
-      "questionId": "1QtvAfg4ESX7U1EVh1Sh"
+      "questionId": "1QtvAfg4ESX7U1EVh1Sh",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -126,7 +133,8 @@
       "difficulty": "intermediate",
       "chapterId": "understanding_2fa",
       "question": "Which of the following websites allow you to enable 2FA?",
-      "questionId": "1pZjhiX6AEuU0jo2xrjy"
+      "questionId": "1pZjhiX6AEuU0jo2xrjy",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -142,7 +150,8 @@
       "difficulty": "beginner",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Users may be at greater risk of compromised passwords than they realize, particularly if they use the same password on more than one website.  Why is this the case?",
-      "questionId": "27OhUupNlkj7gmewL3oT"
+      "questionId": "27OhUupNlkj7gmewL3oT",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -158,7 +167,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is NOT a way to avoid phishing scams?",
-      "questionId": "2HYh99irQcbVoM4ovzNJ"
+      "questionId": "2HYh99irQcbVoM4ovzNJ",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -174,7 +184,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following is NOT a security flaw that can be addressed by installing software updates?",
-      "questionId": "2RumM7NORkMLuAOAp34g"
+      "questionId": "2RumM7NORkMLuAOAp34g",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -190,7 +201,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_password_creation_skills",
       "question": "Why is it crucial to employ a strong password?",
-      "questionId": "2SfUaam4RSlOffSNT6Qg"
+      "questionId": "2SfUaam4RSlOffSNT6Qg",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -206,7 +218,8 @@
       "difficulty": "beginner",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is NOT an example of 2FA in online contexts?",
-      "questionId": "2UyPqxdbqcBs0nfMs2Ti"
+      "questionId": "2UyPqxdbqcBs0nfMs2Ti",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -222,7 +235,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "What is Multi-Factor Authentication (MFA) commonly used for?",
-      "questionId": "2YL4tYinMcV6AG1FgCgK"
+      "questionId": "2YL4tYinMcV6AG1FgCgK",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -238,7 +252,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_password_security_knowledge",
       "question": "What is the most popular method of two-factor authentication?",
-      "questionId": "36l1guPqUyaiX3r9jq6E"
+      "questionId": "36l1guPqUyaiX3r9jq6E",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -254,7 +269,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_phishing_knowledge",
       "question": "What should you do if you receive an email or text message from an unknown sender?",
-      "questionId": "3DbcSrmt2ia7Pyk34DgL"
+      "questionId": "3DbcSrmt2ia7Pyk34DgL",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -270,7 +286,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is NOT a reason why text messages are not considered a true form of two-factor authentication (2FA)?",
-      "questionId": "3MRnHNiXupp98QyXV6VJ"
+      "questionId": "3MRnHNiXupp98QyXV6VJ",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -286,7 +303,8 @@
       "difficulty": "expert",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which of the following is a common cause of compromised passwords?",
-      "questionId": "3REINQpkxhR4reXkIZfh"
+      "questionId": "3REINQpkxhR4reXkIZfh",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -302,7 +320,8 @@
       "difficulty": "expert",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "In which situation might you use 2FA using a zip code?",
-      "questionId": "3fZecv6fkueVrxoNaY4L"
+      "questionId": "3fZecv6fkueVrxoNaY4L",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -318,7 +337,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "What are two reasons to perform software updates?",
-      "questionId": "3z2Zgj0BeFfa2JiMvGYJ"
+      "questionId": "3z2Zgj0BeFfa2JiMvGYJ",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -334,7 +354,8 @@
       "difficulty": "expert",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "2FA uses what type of identifier?",
-      "questionId": "460RreE6xUIkWQn56Y0b"
+      "questionId": "460RreE6xUIkWQn56Y0b",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -350,7 +371,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Through which channels are phishing attacks typically carried out?",
-      "questionId": "4GGFNeSDxU8SW1OACIlG"
+      "questionId": "4GGFNeSDxU8SW1OACIlG",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -366,7 +388,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_password_creation_skills",
       "question": "When selecting a password manager, the most important factor to consider is:",
-      "questionId": "4J1GYpebIalxyAXE6SDI"
+      "questionId": "4J1GYpebIalxyAXE6SDI",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -382,7 +405,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_password_security_knowledge",
       "question": "What is the first factor of two-factor authentication (2FA)?",
-      "questionId": "4Jmcl3X5GutQ5M4aOO3I"
+      "questionId": "4Jmcl3X5GutQ5M4aOO3I",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -398,7 +422,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following are NOT a key to confirm identity?",
-      "questionId": "4fxUUMBFmLXFN5aOpCCh"
+      "questionId": "4fxUUMBFmLXFN5aOpCCh",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -414,7 +439,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_phishing_knowledge",
       "question": "When you receive a message asking you to click on a link or open an attachment, what should you do?",
-      "questionId": "4ty6ATXUQhVvpBDWq1ai"
+      "questionId": "4ty6ATXUQhVvpBDWq1ai",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -430,7 +456,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following is a primary reason why software updates are important?",
-      "questionId": "5FWsv7W3RRCUMSfJL9ja"
+      "questionId": "5FWsv7W3RRCUMSfJL9ja",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -446,7 +473,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "What is the first factor of authentication?",
-      "questionId": "5Ic9WSfsrwLZvjzzm64U"
+      "questionId": "5Ic9WSfsrwLZvjzzm64U",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -462,7 +490,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_password_creation_skills",
       "question": "Which of the following is NOT a recommended practice to avoid password theft?",
-      "questionId": "5opOzOPLUNDmi07VnIVl"
+      "questionId": "5opOzOPLUNDmi07VnIVl",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -478,7 +507,8 @@
       "difficulty": "intermediate",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "When it comes to online security, which of the following is a more secure option?",
-      "questionId": "5rVcjzSZeop5RmIGKM5v"
+      "questionId": "5rVcjzSZeop5RmIGKM5v",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -494,7 +524,8 @@
       "difficulty": "intermediate",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Examples of 2FA include:",
-      "questionId": "5rZLB6eIzx6fRpIMijar"
+      "questionId": "5rZLB6eIzx6fRpIMijar",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -510,7 +541,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_password_security_knowledge",
       "question": "What is the purpose of two-factor authentication (2FA)?",
-      "questionId": "5ulnn3LYoKXfFWVfnnmK"
+      "questionId": "5ulnn3LYoKXfFWVfnnmK",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -526,7 +558,8 @@
       "difficulty": "expert",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following is a recommended practice for protecting online privacy by minimizing the amount of information shared online?",
-      "questionId": "61eqo8CvBnyIjdiew0B5"
+      "questionId": "61eqo8CvBnyIjdiew0B5",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -542,7 +575,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "What is the purpose of two-factor authentication?",
-      "questionId": "6agG74s8qrTX4gG5bgyZ"
+      "questionId": "6agG74s8qrTX4gG5bgyZ",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -558,7 +592,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following is an example of phishing red flag?",
-      "questionId": "6mfPkOkjPfz6A7wIPsIo"
+      "questionId": "6mfPkOkjPfz6A7wIPsIo",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -574,7 +609,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_password_creation_skills",
       "question": "Why is it not recommended to use personal information in passwords?",
-      "questionId": "6pIfqoULPm3rZTrrvz1p"
+      "questionId": "6pIfqoULPm3rZTrrvz1p",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -590,7 +626,8 @@
       "difficulty": "intermediate",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following is NOT a benefit of enabling two-factor authentication (2FA) for online accounts?",
-      "questionId": "7HHPZHzai8R9A8J1RhV9"
+      "questionId": "7HHPZHzai8R9A8J1RhV9",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -606,7 +643,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following actions should you be cautious of to avoid phishing scams?",
-      "questionId": "7LYUFbT7S6VWqBPal0nz"
+      "questionId": "7LYUFbT7S6VWqBPal0nz",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -622,7 +660,8 @@
       "difficulty": "beginner",
       "chapterId": "understanding_2fa",
       "question": "True or False: 2FA is a security system that requires two separate forms of identification.",
-      "questionId": "7Mc3FVWe6Qk7thohkCY5"
+      "questionId": "7Mc3FVWe6Qk7thohkCY5",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -638,7 +677,8 @@
       "difficulty": "beginner",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which action is considered a best practice for protecting your online privacy?",
-      "questionId": "7OTjALuj83bDafDDK57z"
+      "questionId": "7OTjALuj83bDafDDK57z",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -654,7 +694,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Whaling emails are often very sophisticated and can be difficult to detect. Which of the following best describes why this is true?",
-      "questionId": "7SlWABimxXlbBeauY8Wy"
+      "questionId": "7SlWABimxXlbBeauY8Wy",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -670,7 +711,8 @@
       "difficulty": "expert",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which of the following is an example of knowledge-based authentication?",
-      "questionId": "7cLYGMH3wHLYHX05lmhi"
+      "questionId": "7cLYGMH3wHLYHX05lmhi",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -686,7 +728,8 @@
       "difficulty": "beginner",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following is NOT a threat to online privacy?",
-      "questionId": "7fY5i2IWPFZ1A3i8a4A2"
+      "questionId": "7fY5i2IWPFZ1A3i8a4A2",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -702,7 +745,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_password_creation_skills",
       "question": "Which two components does 2FA require in order to gain access to an account?",
-      "questionId": "7gEzuhMJOAcTtODQET7K"
+      "questionId": "7gEzuhMJOAcTtODQET7K",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -718,7 +762,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_password_creation_skills",
       "question": "Which of the following is a benefit of utilizing a password manager?",
-      "questionId": "7h2vSl9an4LdU6FOeje8"
+      "questionId": "7h2vSl9an4LdU6FOeje8",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -734,7 +779,8 @@
       "difficulty": "intermediate",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Why do ATM machines often require the use of two types of authentication?",
-      "questionId": "82chvnZ7pSEPbbKdOpbp"
+      "questionId": "82chvnZ7pSEPbbKdOpbp",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -750,7 +796,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following benefits do software updates provide?",
-      "questionId": "89Ebu31YcnRLUN4urTrx"
+      "questionId": "89Ebu31YcnRLUN4urTrx",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -766,7 +813,8 @@
       "difficulty": "beginner",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "What is the most common way to protect online accounts, especially banking and email?",
-      "questionId": "8CksxPNUCtsD3PSREbNp"
+      "questionId": "8CksxPNUCtsD3PSREbNp",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -782,7 +830,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_password_creation_skills",
       "question": "Which of the following is a security question?",
-      "questionId": "8SycJe3SiDLIvjmtvQ6i"
+      "questionId": "8SycJe3SiDLIvjmtvQ6i",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -798,7 +847,8 @@
       "difficulty": "expert",
       "chapterId": "testing_password_security_knowledge",
       "question": "Where is two-factor authentication (2FA) used outside of online contexts?",
-      "questionId": "8qGyMHJayeQuJ74wP3We"
+      "questionId": "8qGyMHJayeQuJ74wP3We",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -814,7 +864,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Although using a strong password is not directly related to phishing, it is good practice to have one.  Which of the following is NOT a characteristic of a strong password?",
-      "questionId": "90iA8JlTZXCrsUjqCqmw"
+      "questionId": "90iA8JlTZXCrsUjqCqmw",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -830,7 +881,8 @@
       "difficulty": "expert",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Why are online service providers using 2FA more often?",
-      "questionId": "91gDIRcz4pY2a4m7pSXt"
+      "questionId": "91gDIRcz4pY2a4m7pSXt",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -846,7 +898,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following is NOT a method to identify real software updates?",
-      "questionId": "9FNMlI1QMiSyuOrfEzWx"
+      "questionId": "9FNMlI1QMiSyuOrfEzWx",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -862,7 +915,8 @@
       "difficulty": "intermediate",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is true about the first factor used in two-factor authentication?",
-      "questionId": "9Gm4MQSa3DrN9rdmzN2j"
+      "questionId": "9Gm4MQSa3DrN9rdmzN2j",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -878,7 +932,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_password_security_knowledge",
       "question": "What happens if a hacker guesses or cracks your password?",
-      "questionId": "9JSp2WWlSg6bMYd6ksx1"
+      "questionId": "9JSp2WWlSg6bMYd6ksx1",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -894,7 +949,8 @@
       "difficulty": "expert",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "How is the first level of authentication provided?",
-      "questionId": "9KWUea69NE2NiivQoCfA"
+      "questionId": "9KWUea69NE2NiivQoCfA",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -910,7 +966,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is NOT a good practice for secure browsing?",
-      "questionId": "9aaWWesbak0YZwTvKExw"
+      "questionId": "9aaWWesbak0YZwTvKExw",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -926,7 +983,8 @@
       "difficulty": "expert",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is considered a possession factor in the context of two-factor authentication?",
-      "questionId": "9bYfrccw1j4DCGddl3zX"
+      "questionId": "9bYfrccw1j4DCGddl3zX",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -942,7 +1000,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_password_creation_skills",
       "question": "Why is it not recommended to reuse passwords for multiple accounts?",
-      "questionId": "9gLwSOReghA0qD5dXE0l"
+      "questionId": "9gLwSOReghA0qD5dXE0l",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -958,7 +1017,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is a good way to protect your online privacy?",
-      "questionId": "9ibYQ86DKjC7u0Hs4uzA"
+      "questionId": "9ibYQ86DKjC7u0Hs4uzA",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -974,7 +1034,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Malware, such as keyloggers, can give cybercriminals access to your accounts. Which type of action will prevent this type of malware from being successful?",
-      "questionId": "9qj3iXu8yYJ9NdDzzllg"
+      "questionId": "9qj3iXu8yYJ9NdDzzllg",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -990,7 +1051,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following is a name given to a phishing attack that uses phone calls to trick users?",
-      "questionId": "9quExkmP88REZM4RSacR"
+      "questionId": "9quExkmP88REZM4RSacR",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1006,7 +1068,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following is NOT a benefit of software updates?",
-      "questionId": "9uJyoW8ld4uK1wTSJ3Nc"
+      "questionId": "9uJyoW8ld4uK1wTSJ3Nc",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1022,7 +1085,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_password_creation_skills",
       "question": "Which of the following is NOT a secure method for storing passwords?",
-      "questionId": "9ylDvGilsEcUBcJaIE5D"
+      "questionId": "9ylDvGilsEcUBcJaIE5D",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1038,7 +1102,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Software updates often fix program bugs that cause programs to crash or act strangely after they've been installed for a while. Which of these is a benefit of installing software updates?",
-      "questionId": "A1srQTiWWUB0coIRhwqN"
+      "questionId": "A1srQTiWWUB0coIRhwqN",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1054,7 +1119,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "What is a key best practice for avoiding online identity theft?",
-      "questionId": "ANliNXc1omFwsimyhxqE"
+      "questionId": "ANliNXc1omFwsimyhxqE",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1070,7 +1136,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which statement describes phishing?",
-      "questionId": "AdE0MD0CQ2cqPPl7btIa"
+      "questionId": "AdE0MD0CQ2cqPPl7btIa",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1086,7 +1153,8 @@
       "difficulty": "beginner",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following is a crucial aspect of online privacy?",
-      "questionId": "AevKEkZtM9bZ7lzmt5qv"
+      "questionId": "AevKEkZtM9bZ7lzmt5qv",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1102,7 +1170,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which of the following is NOT a reason to avoid reusing passwords across multiple accounts?",
-      "questionId": "Ag5cQdAyIulC0ewpYrlN"
+      "questionId": "Ag5cQdAyIulC0ewpYrlN",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1118,7 +1187,8 @@
       "difficulty": "beginner",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is a type of 2FA that relies on physical possession of an object?",
-      "questionId": "AqxBCjKf5veqhppejK8W"
+      "questionId": "AqxBCjKf5veqhppejK8W",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1134,7 +1204,8 @@
       "difficulty": "intermediate",
       "chapterId": "understanding_2fa",
       "question": "When using your phone as a 2FA method, what security measure should be taken?",
-      "questionId": "ArxczCS53dAE9oHQbSFL"
+      "questionId": "ArxczCS53dAE9oHQbSFL",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1150,7 +1221,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following is NOT a common goal of phishing emails?",
-      "questionId": "BfDzQhE9TnFfOdBMxJbK"
+      "questionId": "BfDzQhE9TnFfOdBMxJbK",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1166,7 +1238,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following is a potential indicator of a phishing email, assuming no other indicators such as URL discrepancies or sender reputation?",
-      "questionId": "BgfRvR5YWxu8OIO3VNgl"
+      "questionId": "BgfRvR5YWxu8OIO3VNgl",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1182,7 +1255,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_password_creation_skills",
       "question": "What are two benefits of using an authenticator app?",
-      "questionId": "Bhq199dGfpAFok7frrj7"
+      "questionId": "Bhq199dGfpAFok7frrj7",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1198,7 +1272,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Examples of 2FA include entering a zip code at a gas pump or using an RSA SecurID key fob.",
-      "questionId": "Btl18n6lue1z1eUJIUoy"
+      "questionId": "Btl18n6lue1z1eUJIUoy",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1214,7 +1289,8 @@
       "difficulty": "intermediate",
       "chapterId": "understanding_2fa",
       "question": "In which scenario can 2FA be used?",
-      "questionId": "CBSAZBVbHQPiS3a3houy"
+      "questionId": "CBSAZBVbHQPiS3a3houy",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1230,7 +1306,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_password_creation_skills",
       "question": "What are two advantages of using a password manager?",
-      "questionId": "CDNMi7QD5sxi4yL8cgMN"
+      "questionId": "CDNMi7QD5sxi4yL8cgMN",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1246,7 +1323,8 @@
       "difficulty": "expert",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is NOT considered a knowledge factor in 2FA?",
-      "questionId": "CMBVZZutbRtPIgmJvQtJ"
+      "questionId": "CMBVZZutbRtPIgmJvQtJ",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1262,7 +1340,8 @@
       "difficulty": "beginner",
       "chapterId": "understanding_2fa",
       "question": "Is it true that 2FA is a foolproof method of improving an account's security?",
-      "questionId": "CUWUnqtZbY3iobQ9sgmR"
+      "questionId": "CUWUnqtZbY3iobQ9sgmR",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1278,7 +1357,8 @@
       "difficulty": "expert",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "What is one browser extension that can help protect your online privacy?",
-      "questionId": "Ct1EH5voJ3jSiZgevIn4"
+      "questionId": "Ct1EH5voJ3jSiZgevIn4",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1294,7 +1374,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following is the MOST important rule to follow to avoid phishing scams?",
-      "questionId": "D1TUKFVY9kPuKvsQFyiJ"
+      "questionId": "D1TUKFVY9kPuKvsQFyiJ",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1310,7 +1391,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which type of security measure includes a combination of something the user knows, something the user has, and something the user is?",
-      "questionId": "DMDgwCKJY9JFbSDGtPZs"
+      "questionId": "DMDgwCKJY9JFbSDGtPZs",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1326,7 +1408,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following accurately describes a software update?",
-      "questionId": "DmwFzBujoAmyAWQm7EV2"
+      "questionId": "DmwFzBujoAmyAWQm7EV2",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1342,7 +1425,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_password_creation_skills",
       "question": "Which feature should you look for in a password manager to create unique passwords?",
-      "questionId": "DpwK49OaxeAJOOlersIO"
+      "questionId": "DpwK49OaxeAJOOlersIO",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1358,7 +1442,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following is NOT a common tactic used by phishing attackers to increase the likelihood of their attacks being successful?",
-      "questionId": "DtnXWdpDYDiXuL1OuUsV"
+      "questionId": "DtnXWdpDYDiXuL1OuUsV",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1374,7 +1459,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following is a common trait of phishing emails?",
-      "questionId": "E2WvzkiMkBvOGWC0V4dU"
+      "questionId": "E2WvzkiMkBvOGWC0V4dU",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1390,7 +1476,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is NOT a primary type of authentication?",
-      "questionId": "E9F14rUnDuhKqxlljqvw"
+      "questionId": "E9F14rUnDuhKqxlljqvw",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1406,7 +1493,8 @@
       "difficulty": "intermediate",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is NOT a common method for accessing two-factor authentication codes?",
-      "questionId": "ENVV2eDLE1JUDQokXSEP"
+      "questionId": "ENVV2eDLE1JUDQokXSEP",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1422,7 +1510,8 @@
       "difficulty": "beginner",
       "chapterId": "understanding_2fa",
       "question": "Which can increase the risk of password theft?  ",
-      "questionId": "EUpBKnhE5nbcVe4SbRtM"
+      "questionId": "EUpBKnhE5nbcVe4SbRtM",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1438,7 +1527,8 @@
       "difficulty": "intermediate",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "A combination of these authentication methods is often used for added security. Which combination is most commonly used?",
-      "questionId": "EZKusOuZsPYxok0X1SRl"
+      "questionId": "EZKusOuZsPYxok0X1SRl",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1454,7 +1544,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is NOT a characteristic of phishing attacks?",
-      "questionId": "ErJdpRoPQEZODFp43Y5T"
+      "questionId": "ErJdpRoPQEZODFp43Y5T",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1470,7 +1561,8 @@
       "difficulty": "beginner",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "What is a common second factor for online security?",
-      "questionId": "F96bXTqVz7ubeKabPfS4"
+      "questionId": "F96bXTqVz7ubeKabPfS4",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1486,7 +1578,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_password_creation_skills",
       "question": "Which of the following is NOT a reason to regularly update software?",
-      "questionId": "FABIQQTqnpMaceFMlp9S"
+      "questionId": "FABIQQTqnpMaceFMlp9S",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1502,7 +1595,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Do most software programs automatically check for updates?",
-      "questionId": "Fui5njvRFOrGEw4wAUMn"
+      "questionId": "Fui5njvRFOrGEw4wAUMn",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1518,7 +1612,8 @@
       "difficulty": "expert",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which of the following is NOT a component of two-factor authentication (2FA)?",
-      "questionId": "FzOZ1K7tqqTjqRgl9Chy"
+      "questionId": "FzOZ1K7tqqTjqRgl9Chy",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1534,7 +1629,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following is a recommended practice to avoid phishing scams targeting email or text links?",
-      "questionId": "G4jtpuVRdhkZUAw4i4IJ"
+      "questionId": "G4jtpuVRdhkZUAw4i4IJ",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1550,7 +1646,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which of the following is NOT a way to improve password security?",
-      "questionId": "G7ouX6O5ikKUtR8400Gz"
+      "questionId": "G7ouX6O5ikKUtR8400Gz",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1566,7 +1663,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "How can software updates be installed manually?",
-      "questionId": "GBWxMAERGJ1P7vbIGEVD"
+      "questionId": "GBWxMAERGJ1P7vbIGEVD",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1582,7 +1680,8 @@
       "difficulty": "expert",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following is NOT required for 2FA identification?",
-      "questionId": "GI9o6VuWLUIf1QkhANjI"
+      "questionId": "GI9o6VuWLUIf1QkhANjI",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1598,7 +1697,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is NOT a type of authentication factor?",
-      "questionId": "GJPqkKvXcXWnvYYOgNwy"
+      "questionId": "GJPqkKvXcXWnvYYOgNwy",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1614,7 +1714,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following is NOT a reason to keep software up to date with security patches?",
-      "questionId": "GVRAd27vCbD83RYbTnVl"
+      "questionId": "GVRAd27vCbD83RYbTnVl",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1630,7 +1731,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_phishing_knowledge",
       "question": "To protect your email account and other online accounts, it is recommended to use a:",
-      "questionId": "GWKrkEPKP4ylXNGIMIyS"
+      "questionId": "GWKrkEPKP4ylXNGIMIyS",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1646,7 +1748,8 @@
       "difficulty": "expert",
       "chapterId": "understanding_2fa",
       "question": "In two-factor authentication, what is the role of a security question?",
-      "questionId": "Gh6ax9tTtuKy6OYEAmXA"
+      "questionId": "Gh6ax9tTtuKy6OYEAmXA",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1662,7 +1765,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_password_creation_skills",
       "question": "What is a drawback of storing passwords on paper?",
-      "questionId": "GnPScXEdR0T9Ekq08cGD"
+      "questionId": "GnPScXEdR0T9Ekq08cGD",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1678,7 +1782,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which type of phishing is specifically designed to impersonate a known individual, such as a co-worker or friend?",
-      "questionId": "GqsQdHkH5wfzFvmHOhLk"
+      "questionId": "GqsQdHkH5wfzFvmHOhLk",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1694,7 +1799,8 @@
       "difficulty": "expert",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following are the three types of authentication factors?",
-      "questionId": "HC9I5bU8nC92XwghSyEn"
+      "questionId": "HC9I5bU8nC92XwghSyEn",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1710,7 +1816,8 @@
       "difficulty": "expert",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which of the following is the most secure method for storing passwords?",
-      "questionId": "HgAXRvPl9wNy958PUkgd"
+      "questionId": "HgAXRvPl9wNy958PUkgd",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1726,7 +1833,8 @@
       "difficulty": "expert",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "In the context of 2FA, which of the following is considered the second factor?",
-      "questionId": "HmM69EvmTA9PfRia72ih"
+      "questionId": "HmM69EvmTA9PfRia72ih",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1742,7 +1850,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_phishing_knowledge",
       "question": "When receiving emails or text messages from unknown senders, it is important to be suspicious. Which of the following is NOT a tactic used by phishing attackers to appear legitimate?",
-      "questionId": "Hnqw6XxIyQWepJ8yc5Jr"
+      "questionId": "Hnqw6XxIyQWepJ8yc5Jr",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1758,7 +1867,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is a valid reason to change your security question answers?",
-      "questionId": "HqpmUgExhy0rhtmcYR0b"
+      "questionId": "HqpmUgExhy0rhtmcYR0b",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1774,7 +1884,8 @@
       "difficulty": "expert",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "What is an example of something you have that can be used for 2FA?",
-      "questionId": "HwfDtbh4KFxm1lhuDJyG"
+      "questionId": "HwfDtbh4KFxm1lhuDJyG",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1790,7 +1901,8 @@
       "difficulty": "beginner",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is NOT a method of 2FA?",
-      "questionId": "IOEEIlCF9eH3GDlmTdfs"
+      "questionId": "IOEEIlCF9eH3GDlmTdfs",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1806,7 +1918,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_password_creation_skills",
       "question": "Which of the following types of information should NOT be used in a password?",
-      "questionId": "IPDfmJXoSakCn90eKitH"
+      "questionId": "IPDfmJXoSakCn90eKitH",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1822,7 +1935,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_password_security_knowledge",
       "question": "What is a potential vulnerability of using a physical token for two-factor authentication (2FA)?",
-      "questionId": "ISFIzRt4cqIVqhLpUXry"
+      "questionId": "ISFIzRt4cqIVqhLpUXry",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1838,7 +1952,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_password_creation_skills",
       "question": "What is a code generator?",
-      "questionId": "ISKs2dmZeDxyJhHOzsgV"
+      "questionId": "ISKs2dmZeDxyJhHOzsgV",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1854,7 +1969,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which account recovery procedure can be used when the user cannot access their primary account or the account's password has been compromised?",
-      "questionId": "J8J4qPomXg9M9p53WeDO"
+      "questionId": "J8J4qPomXg9M9p53WeDO",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1870,7 +1986,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_password_creation_skills",
       "question": "Which feature should you look for in a password manager to ensure the security of your data?",
-      "questionId": "J8tVnzL56jsHaVrNe2iR"
+      "questionId": "J8tVnzL56jsHaVrNe2iR",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1886,7 +2003,8 @@
       "difficulty": "expert",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "2FA involves using another method to confirm your identity after entering your password. Which method is an example of 2FA that uses a biometric identifier?",
-      "questionId": "JBLt67X6KBkh52vv35Se"
+      "questionId": "JBLt67X6KBkh52vv35Se",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1902,7 +2020,8 @@
       "difficulty": "intermediate",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is NOT a common method of implementing 2FA?",
-      "questionId": "JPMmY5Mc6L85VffPVIua"
+      "questionId": "JPMmY5Mc6L85VffPVIua",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1918,7 +2037,8 @@
       "difficulty": "beginner",
       "chapterId": "understanding_2fa",
       "question": "Which of the following sites does NOT allow you to enable 2FA?",
-      "questionId": "JTdb3s7trKlqYpRgLY7Y"
+      "questionId": "JTdb3s7trKlqYpRgLY7Y",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1934,7 +2054,8 @@
       "difficulty": "expert",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which vulnerability does 2FA **NOT** help fix?",
-      "questionId": "Ju5bQAI0wR3mMKedBbig"
+      "questionId": "Ju5bQAI0wR3mMKedBbig",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1950,7 +2071,8 @@
       "difficulty": "expert",
       "chapterId": "understanding_2fa",
       "question": "In the context of 2FA, what is NOT a characteristic of a smart card?",
-      "questionId": "K6MScpYda9FiMD1woSus"
+      "questionId": "K6MScpYda9FiMD1woSus",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1966,7 +2088,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following is a tactic used by whaling attackers, where they send personalized messages to specific targets by using sensitive data discovered through reconnaissance?",
-      "questionId": "K7Zlmd5OmlCIKbIaXfas"
+      "questionId": "K7Zlmd5OmlCIKbIaXfas",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1982,7 +2105,8 @@
       "difficulty": "beginner",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "What is **NOT** a benefit of Two-factor authentication (2FA)?",
-      "questionId": "K87n1mb7UurfEUfLOIDB"
+      "questionId": "K87n1mb7UurfEUfLOIDB",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -1998,7 +2122,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_password_security_knowledge",
       "question": "What is a password manager and what is its purpose?",
-      "questionId": "KTEMsfGKc7BVsCKfvZFF"
+      "questionId": "KTEMsfGKc7BVsCKfvZFF",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2014,7 +2139,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_phishing_knowledge",
       "question": "When a victim clicks on a phishing link, they are taken to a fake website that collects their personal information. What is this type of phishing attack called?",
-      "questionId": "KUfFu2yX66sii72hExuh"
+      "questionId": "KUfFu2yX66sii72hExuh",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2030,7 +2156,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which of the following is a key benefit of creating strong passwords against password guessing attempts?",
-      "questionId": "KkfzSk97bnfv2dUgGDzO"
+      "questionId": "KkfzSk97bnfv2dUgGDzO",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2046,7 +2173,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which of the following is NOT a method of brute force password attacks?",
-      "questionId": "LI7QofG2bKeqDXFGerfH"
+      "questionId": "LI7QofG2bKeqDXFGerfH",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2062,7 +2190,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "How does keeping software up to date protect a computer and data from hackers and other threats?",
-      "questionId": "LTyGTAVUL0Hj6uclpkJM"
+      "questionId": "LTyGTAVUL0Hj6uclpkJM",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2078,7 +2207,8 @@
       "difficulty": "expert",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is NOT a common alternative to two-factor authentication (2FA)?",
-      "questionId": "LmZgJSTGW35KfZSKWUtb"
+      "questionId": "LmZgJSTGW35KfZSKWUtb",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2094,7 +2224,8 @@
       "difficulty": "expert",
       "chapterId": "testing_password_security_knowledge",
       "question": "What is the primary difference between traditional 2-factor authentication and multi-factor authentication?",
-      "questionId": "LpKmxiWWW3sdnRa1GaSM"
+      "questionId": "LpKmxiWWW3sdnRa1GaSM",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2110,7 +2241,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Security vulnerabilities in old software can be exploited by:",
-      "questionId": "Lswxt3N4TG3hTMxKg7Xh"
+      "questionId": "Lswxt3N4TG3hTMxKg7Xh",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2126,7 +2258,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Phishing attacks commonly employ social engineering tactics to manipulate users. Which of the following is NOT a common tactic used by phishers?",
-      "questionId": "LvGcshkys4gatrzCL8Ke"
+      "questionId": "LvGcshkys4gatrzCL8Ke",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2142,7 +2275,8 @@
       "difficulty": "expert",
       "chapterId": "testing_password_security_knowledge",
       "question": "In the context of 2FA, which of the following is NOT a valid factor?",
-      "questionId": "LwGQ4s96MbCScF5WPwlz"
+      "questionId": "LwGQ4s96MbCScF5WPwlz",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2158,7 +2292,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following statements explains why software updates are critical for computers?",
-      "questionId": "Lzm10R2lDJgpsXweZmGT"
+      "questionId": "Lzm10R2lDJgpsXweZmGT",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2174,7 +2309,8 @@
       "difficulty": "expert",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following are various types of 2FA verification methods?",
-      "questionId": "MOCVsOmUtghQd4aeRZog"
+      "questionId": "MOCVsOmUtghQd4aeRZog",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2190,7 +2326,8 @@
       "difficulty": "expert",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "In terms of software updates, which of the following is NOT an importance of keeping software and operating systems up to date?",
-      "questionId": "MPaelwjjO5ZTprQWlHvH"
+      "questionId": "MPaelwjjO5ZTprQWlHvH",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2206,7 +2343,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Software updates that require user authentication often utilize more than one authentication method. Which of the following is a common combination of authentication methods used in software updates?",
-      "questionId": "MSDbODtPHxf5PBZZ5on3"
+      "questionId": "MSDbODtPHxf5PBZZ5on3",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2222,7 +2360,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_password_creation_skills",
       "question": "To what extent does two-factor authentication strengthen the security of password managers?",
-      "questionId": "MbaKXWOUSgOldEy0ORjB"
+      "questionId": "MbaKXWOUSgOldEy0ORjB",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2238,7 +2377,8 @@
       "difficulty": "beginner",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following methods of two-factor authentication (2FA) requires the user to have a physical device, such as a smartphone, that can be used to unlock the account?",
-      "questionId": "N6TdLXXKTtdIAdUER4Xg"
+      "questionId": "N6TdLXXKTtdIAdUER4Xg",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2254,7 +2394,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which of the following is NOT a benefit of using a password manager to store passwords?",
-      "questionId": "NBwqqZJa2TlF0YtiMeDe"
+      "questionId": "NBwqqZJa2TlF0YtiMeDe",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2270,7 +2411,8 @@
       "difficulty": "expert",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is NOT a common method of 2FA?",
-      "questionId": "NG6y9M0ywMJqm6v36huz"
+      "questionId": "NG6y9M0ywMJqm6v36huz",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2286,7 +2428,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_password_creation_skills",
       "question": "What is a primary advantage of using a password manager to securely store your passwords?",
-      "questionId": "NIj0p2r6mW4FP2IA7B1K"
+      "questionId": "NIj0p2r6mW4FP2IA7B1K",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2302,7 +2445,8 @@
       "difficulty": "intermediate",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following behaviors is NOT considered a risky practice in terms of online privacy?",
-      "questionId": "NKFrI44SepXPZPRH3EBe"
+      "questionId": "NKFrI44SepXPZPRH3EBe",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2318,7 +2462,8 @@
       "difficulty": "beginner",
       "chapterId": "understanding_2fa",
       "question": "Is 2FA available on all websites?",
-      "questionId": "NVhHP652rCsgDCXFV5kk"
+      "questionId": "NVhHP652rCsgDCXFV5kk",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2334,7 +2479,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is a secure method for implementing 2FA on a mobile phone?",
-      "questionId": "NeCFJjq9mpmNHAz2zZ03"
+      "questionId": "NeCFJjq9mpmNHAz2zZ03",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2350,7 +2496,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which type of authentication involves using a physical token, such as a smart card or USB key, in combination with a password?",
-      "questionId": "NgM8OsV1xGVhuscDOOdJ"
+      "questionId": "NgM8OsV1xGVhuscDOOdJ",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2366,7 +2513,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following is NOT a benefit of keeping software updates fully installed?",
-      "questionId": "O0VadzFGPESrpBtWa5CV"
+      "questionId": "O0VadzFGPESrpBtWa5CV",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2382,7 +2530,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which tip is recommended for managing passwords securely?",
-      "questionId": "O7ZyJNat30VCawteJGKc"
+      "questionId": "O7ZyJNat30VCawteJGKc",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2398,7 +2547,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which of the following enhancements provides an additional layer of defense against password-based attacks?",
-      "questionId": "OQXf4wVfrfvnYYNjIX7d"
+      "questionId": "OQXf4wVfrfvnYYNjIX7d",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2414,7 +2564,8 @@
       "difficulty": "expert",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which additional security measure should be considered when combining authentication methods?",
-      "questionId": "OX0mBcavDqNJJ6R5YAGF"
+      "questionId": "OX0mBcavDqNJJ6R5YAGF",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2430,7 +2581,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following is NOT an example of spear phishing information that could be used to make an email appear legitimate?",
-      "questionId": "OZW7UzTzp33JPL7QtCEt"
+      "questionId": "OZW7UzTzp33JPL7QtCEt",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2446,7 +2598,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following is a benefit of software updates?",
-      "questionId": "OjmNLA06AFOElIcqhAQv"
+      "questionId": "OjmNLA06AFOElIcqhAQv",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2462,7 +2615,8 @@
       "difficulty": "intermediate",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following best describes two-factor authentication using a mobile phone?",
-      "questionId": "OkiL5ZG6wXShltQr5H9Z"
+      "questionId": "OkiL5ZG6wXShltQr5H9Z",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2478,7 +2632,8 @@
       "difficulty": "intermediate",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following is NOT an option for implementing 2FA?",
-      "questionId": "OpLvTOm8MhPKaJb9c1Ej"
+      "questionId": "OpLvTOm8MhPKaJb9c1Ej",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2494,7 +2649,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following is NOT a type of phishing attack?",
-      "questionId": "Opy5MmPeRENoWB3XkZQc"
+      "questionId": "Opy5MmPeRENoWB3XkZQc",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2510,7 +2666,8 @@
       "difficulty": "expert",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "What is the purpose of authentication?",
-      "questionId": "Oxrs27UImtH0EdnpfLyB"
+      "questionId": "Oxrs27UImtH0EdnpfLyB",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2526,7 +2683,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is a common example of two-factor authentication (2FA)?",
-      "questionId": "P3ZmILV6Jj2LUn8CBEUo"
+      "questionId": "P3ZmILV6Jj2LUn8CBEUo",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2542,7 +2700,8 @@
       "difficulty": "expert",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "How does 2FA protect against password theft?",
-      "questionId": "P42jK3IV1cCjepF1pqQH"
+      "questionId": "P42jK3IV1cCjepF1pqQH",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2558,7 +2717,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_password_creation_skills",
       "question": "How can you manage multiple passwords securely?",
-      "questionId": "P8qRD66RYPkszb4wn3AA"
+      "questionId": "P8qRD66RYPkszb4wn3AA",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2574,7 +2734,8 @@
       "difficulty": "expert",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "What is one example of how 2FA is used in a non-online context?",
-      "questionId": "PW8r02MiVI4Pd9uGtoip"
+      "questionId": "PW8r02MiVI4Pd9uGtoip",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2590,7 +2751,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_phishing_knowledge",
       "question": "What should you do if you receive a message that asks you to provide personal information, such as your password or credit card number?",
-      "questionId": "Pc8hyUXURIzwj3q1bqok"
+      "questionId": "Pc8hyUXURIzwj3q1bqok",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2606,7 +2768,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which type of phishing combines VoIP with phishing through fraudulent phone calls?",
-      "questionId": "PsL4JvEJihZ1Y90OGrou"
+      "questionId": "PsL4JvEJihZ1Y90OGrou",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2622,7 +2785,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_phishing_knowledge",
       "question": "If you receive an email or text message that you believe may be a phishing attack, what should you do?",
-      "questionId": "Q2sUJrgwMDlX3JtWtth0"
+      "questionId": "Q2sUJrgwMDlX3JtWtth0",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2638,7 +2802,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which of the following is a significant advantage of using a password manager?",
-      "questionId": "QAJSBwDIZaVEyPjKdu5H"
+      "questionId": "QAJSBwDIZaVEyPjKdu5H",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2654,7 +2819,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_password_creation_skills",
       "question": "Which of the following is recommended to avoid when storing passwords securely?",
-      "questionId": "QGDdjxtNnFDR5u9deKzj"
+      "questionId": "QGDdjxtNnFDR5u9deKzj",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2670,7 +2836,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_password_creation_skills",
       "question": "Which type of encryption is commonly used to protect passwords stored in a vault?",
-      "questionId": "QIItTEyZzYzOJKBFAIYM"
+      "questionId": "QIItTEyZzYzOJKBFAIYM",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2686,7 +2853,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following actions should you take IMMEDIATELY if you suspect you are a victim of identity theft?",
-      "questionId": "QQ81jBb9cSbBILeXr6IO"
+      "questionId": "QQ81jBb9cSbBILeXr6IO",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2702,7 +2870,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_password_creation_skills",
       "question": "Which feature should you look for in a password manager if you want to use it on multiple devices?",
-      "questionId": "QbO94SSpYJwirXiZ2Jw1"
+      "questionId": "QbO94SSpYJwirXiZ2Jw1",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2718,7 +2887,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_password_creation_skills",
       "question": "According to best practices, what is the recommended minimum number of characters for a strong password?",
-      "questionId": "QxqbSLdGwAxw1M3j1R4K"
+      "questionId": "QxqbSLdGwAxw1M3j1R4K",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2734,7 +2904,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following are not methods to do two factor authentication using a mobile phone?",
-      "questionId": "QzbKY49NnWB971TTHLOy"
+      "questionId": "QzbKY49NnWB971TTHLOy",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2750,7 +2921,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_password_creation_skills",
       "question": "What's the minimum recommended character length for a strong password?",
-      "questionId": "RG7WfyRDvr9APpza5zb3"
+      "questionId": "RG7WfyRDvr9APpza5zb3",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2766,7 +2938,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Why may 2-Factor Authentication (2FA) not be foolproof?",
-      "questionId": "RL7atJRQMfJTWw12Tg98"
+      "questionId": "RL7atJRQMfJTWw12Tg98",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2782,7 +2955,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following is a recommended practice to avoid becoming a victim of phishing scams?",
-      "questionId": "RNFHsHa14Tiv9n9vPeDO"
+      "questionId": "RNFHsHa14Tiv9n9vPeDO",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2798,7 +2972,8 @@
       "difficulty": "beginner",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is NOT a common method of two-factor authentication?",
-      "questionId": "RTeyHVaX0EHqU589wI8n"
+      "questionId": "RTeyHVaX0EHqU589wI8n",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2814,7 +2989,8 @@
       "difficulty": "beginner",
       "chapterId": "understanding_2fa",
       "question": "If you\u2019re using your phone as your 2FA method, make sure it\u2019s also:",
-      "questionId": "Rud1FpKT9YFxHjWomunW"
+      "questionId": "Rud1FpKT9YFxHjWomunW",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2830,7 +3006,8 @@
       "difficulty": "expert",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "This context is about software updates.  It does not mention 2FA or account authorization.  For this reason, I cannot generate a multiple choice question from the provided context.",
-      "questionId": "RyFvmk786oOLGX0L5mbd"
+      "questionId": "RyFvmk786oOLGX0L5mbd",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2846,7 +3023,8 @@
       "difficulty": "expert",
       "chapterId": "understanding_2fa",
       "question": "Which of the following are NOT a type of 2FA authentication?",
-      "questionId": "SCyNAozMG5UJacf3ePHV"
+      "questionId": "SCyNAozMG5UJacf3ePHV",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2862,7 +3040,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_password_security_knowledge",
       "question": "How many components are required for two-factor authentication (2FA)?",
-      "questionId": "SPBJq3KAeq9V0pEcrA3c"
+      "questionId": "SPBJq3KAeq9V0pEcrA3c",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2878,7 +3057,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following communication methods is NOT commonly used in phishing attacks?",
-      "questionId": "SbDzfhh5eaR11IesOk7p"
+      "questionId": "SbDzfhh5eaR11IesOk7p",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2894,7 +3074,8 @@
       "difficulty": "intermediate",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is a limitation of 2FA?",
-      "questionId": "SjXRpyNV8QoKv76MRo6N"
+      "questionId": "SjXRpyNV8QoKv76MRo6N",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2910,7 +3091,8 @@
       "difficulty": "expert",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "What is the first authentication factor you are likely to encounter?",
-      "questionId": "SvKfxolFOqkVhAtiq3Qh"
+      "questionId": "SvKfxolFOqkVhAtiq3Qh",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2926,7 +3108,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "True or False: Software updates can add new features to an existing program.",
-      "questionId": "TDaHO5w4AuaVN74RXuV2"
+      "questionId": "TDaHO5w4AuaVN74RXuV2",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2942,7 +3125,8 @@
       "difficulty": "expert",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "What are the three methods of authentication used in 2FA?",
-      "questionId": "TGNbYt0mUJBM9wqkNilN"
+      "questionId": "TGNbYt0mUJBM9wqkNilN",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2958,7 +3142,8 @@
       "difficulty": "expert",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which two of the following are requirements for 2FA?",
-      "questionId": "TorJTqEUdLsd7fk4qg1I"
+      "questionId": "TorJTqEUdLsd7fk4qg1I",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2974,7 +3159,8 @@
       "difficulty": "intermediate",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "What are three primary types of authentication?",
-      "questionId": "TyAc8RmmLWBXK3XvD7k1"
+      "questionId": "TyAc8RmmLWBXK3XvD7k1",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -2990,7 +3176,8 @@
       "difficulty": "expert",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which of the following is an additional security step that can be implemented when using text messages for two-factor authentication (2FA)?",
-      "questionId": "U9IKU0MwYLXExOtxGSJW"
+      "questionId": "U9IKU0MwYLXExOtxGSJW",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3006,7 +3193,8 @@
       "difficulty": "intermediate",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is NOT a benefit of using 2FA?",
-      "questionId": "UEcTXUQJBrQMZaQMhnpg"
+      "questionId": "UEcTXUQJBrQMZaQMhnpg",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3022,7 +3210,8 @@
       "difficulty": "expert",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "What is the first factor in 2FA?",
-      "questionId": "UQZB0ZTWn0XrQknzSeBv"
+      "questionId": "UQZB0ZTWn0XrQknzSeBv",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3038,7 +3227,8 @@
       "difficulty": "beginner",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following is NOT a way to protect your online accounts?",
-      "questionId": "US7Rj36mhoWdcp9GJPcB"
+      "questionId": "US7Rj36mhoWdcp9GJPcB",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3054,7 +3244,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following statements about whaling attacks is true?",
-      "questionId": "UXsBYQRAiRi7PZOJ4b43"
+      "questionId": "UXsBYQRAiRi7PZOJ4b43",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3070,7 +3261,8 @@
       "difficulty": "expert",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which method of 2FA using mobile phones involves receiving a unique code via SMS?",
-      "questionId": "UeLNbFrLJV0GeLUALmSE"
+      "questionId": "UeLNbFrLJV0GeLUALmSE",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3086,7 +3278,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "What are some examples of something you ARE that can be used for authentication?",
-      "questionId": "UmdtUSNEdkRNgR3gGEye"
+      "questionId": "UmdtUSNEdkRNgR3gGEye",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3102,7 +3295,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Spear phishing, as opposed to general phishing, is characterized by its:",
-      "questionId": "UnAzmg9RkH8zHhrYIg03"
+      "questionId": "UnAzmg9RkH8zHhrYIg03",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3118,7 +3312,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following is TRUE about software updates?",
-      "questionId": "UuQjSOiWFca3K1WnnYLi"
+      "questionId": "UuQjSOiWFca3K1WnnYLi",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3134,7 +3329,8 @@
       "difficulty": "intermediate",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is NOT a possible second factor in two-factor authentication?",
-      "questionId": "V40hHFbx8C3GoIl7A7Tr"
+      "questionId": "V40hHFbx8C3GoIl7A7Tr",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3150,7 +3346,8 @@
       "difficulty": "intermediate",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following is a recommended security practice for online accounts?",
-      "questionId": "V4Kf8UKm3u8tQEjzWjV1"
+      "questionId": "V4Kf8UKm3u8tQEjzWjV1",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3166,7 +3363,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following is a crucial defense against phishing attacks that involve unsolicited requests or communications?",
-      "questionId": "VCA3t3ydM8aM1xIFFze2"
+      "questionId": "VCA3t3ydM8aM1xIFFze2",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3182,7 +3380,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following is NOT included in 2FA (two-factor authentication)?",
-      "questionId": "VW6VDqEdKIGWJOLBVIyb"
+      "questionId": "VW6VDqEdKIGWJOLBVIyb",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3198,7 +3397,8 @@
       "difficulty": "intermediate",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "2FA is available for many online accounts, but it is not always enabled by default. Why is this?",
-      "questionId": "VYvary6NhaW5vgIOltm2"
+      "questionId": "VYvary6NhaW5vgIOltm2",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3214,7 +3414,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "How can you be cautious about financial transactions when online?",
-      "questionId": "VfHPxUju0QBmu8vbZGoH"
+      "questionId": "VfHPxUju0QBmu8vbZGoH",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3230,7 +3431,8 @@
       "difficulty": "intermediate",
       "chapterId": "understanding_2fa",
       "question": "Where do you set up 2FA on a website or app?",
-      "questionId": "VmBTpJpOFuwe4wGz7NHx"
+      "questionId": "VmBTpJpOFuwe4wGz7NHx",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3246,7 +3448,8 @@
       "difficulty": "beginner",
       "chapterId": "understanding_2fa",
       "question": "2FA is a combination of two of the following. Which two are they?",
-      "questionId": "WBc2yvvGHCsFoJezJ96I"
+      "questionId": "WBc2yvvGHCsFoJezJ96I",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3262,7 +3465,8 @@
       "difficulty": "beginner",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is a primary benefit of enabling 2FA?",
-      "questionId": "WoPxyZHmKLeraKo0QaM7"
+      "questionId": "WoPxyZHmKLeraKo0QaM7",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3278,7 +3482,8 @@
       "difficulty": "expert",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is a common method used in phishing attacks?",
-      "questionId": "WsKZUw4NW1DnXXZEqGnh"
+      "questionId": "WsKZUw4NW1DnXXZEqGnh",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3294,7 +3499,8 @@
       "difficulty": "intermediate",
       "chapterId": "understanding_2fa",
       "question": "Which of the following best describes the three main components of 2FA?",
-      "questionId": "X4hhHVgxtmyqXRDnq9op"
+      "questionId": "X4hhHVgxtmyqXRDnq9op",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3310,7 +3516,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is NOT a reason to consider enabling 2FA for your online accounts?",
-      "questionId": "XXQ039LnhmI37hJ0rFDV"
+      "questionId": "XXQ039LnhmI37hJ0rFDV",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3326,7 +3533,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following is NOT a way to protect yourself from phishing attacks?",
-      "questionId": "XlOdSLopsIya9Rab6FmE"
+      "questionId": "XlOdSLopsIya9Rab6FmE",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3342,7 +3550,8 @@
       "difficulty": "expert",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "What is the primary purpose of using two-factor authentication (2FA)?",
-      "questionId": "XnDcU1DrXhi5V22erPDj"
+      "questionId": "XnDcU1DrXhi5V22erPDj",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3358,7 +3567,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is NOT a method of improving online privacy?",
-      "questionId": "YiYjLu0zZePxI4788MYm"
+      "questionId": "YiYjLu0zZePxI4788MYm",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3374,7 +3584,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_phishing_knowledge",
       "question": "In phishing attempts, how might fake domains in emails alter their appearance to attempt to trick users?",
-      "questionId": "Yut0BAVz8m94qagQQRGc"
+      "questionId": "Yut0BAVz8m94qagQQRGc",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3390,7 +3601,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following is a benefit of software updates?",
-      "questionId": "Z9eu6Kssi995WAepvP2o"
+      "questionId": "Z9eu6Kssi995WAepvP2o",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3406,7 +3618,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which of the following is NOT a method hackers use to guess or crack passwords?",
-      "questionId": "ZQnU7LIH44NHHxSe5VtE"
+      "questionId": "ZQnU7LIH44NHHxSe5VtE",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3422,7 +3635,8 @@
       "difficulty": "expert",
       "chapterId": "testing_password_security_knowledge",
       "question": "In a two-factor authentication (2FA) mechanism for password security, which of the following methods does NOT protect against unauthorized access?",
-      "questionId": "Zah0HYqdexqfWCny8fnA"
+      "questionId": "Zah0HYqdexqfWCny8fnA",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3438,7 +3652,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "What can you use to improve the security of your online accounts?",
-      "questionId": "ZwIFdNHa7JB6pdz6VQ4q"
+      "questionId": "ZwIFdNHa7JB6pdz6VQ4q",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3454,7 +3669,8 @@
       "difficulty": "expert",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which of the following is an additional step during 2FA using biometric identifiers?",
-      "questionId": "a6bgfhDCc4fzGslQDDbu"
+      "questionId": "a6bgfhDCc4fzGslQDDbu",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3470,7 +3686,8 @@
       "difficulty": "expert",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following are the three primary types of authentication?",
-      "questionId": "aJxsnD856bPboVIXESSS"
+      "questionId": "aJxsnD856bPboVIXESSS",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3486,7 +3703,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which term is NOT another name for 2FA?",
-      "questionId": "aolWMMlacTyPjaAEvjb8"
+      "questionId": "aolWMMlacTyPjaAEvjb8",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3502,7 +3720,8 @@
       "difficulty": "expert",
       "chapterId": "understanding_2fa",
       "question": "In the context of 2FA, an inherence factor is a factor that:",
-      "questionId": "b0PEAGZT49pdC7Lpyp6Z"
+      "questionId": "b0PEAGZT49pdC7Lpyp6Z",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3518,7 +3737,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_password_creation_skills",
       "question": "Define the second factor of 2FA.",
-      "questionId": "b7l8rOF5jSHlNB1AslLP"
+      "questionId": "b7l8rOF5jSHlNB1AslLP",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3534,7 +3754,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following is NOT typically contained in a smishing message?",
-      "questionId": "bASIDKURchJyFj3QWPFN"
+      "questionId": "bASIDKURchJyFj3QWPFN",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3550,7 +3771,8 @@
       "difficulty": "intermediate",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following is not a reason why strong, unique passwords are important for online privacy?",
-      "questionId": "bQmdUmmkgL1D3AyNA7ng"
+      "questionId": "bQmdUmmkgL1D3AyNA7ng",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3566,7 +3788,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Why is it important to keep software up to date?",
-      "questionId": "bW8Q1B0pPVVg0Zoc3MNQ"
+      "questionId": "bW8Q1B0pPVVg0Zoc3MNQ",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3582,7 +3805,8 @@
       "difficulty": "intermediate",
       "chapterId": "understanding_2fa",
       "question": "Which of the following statements accurately describes the purpose of 2FA?",
-      "questionId": "bo74ifnvcs2ynA62guID"
+      "questionId": "bo74ifnvcs2ynA62guID",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3598,7 +3822,8 @@
       "difficulty": "beginner",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following is a benefit of taking steps to protect our online privacy?",
-      "questionId": "bxC3eGduq29dHN2xbRyB"
+      "questionId": "bxC3eGduq29dHN2xbRyB",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3614,7 +3839,8 @@
       "difficulty": "expert",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "How does 2FA add an additional layer of security to the authentication process?",
-      "questionId": "byT6sogdzHckGiBGjD7G"
+      "questionId": "byT6sogdzHckGiBGjD7G",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3630,7 +3856,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_password_creation_skills",
       "question": "What are the two ways two-factor authentication using a mobile phone can be done??",
-      "questionId": "c006924VlqR6GYSmj6Ea"
+      "questionId": "c006924VlqR6GYSmj6Ea",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3646,7 +3873,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which type of phishing attack targets high-level executives?",
-      "questionId": "c1ZZ8ICcxWbW5LEcbqF2"
+      "questionId": "c1ZZ8ICcxWbW5LEcbqF2",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3662,7 +3890,8 @@
       "difficulty": "expert",
       "chapterId": "understanding_2fa",
       "question": "Which of the following steps is **not** part of the general process for enabling 2FA?",
-      "questionId": "c5qySyyDvLohQb0Xu9SB"
+      "questionId": "c5qySyyDvLohQb0Xu9SB",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3678,7 +3907,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is a potential method for hackers to bypass 2FA?",
-      "questionId": "cJB8l5zN3Q7zEtOVAyxP"
+      "questionId": "cJB8l5zN3Q7zEtOVAyxP",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3694,7 +3924,8 @@
       "difficulty": "expert",
       "chapterId": "understanding_2fa",
       "question": "Which of the following best describes the security of 2FA in the context of account breaches?",
-      "questionId": "cKLuReZwo3Z9xmEgT5LQ"
+      "questionId": "cKLuReZwo3Z9xmEgT5LQ",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3710,7 +3941,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which is an example of two-factor authentication (2FA)?",
-      "questionId": "cTzGW0RH3xiNnZKOX5MB"
+      "questionId": "cTzGW0RH3xiNnZKOX5MB",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3726,7 +3958,8 @@
       "difficulty": "expert",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is a hardware token used for 2FA?",
-      "questionId": "cbFAeKRxOldzAfRLfEem"
+      "questionId": "cbFAeKRxOldzAfRLfEem",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3742,7 +3975,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is NOT a recommended practice for creating strong and unique passwords?",
-      "questionId": "cd8tzinL92jX5nBwVQcl"
+      "questionId": "cd8tzinL92jX5nBwVQcl",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3758,7 +3992,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_password_security_knowledge",
       "question": "What is a physical token and how is it used with two-factor authentication?",
-      "questionId": "chAPKlV2HWpi4eAs5lzP"
+      "questionId": "chAPKlV2HWpi4eAs5lzP",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3774,7 +4009,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following about software updates is NOT correct?",
-      "questionId": "chUBiSkvmD2dRUrq7PXH"
+      "questionId": "chUBiSkvmD2dRUrq7PXH",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3790,7 +4026,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_password_creation_skills",
       "question": "The first factor of two-factor authentication (2FA) is ___________.",
-      "questionId": "chkqF3oALcuxywSlbevR"
+      "questionId": "chkqF3oALcuxywSlbevR",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3806,7 +4043,8 @@
       "difficulty": "intermediate",
       "chapterId": "understanding_2fa",
       "question": "In which of the following scenarios can 2FA be utilized?",
-      "questionId": "ciBVf7oWDRVBsTRH4qEP"
+      "questionId": "ciBVf7oWDRVBsTRH4qEP",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3822,7 +4060,8 @@
       "difficulty": "intermediate",
       "chapterId": "understanding_2fa",
       "question": "Which of the following statements is most accurate regarding the security implications of using the same password on multiple websites?",
-      "questionId": "cqDZrvDL5gxkmmPTI3lf"
+      "questionId": "cqDZrvDL5gxkmmPTI3lf",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3838,7 +4077,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following is a recommendation for verifying the legitimacy of a software update?",
-      "questionId": "ct7i6u7gCvpAZMBskFVG"
+      "questionId": "ct7i6u7gCvpAZMBskFVG",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3854,7 +4094,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following is NOT a typical phishing attack vector?",
-      "questionId": "cwqH5IAIZsZhOkJywhPJ"
+      "questionId": "cwqH5IAIZsZhOkJywhPJ",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3870,7 +4111,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following is NOT a method of identifying a fake software update?",
-      "questionId": "czkG6an2hxu69Hj9HhyU"
+      "questionId": "czkG6an2hxu69Hj9HhyU",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3886,7 +4128,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_password_creation_skills",
       "question": "How often does a code from a code generator change?",
-      "questionId": "d9mQNhywm9kFEKKAz0Cz"
+      "questionId": "d9mQNhywm9kFEKKAz0Cz",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3902,7 +4145,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following is NOT one of the three primary types of authentication?",
-      "questionId": "dC7Gddim8apZbGQRxB88"
+      "questionId": "dC7Gddim8apZbGQRxB88",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3918,7 +4162,8 @@
       "difficulty": "beginner",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following is the term for the practice of protecting computers and data from unauthorized access and use?",
-      "questionId": "dK4pYwJVtjFETEsVm6q7"
+      "questionId": "dK4pYwJVtjFETEsVm6q7",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3934,7 +4179,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is an example of 2FA using something the user has?",
-      "questionId": "dLbMztCbOAMPLL2VQ7Uv"
+      "questionId": "dLbMztCbOAMPLL2VQ7Uv",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3950,7 +4196,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "When transacting online, it is recommended to avoid using: ",
-      "questionId": "dcaLYKJYxhlMhWqMeP4M"
+      "questionId": "dcaLYKJYxhlMhWqMeP4M",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3966,7 +4213,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "What is the goal of cybersecurity?",
-      "questionId": "dt6JjnmpJqfRTICjqHCI"
+      "questionId": "dt6JjnmpJqfRTICjqHCI",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3982,7 +4230,8 @@
       "difficulty": "intermediate",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "What is an additional option some services provide as a second factor for 2FA?",
-      "questionId": "e2kAHfS5lmJxHgJAtktt"
+      "questionId": "e2kAHfS5lmJxHgJAtktt",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -3998,7 +4247,8 @@
       "difficulty": "beginner",
       "chapterId": "understanding_2fa",
       "question": "If a site doesn\u2019t offer 2FA yet, consider doing what?",
-      "questionId": "edGHXphVDzBWPdw0UuK0"
+      "questionId": "edGHXphVDzBWPdw0UuK0",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4014,7 +4264,8 @@
       "difficulty": "beginner",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following is a benefit of cybersecurity?",
-      "questionId": "efSTBdmMfgNhHEBLp6OY"
+      "questionId": "efSTBdmMfgNhHEBLp6OY",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4030,7 +4281,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_phishing_knowledge",
       "question": "What should you do if you have already clicked on a link or opened an attachment in a phishing email?",
-      "questionId": "egebwrDtQbCTcuV9sPfo"
+      "questionId": "egebwrDtQbCTcuV9sPfo",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4046,7 +4298,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is an example of multi-factor authentication?",
-      "questionId": "eivcJKx37ujxR5gahiRv"
+      "questionId": "eivcJKx37ujxR5gahiRv",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4062,7 +4315,8 @@
       "difficulty": "expert",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which type of device is required for 2FA using a biometric identifier?",
-      "questionId": "epy6jrBKlEac70BR63CT"
+      "questionId": "epy6jrBKlEac70BR63CT",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4078,7 +4332,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "What are some advantages of using 2FA?",
-      "questionId": "etUgLj2LCrM7ot0cDUUM"
+      "questionId": "etUgLj2LCrM7ot0cDUUM",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4094,7 +4349,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "What does two-step verification do?",
-      "questionId": "f7tf1Ps3rhy7VC8YrOrv"
+      "questionId": "f7tf1Ps3rhy7VC8YrOrv",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4110,7 +4366,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following is NOT a way to implement two-factor authentication (2FA)?",
-      "questionId": "fTtxYW9iRPFnpnwmpC2i"
+      "questionId": "fTtxYW9iRPFnpnwmpC2i",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4126,7 +4383,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following **IS NOT** a pillar of 2FA verification?",
-      "questionId": "fVnnJiOoSYkIEo2ND38i"
+      "questionId": "fVnnJiOoSYkIEo2ND38i",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4142,7 +4400,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_password_creation_skills",
       "question": "Which of the following is NOT a feature offered by password managers?",
-      "questionId": "foSMhFFLGWaDhyzZybtX"
+      "questionId": "foSMhFFLGWaDhyzZybtX",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4158,7 +4417,8 @@
       "difficulty": "expert",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which of the following is NOT one of the three primary authentication types?",
-      "questionId": "fqOmRcfPswY0WNgNxXx1"
+      "questionId": "fqOmRcfPswY0WNgNxXx1",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4174,7 +4434,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is an example of two-factor authentication (2FA)?",
-      "questionId": "ft9u1J1fz2tdYlk24qza"
+      "questionId": "ft9u1J1fz2tdYlk24qza",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4190,7 +4451,8 @@
       "difficulty": "beginner",
       "chapterId": "understanding_2fa",
       "question": "What is a common knowledge factor used in 2fa?",
-      "questionId": "g57iz18IlkqpSERpzXk7"
+      "questionId": "g57iz18IlkqpSERpzXk7",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4206,7 +4468,8 @@
       "difficulty": "beginner",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Two-factor authentication is a combination of two of the following: something you know, something you have, or something you are.",
-      "questionId": "gMWtrV9IJzY4i2joWlWH"
+      "questionId": "gMWtrV9IJzY4i2joWlWH",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4222,7 +4485,8 @@
       "difficulty": "intermediate",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following is the first factor of online privacy?",
-      "questionId": "gezWJJi4yfqHXJUE5Idk"
+      "questionId": "gezWJJi4yfqHXJUE5Idk",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4238,7 +4502,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following types of phishing uses fraudulent SMS messages to trick victims?",
-      "questionId": "ghoaGrk05uaCkusKQ1AX"
+      "questionId": "ghoaGrk05uaCkusKQ1AX",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4254,7 +4519,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_password_security_knowledge",
       "question": "What is a One-Time Password (OTP)?",
-      "questionId": "giiTjOsWvCqL6G4qzOqq"
+      "questionId": "giiTjOsWvCqL6G4qzOqq",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4270,7 +4536,8 @@
       "difficulty": "beginner",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following is NOT one of the three components of two-factor authentication?",
-      "questionId": "h5rzfGCdhXeH3nn3NEtk"
+      "questionId": "h5rzfGCdhXeH3nn3NEtk",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4286,7 +4553,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following is NOT an effective way to prevent successful phishing attacks?",
-      "questionId": "h6vzX9V4QFOKzdtI0qg8"
+      "questionId": "h6vzX9V4QFOKzdtI0qg8",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4302,7 +4570,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following is NOT a common method used in phishing attacks?",
-      "questionId": "h7lkDsRsXh8ZxzKqr4Zw"
+      "questionId": "h7lkDsRsXh8ZxzKqr4Zw",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4318,7 +4587,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_password_creation_skills",
       "question": "When using a password manager, what does 2FA add to the security of your accounts?",
-      "questionId": "hTzWpLFL9UEEWVXqETYH"
+      "questionId": "hTzWpLFL9UEEWVXqETYH",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4334,7 +4604,8 @@
       "difficulty": "expert",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following is an example of 2FA that utilizes a code sent to a mobile phone?",
-      "questionId": "hmC1SqofeAJxGPO1GthC"
+      "questionId": "hmC1SqofeAJxGPO1GthC",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4350,7 +4621,8 @@
       "difficulty": "beginner",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following allows us to control who has access to our data and how it is used?",
-      "questionId": "hvHReTDqog8pFTiTpYVm"
+      "questionId": "hvHReTDqog8pFTiTpYVm",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4366,7 +4638,8 @@
       "difficulty": "intermediate",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is NOT a common method of 2FA?",
-      "questionId": "hyBUUciUeedKD6eT8mie"
+      "questionId": "hyBUUciUeedKD6eT8mie",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4382,7 +4655,8 @@
       "difficulty": "expert",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "What does 2FA stand for within the context of online ID protection?",
-      "questionId": "i1pXPmn21XyxmRHTBOig"
+      "questionId": "i1pXPmn21XyxmRHTBOig",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4398,7 +4672,8 @@
       "difficulty": "expert",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "What is the third authentication factor you are likely to encounter?",
-      "questionId": "i21jyPMNPZhFl30mtEv9"
+      "questionId": "i21jyPMNPZhFl30mtEv9",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4414,7 +4689,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which of the following is an advantage of using biometrics for two-factor authentication?",
-      "questionId": "ibmRNlFk1v11Rjs4M9EM"
+      "questionId": "ibmRNlFk1v11Rjs4M9EM",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4430,7 +4706,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "What email management strategy can help protect your privacy?",
-      "questionId": "j1eQF6HqDtNk2Ug1MVI5"
+      "questionId": "j1eQF6HqDtNk2Ug1MVI5",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4446,7 +4723,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Why are software updates important for cybersecurity?",
-      "questionId": "jSCLRpL2nLxpJvIcqhlh"
+      "questionId": "jSCLRpL2nLxpJvIcqhlh",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4462,7 +4740,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following is a common tactic used in vishing attacks?",
-      "questionId": "jdBNIVEdlW2KGCvzkYbk"
+      "questionId": "jdBNIVEdlW2KGCvzkYbk",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4478,7 +4757,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is NOT a common way to increase online security?",
-      "questionId": "jqs939m3AgSnkLKfkmaN"
+      "questionId": "jqs939m3AgSnkLKfkmaN",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4494,7 +4774,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_password_creation_skills",
       "question": "Where can you store passwords?",
-      "questionId": "kHyTIq4mZRjhEW9le5w3"
+      "questionId": "kHyTIq4mZRjhEW9le5w3",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4510,7 +4791,8 @@
       "difficulty": "expert",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which of the following is an example of where different authentication methods are used together?",
-      "questionId": "kMv2banIplqYXOIwl1Vu"
+      "questionId": "kMv2banIplqYXOIwl1Vu",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4526,7 +4808,8 @@
       "difficulty": "intermediate",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is a defining characteristic of 2FA?",
-      "questionId": "kb6B24KgVpDQjNeFgiCp"
+      "questionId": "kb6B24KgVpDQjNeFgiCp",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4542,7 +4825,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following is NOT a recommended practice for protecting against phishing attacks?",
-      "questionId": "kfaA5xJf66g9NE8cDpJy"
+      "questionId": "kfaA5xJf66g9NE8cDpJy",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4558,7 +4842,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following should you avoid doing on a public Wi-Fi network?",
-      "questionId": "l42iA7KlJ2U8M5rgzU0c"
+      "questionId": "l42iA7KlJ2U8M5rgzU0c",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4574,7 +4859,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is NOT an example of using a mobile phone as a second factor for authentication (2FA)?",
-      "questionId": "lB6Vr9szKi2CE1rYdRBN"
+      "questionId": "lB6Vr9szKi2CE1rYdRBN",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4590,7 +4876,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which of the following is a best practice for mitigating the impact of password breaches?",
-      "questionId": "lKoYVotRQKwhP32LUxQn"
+      "questionId": "lKoYVotRQKwhP32LUxQn",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4606,7 +4893,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_password_creation_skills",
       "question": "What is biometrics and how does it work?",
-      "questionId": "lOv37DuKbnziQorbI0lK"
+      "questionId": "lOv37DuKbnziQorbI0lK",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4622,7 +4910,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is NOT a method for using two-factor authentication on a mobile phone?",
-      "questionId": "lPkbyl6QwMMCVU571ooj"
+      "questionId": "lPkbyl6QwMMCVU571ooj",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4638,7 +4927,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following statements reflects a low level understanding of identity theft?",
-      "questionId": "lYe6oYGTm16k2yAWI99u"
+      "questionId": "lYe6oYGTm16k2yAWI99u",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4654,7 +4944,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Software updates are important for several reasons.  Which of the following is NOT a reason software updates are important?",
-      "questionId": "lcOfW9NCn2vuGzdH02dg"
+      "questionId": "lcOfW9NCn2vuGzdH02dg",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4670,7 +4961,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_phishing_knowledge",
       "question": "How are phishing protection practices similar to malware protection practices?",
-      "questionId": "lgNqpg6vPrU3w2P4usbl"
+      "questionId": "lgNqpg6vPrU3w2P4usbl",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4686,7 +4978,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Among various phishing techniques, which form is considered the most prevalent?",
-      "questionId": "ll8NboG5zRM0MBAcd04n"
+      "questionId": "ll8NboG5zRM0MBAcd04n",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4702,7 +4995,8 @@
       "difficulty": "expert",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following are the methods used for 2FA?",
-      "questionId": "lr3lL3qltpmtPL9evooW"
+      "questionId": "lr3lL3qltpmtPL9evooW",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4718,7 +5012,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_password_creation_skills",
       "question": "How can you make your accounts more secure?",
-      "questionId": "m17Id7sgsW39KsfdXAXn"
+      "questionId": "m17Id7sgsW39KsfdXAXn",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4734,7 +5029,8 @@
       "difficulty": "expert",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is NOT a requirement of PCI DSS?",
-      "questionId": "m59uVLCCMeFfujw1fkHF"
+      "questionId": "m59uVLCCMeFfujw1fkHF",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4750,7 +5046,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which of the following are the two ways to use two-factor authentication with a mobile phone?",
-      "questionId": "mAv8a4xQtmm1mM4lN6Y8"
+      "questionId": "mAv8a4xQtmm1mM4lN6Y8",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4766,7 +5063,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is an example of two-factor authentication (2FA)?",
-      "questionId": "mHxQltbzkQdHbnogsTq9"
+      "questionId": "mHxQltbzkQdHbnogsTq9",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4782,7 +5080,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "What is NOT a benefit of software updates?",
-      "questionId": "mJ8r0w3RvThbQzCbisW9"
+      "questionId": "mJ8r0w3RvThbQzCbisW9",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4798,7 +5097,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Keeping your software and operating system up to date is an important step towards ensuring your information is safe, your device is secured and working properly, and your programs and system remain compatible with each other. Which of the following is a benefit of software updates?",
-      "questionId": "mWKIcL1pOtlZeoqLpxB5"
+      "questionId": "mWKIcL1pOtlZeoqLpxB5",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4814,7 +5114,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which of the following is an example of the second factor of 2FA?",
-      "questionId": "mZUiAIWid3FPUaVBqj7T"
+      "questionId": "mZUiAIWid3FPUaVBqj7T",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4830,7 +5131,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_password_security_knowledge",
       "question": "How often does the code from a code generator change?",
-      "questionId": "mZjQx7Uc8rQuYZMfebIk"
+      "questionId": "mZjQx7Uc8rQuYZMfebIk",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4846,7 +5148,8 @@
       "difficulty": "intermediate",
       "chapterId": "understanding_2fa",
       "question": "A secure password manager should be used if a site doesn't offer 2FA; True or False",
-      "questionId": "muLiCycR4HoIwLdOKm1w"
+      "questionId": "muLiCycR4HoIwLdOKm1w",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4862,7 +5165,8 @@
       "difficulty": "beginner",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following is NOT an example of a biometric identifier? ",
-      "questionId": "n0QZtA0f7cBTnfXczYu0"
+      "questionId": "n0QZtA0f7cBTnfXczYu0",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4878,7 +5182,8 @@
       "difficulty": "expert",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is NOT a limitation of 2FA?",
-      "questionId": "n2GgHU1nPZnGU4DJl61M"
+      "questionId": "n2GgHU1nPZnGU4DJl61M",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4894,7 +5199,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_password_creation_skills",
       "question": "What is the primary benefit of using a password manager?",
-      "questionId": "n6ffXB2YSyWlPlfatKmf"
+      "questionId": "n6ffXB2YSyWlPlfatKmf",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4910,7 +5216,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_password_security_knowledge",
       "question": "How does a code generator work for 2FA?",
-      "questionId": "nIu8ubsgqMJ0ETsl3kPA"
+      "questionId": "nIu8ubsgqMJ0ETsl3kPA",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4926,7 +5233,8 @@
       "difficulty": "beginner",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "2FA is not just applied to online contexts. It is also at work when a consumer is required to enter their zip code before using their credit card at a gas pump. What is another example of this?",
-      "questionId": "nJLZm7ljPb4PUKsx8Hww"
+      "questionId": "nJLZm7ljPb4PUKsx8Hww",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4942,7 +5250,8 @@
       "difficulty": "beginner",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is a potential risk associated with using the same password on multiple websites?",
-      "questionId": "nOq21NxEEzbJG6yiXm83"
+      "questionId": "nOq21NxEEzbJG6yiXm83",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4958,7 +5267,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following is NOT a potential consequence of phishing attacks?",
-      "questionId": "nbAfXDSvwErN5j9uIVBo"
+      "questionId": "nbAfXDSvwErN5j9uIVBo",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4974,7 +5284,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_password_creation_skills",
       "question": "What is one of the features a password manager provides to users?",
-      "questionId": "ncjBvyPgQEt61tachPjG"
+      "questionId": "ncjBvyPgQEt61tachPjG",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -4990,7 +5301,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following is NOT recommended to protect against phishing attacks?",
-      "questionId": "nnsLSW4zha7pWwI57hMp"
+      "questionId": "nnsLSW4zha7pWwI57hMp",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5006,7 +5318,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which type of phishing involves fraudulent phone conversations?",
-      "questionId": "nvwLPdSbsZe8bX8yu9xL"
+      "questionId": "nvwLPdSbsZe8bX8yu9xL",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5022,7 +5335,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_phishing_knowledge",
       "question": "When using two-factor authentication as an additional security layer for phishing prevention, which of the following actions is recommended?",
-      "questionId": "oLTUQmTWkLOwDY4iPZYf"
+      "questionId": "oLTUQmTWkLOwDY4iPZYf",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5038,7 +5352,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is a characteristic of multi-factor authentication?",
-      "questionId": "oSqibRdAZGmn8i9MWFhh"
+      "questionId": "oSqibRdAZGmn8i9MWFhh",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5054,7 +5369,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_password_creation_skills",
       "question": "Which three types of characters should be included in a strong password?",
-      "questionId": "oTXTusfZW5s9lUa1vv2K"
+      "questionId": "oTXTusfZW5s9lUa1vv2K",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5070,7 +5386,8 @@
       "difficulty": "expert",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "What is the second authentication factor you are likely to encounter?",
-      "questionId": "oY10nJhjrsDRLM3BQ2eV"
+      "questionId": "oY10nJhjrsDRLM3BQ2eV",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5086,7 +5403,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_password_creation_skills",
       "question": "What is an authenticator app?",
-      "questionId": "oZvemRFe7pAHA1vUbM70"
+      "questionId": "oZvemRFe7pAHA1vUbM70",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5102,7 +5420,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_password_creation_skills",
       "question": "Which of the following character types is NOT recommended for creating a complex password?",
-      "questionId": "ohb1kdmlCzqUipSZ2baW"
+      "questionId": "ohb1kdmlCzqUipSZ2baW",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5118,7 +5437,8 @@
       "difficulty": "expert",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "According to the provided context, which of the following are used in 2FA?",
-      "questionId": "ojG2wYDY8aoopNZH2mAk"
+      "questionId": "ojG2wYDY8aoopNZH2mAk",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5134,7 +5454,8 @@
       "difficulty": "expert",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which of the following is NOT a benefit of using strong passwords?",
-      "questionId": "okclHATuLQF7YbQxRWtd"
+      "questionId": "okclHATuLQF7YbQxRWtd",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5150,7 +5471,8 @@
       "difficulty": "expert",
       "chapterId": "testing_password_security_knowledge",
       "question": "In addition to using a mobile phone for 2FA, which of the following is NOT an alternative method?",
-      "questionId": "owJEVFUh1mk8I6PJidHL"
+      "questionId": "owJEVFUh1mk8I6PJidHL",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5166,7 +5488,8 @@
       "difficulty": "intermediate",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following is an example of 2FA being used in an offline context?",
-      "questionId": "oxhxpSnwJkmthuIA9T0D"
+      "questionId": "oxhxpSnwJkmthuIA9T0D",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5182,7 +5505,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_password_creation_skills",
       "question": "What is a physical token?",
-      "questionId": "oyth18H1k3O7kWDSxtPw"
+      "questionId": "oyth18H1k3O7kWDSxtPw",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5198,7 +5522,8 @@
       "difficulty": "expert",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is not a common method of two-factor authentication?",
-      "questionId": "p5cAhKkxo02MmYSeJu2K"
+      "questionId": "p5cAhKkxo02MmYSeJu2K",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5214,7 +5539,8 @@
       "difficulty": "expert",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following is an example of something you are that can be used as a form of 2FA (Two-Factor Authentication)?",
-      "questionId": "pAsaNlUOTNlTtAZDeugV"
+      "questionId": "pAsaNlUOTNlTtAZDeugV",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5230,7 +5556,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is NOT an effective way to protect against identity theft online?",
-      "questionId": "pNfFUUBxb4QAhhCldGXp"
+      "questionId": "pNfFUUBxb4QAhhCldGXp",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5246,7 +5573,8 @@
       "difficulty": "expert",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following systems has used two-factor authentication (2FA) for a significant amount of time?",
-      "questionId": "preeppwgWvEu3x3DCKqX"
+      "questionId": "preeppwgWvEu3x3DCKqX",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5262,7 +5590,8 @@
       "difficulty": "intermediate",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following is NOT a common method used as a second factor for online authentication?",
-      "questionId": "pyhTXBJK0rZEz1tL2Y9v"
+      "questionId": "pyhTXBJK0rZEz1tL2Y9v",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5278,7 +5607,8 @@
       "difficulty": "expert",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is NOT a benefit of two-factor authentication (2FA)?",
-      "questionId": "q0zrECEStPt6SyavC9rY"
+      "questionId": "q0zrECEStPt6SyavC9rY",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5294,7 +5624,8 @@
       "difficulty": "beginner",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following is a benefit of using two-factor authentication?",
-      "questionId": "q78PJCsF9UGpaAuqsnnA"
+      "questionId": "q78PJCsF9UGpaAuqsnnA",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5310,7 +5641,8 @@
       "difficulty": "beginner",
       "chapterId": "understanding_2fa",
       "question": "What is the second common factor used in two-factor authentication?",
-      "questionId": "qExziGQqzO1KnF8B3kY7"
+      "questionId": "qExziGQqzO1KnF8B3kY7",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5326,7 +5658,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Online banking often requires two forms of identification for increased security.  Which of the following is the first form of identification?",
-      "questionId": "qQTUfJnlwiq3AL7zhIae"
+      "questionId": "qQTUfJnlwiq3AL7zhIae",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5342,7 +5675,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which of the following is NOT a recommended best practice for preventing phishing attacks when browsing the web?",
-      "questionId": "qUBI4ogwsxfOSmNqWCYA"
+      "questionId": "qUBI4ogwsxfOSmNqWCYA",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5358,7 +5692,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Why might users be at risk of having their passwords compromised?",
-      "questionId": "qi0ajKPnq3QHvKPkK2VT"
+      "questionId": "qi0ajKPnq3QHvKPkK2VT",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5374,7 +5709,8 @@
       "difficulty": "expert",
       "chapterId": "understanding_2fa",
       "question": "In which scenarios is 2FA most commonly used?",
-      "questionId": "qkqBbKjC24fWpkZvzCFi"
+      "questionId": "qkqBbKjC24fWpkZvzCFi",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5390,7 +5726,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_phishing_knowledge",
       "question": "When cybercriminals send an email or text message that has a link to a website that looks like the real thing, which of the following is the best course of action?",
-      "questionId": "qnrorL070NTmMzFZdag1"
+      "questionId": "qnrorL070NTmMzFZdag1",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5406,7 +5743,8 @@
       "difficulty": "expert",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "What is the most common second authentication method used in 2FA?",
-      "questionId": "qsK95OQzNgZ9EzwaGnWF"
+      "questionId": "qsK95OQzNgZ9EzwaGnWF",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5422,7 +5760,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_password_creation_skills",
       "question": "When choosing a strong password, why should you avoid common words or phrases?",
-      "questionId": "qtzCQYy3vr0Ni2OszHbr"
+      "questionId": "qtzCQYy3vr0Ni2OszHbr",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5438,7 +5777,8 @@
       "difficulty": "intermediate",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which statement accurately describes the role of 2FA in online security?",
-      "questionId": "r19hFqyneopEQPgLdH2s"
+      "questionId": "r19hFqyneopEQPgLdH2s",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5454,7 +5794,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_phishing_knowledge",
       "question": "When you receive an email or text message that appears to be from a legitimate organization, how can you spot a phishing attack?",
-      "questionId": "r2gXHREw6CFRdBQyx9rx"
+      "questionId": "r2gXHREw6CFRdBQyx9rx",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5470,7 +5811,8 @@
       "difficulty": "intermediate",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which authentication method involves verifying a user's physical characteristics?",
-      "questionId": "rJqdvH1reZ4NlsoaAzZp"
+      "questionId": "rJqdvH1reZ4NlsoaAzZp",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5486,7 +5828,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following can be used for authentication?",
-      "questionId": "rP2Ht92YzSrRUuhDggMB"
+      "questionId": "rP2Ht92YzSrRUuhDggMB",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5502,7 +5845,8 @@
       "difficulty": "expert",
       "chapterId": "understanding_2fa",
       "question": "When used for 2fa, what is a voiceprint?",
-      "questionId": "rVLv3H14K5we3Yc7ZiCB"
+      "questionId": "rVLv3H14K5we3Yc7ZiCB",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5518,7 +5862,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following is NOT a benefit of software updates?",
-      "questionId": "raHNwwzCfJWHujcRfSwT"
+      "questionId": "raHNwwzCfJWHujcRfSwT",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5534,7 +5879,8 @@
       "difficulty": "expert",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Besides implementing 2FA, what is another way to further secure your online accounts?",
-      "questionId": "rpesDujZ26oINx0QsGEW"
+      "questionId": "rpesDujZ26oINx0QsGEW",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5550,7 +5896,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following are examples of Two-factor authentication?",
-      "questionId": "rtG9i7R2J6QM63aB1IUX"
+      "questionId": "rtG9i7R2J6QM63aB1IUX",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5566,7 +5913,8 @@
       "difficulty": "intermediate",
       "chapterId": "understanding_2fa",
       "question": "Which of the following best describes one of the primary benefits of 2FA?",
-      "questionId": "sFMsuhbgYaipBBwmEMdg"
+      "questionId": "sFMsuhbgYaipBBwmEMdg",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5582,7 +5930,8 @@
       "difficulty": "expert",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "What is a potential risk of using the same password on multiple websites?",
-      "questionId": "sYkOa9GcVj2SR3hrYYnq"
+      "questionId": "sYkOa9GcVj2SR3hrYYnq",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5598,7 +5947,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_password_creation_skills",
       "question": "Which of the following is **NOT** a recommended tip for creating a strong password?",
-      "questionId": "skemWw8XEzFNlEKYrE5t"
+      "questionId": "skemWw8XEzFNlEKYrE5t",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5614,7 +5964,8 @@
       "difficulty": "expert",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which of the following is a viable approach for managing passwords securely?",
-      "questionId": "t3PAhr6qEmjunJaeKjxx"
+      "questionId": "t3PAhr6qEmjunJaeKjxx",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5630,7 +5981,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_password_security_knowledge",
       "question": "What is biometrics and how does it work for 2-factor authentication?",
-      "questionId": "tOidJNqXMrYZTaE6pR3X"
+      "questionId": "tOidJNqXMrYZTaE6pR3X",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5646,7 +5998,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_password_security_knowledge",
       "question": "What is a potential vulnerability of using an authenticator app for two-factor authentication (2FA)?",
-      "questionId": "tRBfQqnPWaGHb74Ovk6H"
+      "questionId": "tRBfQqnPWaGHb74Ovk6H",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5662,7 +6015,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is NOT a tip for creating strong passwords?",
-      "questionId": "tevlo6aCCwOHIX1RDDIf"
+      "questionId": "tevlo6aCCwOHIX1RDDIf",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5678,7 +6032,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Where can you stay up-to-date on the latest phishing scams?",
-      "questionId": "trrHHQPA8UoohbvnSgZ2"
+      "questionId": "trrHHQPA8UoohbvnSgZ2",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5694,7 +6049,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "What are two ways to implement 2FA with a mobile device?",
-      "questionId": "twfowWnJWzlAqwPIljAz"
+      "questionId": "twfowWnJWzlAqwPIljAz",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5710,7 +6066,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "What could be an extra layer of security for your online accounts?",
-      "questionId": "tygGXN0G5wu8MPVDHIy3"
+      "questionId": "tygGXN0G5wu8MPVDHIy3",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5726,7 +6083,8 @@
       "difficulty": "expert",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following are NOT the 3 primary types of authentication?",
-      "questionId": "u1fXNqpUdkcCtUv16Hx0"
+      "questionId": "u1fXNqpUdkcCtUv16Hx0",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5742,7 +6100,8 @@
       "difficulty": "expert",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is NOT a step in the general 2FA process?",
-      "questionId": "u5Y9CZp2XmMh1bZas9lA"
+      "questionId": "u5Y9CZp2XmMh1bZas9lA",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5758,7 +6117,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_password_creation_skills",
       "question": "What is the typical price range for password managers?",
-      "questionId": "uS9EZvrQuKYWUKfAeF3j"
+      "questionId": "uS9EZvrQuKYWUKfAeF3j",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5774,7 +6134,8 @@
       "difficulty": "beginner",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "To improve online security, what is an example of two-factor authentication (2FA)?",
-      "questionId": "uYOMsqGv0WXR0nEYGFJa"
+      "questionId": "uYOMsqGv0WXR0nEYGFJa",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5790,7 +6151,8 @@
       "difficulty": "intermediate",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following is a benefit of using 2FA (Two-Factor Authentication)?",
-      "questionId": "uZLrO4DuHvsjitolhu6q"
+      "questionId": "uZLrO4DuHvsjitolhu6q",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5806,7 +6168,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "What is NOT a reason to perform software updates?",
-      "questionId": "uaPZeqVZWelOOSK4eWXl"
+      "questionId": "uaPZeqVZWelOOSK4eWXl",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5822,7 +6185,8 @@
       "difficulty": "expert",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which of the following statements about the importance of strong passwords is most accurate?",
-      "questionId": "uvdI1EQd3UPlQUEoBiGY"
+      "questionId": "uvdI1EQd3UPlQUEoBiGY",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5838,7 +6202,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "What is the purpose of two factor authentication?",
-      "questionId": "v3lKf7maj0UwgI9CgZD1"
+      "questionId": "v3lKf7maj0UwgI9CgZD1",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5854,7 +6219,8 @@
       "difficulty": "expert",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Authentication for Two Factor Authentication is done through which two types of identification?",
-      "questionId": "v8qBlyXFpfNRQkUmsTKS"
+      "questionId": "v8qBlyXFpfNRQkUmsTKS",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5870,7 +6236,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "What does 2FA stand for?",
-      "questionId": "vC8OHmY2uAYLxW63T2Sa"
+      "questionId": "vC8OHmY2uAYLxW63T2Sa",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5886,7 +6253,8 @@
       "difficulty": "beginner",
       "chapterId": "understanding_2fa",
       "question": "Why should you add 2FA to your high-priority accounts?",
-      "questionId": "vOPkWtGVhDs2UdZtdRoO"
+      "questionId": "vOPkWtGVhDs2UdZtdRoO",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5902,7 +6270,8 @@
       "difficulty": "beginner",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "When using two-factor authentication with a mobile phone, which of the following are the two options for receiving the verification code?",
-      "questionId": "vT215tgZ9ylVgRXNaW0X"
+      "questionId": "vT215tgZ9ylVgRXNaW0X",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5918,7 +6287,8 @@
       "difficulty": "expert",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "What is the main reason to use 2FA?",
-      "questionId": "vUZ95ObI108fzdESnxTY"
+      "questionId": "vUZ95ObI108fzdESnxTY",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5934,7 +6304,8 @@
       "difficulty": "intermediate",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following statements about 2FA is true?",
-      "questionId": "vXQGJjb3SUURCLLnQ9qa"
+      "questionId": "vXQGJjb3SUURCLLnQ9qa",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5950,7 +6321,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_phishing_knowledge",
       "question": "How can you protect yourself from phishing attacks?",
-      "questionId": "vasNQgVpBiERjVLkgf9I"
+      "questionId": "vasNQgVpBiERjVLkgf9I",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5966,7 +6338,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is NOT a good social media privacy practice?",
-      "questionId": "vwLHOixkLaKxpm6q9s1h"
+      "questionId": "vwLHOixkLaKxpm6q9s1h",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5982,7 +6355,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is NOT an example of 2FA (two-factor authentication) using something you are?",
-      "questionId": "wBalqCTSBahkQEY0gkB2"
+      "questionId": "wBalqCTSBahkQEY0gkB2",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -5998,7 +6372,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_phishing_knowledge",
       "question": "What is one thing you can look for to help you spot a phishing attack?",
-      "questionId": "wFT4uEjGnvhqapc3PSDX"
+      "questionId": "wFT4uEjGnvhqapc3PSDX",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6014,7 +6389,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "In the context of two-factor authentication, which of the following is NOT a factor used for authentication?",
-      "questionId": "wPEqXcnBnN4VPvje3PBx"
+      "questionId": "wPEqXcnBnN4VPvje3PBx",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6030,7 +6406,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_password_creation_skills",
       "question": "In the context of password managers, how is a password generally stored?",
-      "questionId": "wWjXP3jKgnDDJnFl7QdT"
+      "questionId": "wWjXP3jKgnDDJnFl7QdT",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6046,7 +6423,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_password_creation_skills",
       "question": "How do password managers store passwords?",
-      "questionId": "wuptc0h8Pu1fcmKugyTf"
+      "questionId": "wuptc0h8Pu1fcmKugyTf",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6062,7 +6440,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following are typically included in software updates?",
-      "questionId": "wwAVbbePBtFA3GlVwdDh"
+      "questionId": "wwAVbbePBtFA3GlVwdDh",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6078,7 +6457,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_phishing_knowledge",
       "question": "How does phishing often create a sense of urgency or panic?",
-      "questionId": "wxfzkVBktFmi4bUun6F4"
+      "questionId": "wxfzkVBktFmi4bUun6F4",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6094,7 +6474,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Besides fixing security vulnerabilities, what is another benefit of software updates?",
-      "questionId": "xButKXdx4YyN9k0o2g5F"
+      "questionId": "xButKXdx4YyN9k0o2g5F",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6110,7 +6491,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following is a benefit of installing software updates?",
-      "questionId": "xC8GIc7ZEYuaaMs6Zwf9"
+      "questionId": "xC8GIc7ZEYuaaMs6Zwf9",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6126,7 +6508,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_phishing_knowledge",
       "question": "In vishing scams, callers often pretend to be which of the following?",
-      "questionId": "xCM5jLVnDFTijY13N2HH"
+      "questionId": "xCM5jLVnDFTijY13N2HH",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6142,7 +6525,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is NOT a way that cybercriminals can use your personal information?",
-      "questionId": "xLqLc7xV2s43wl8o6nQm"
+      "questionId": "xLqLc7xV2s43wl8o6nQm",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6158,7 +6542,8 @@
       "difficulty": "intermediate",
       "chapterId": "understanding_2fa",
       "question": "Which of the following actions does NOT increase your risk of password theft when using 2FA?",
-      "questionId": "xNiiMg6nRha1tFHsKkcx"
+      "questionId": "xNiiMg6nRha1tFHsKkcx",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6174,7 +6559,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_password_creation_skills",
       "question": "What are the three categories of 2FA that can be combined?",
-      "questionId": "xZimw053GdgyfxJs1O31"
+      "questionId": "xZimw053GdgyfxJs1O31",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6190,7 +6576,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_phishing_knowledge",
       "question": "Which type of phishing attack specifically targets high-level executives, using tailored messages and research to gain their trust?",
-      "questionId": "xl1ekX8oWN9gnEKukMIB"
+      "questionId": "xl1ekX8oWN9gnEKukMIB",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6206,7 +6593,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_password_creation_skills",
       "question": "How often should you change your passwords?",
-      "questionId": "xrUaTgueijrdEamKARW2"
+      "questionId": "xrUaTgueijrdEamKARW2",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6222,7 +6610,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "Which of the following is a recommended practice to improve account security?",
-      "questionId": "xuHPJ4qpl2LtZjgHjetw"
+      "questionId": "xuHPJ4qpl2LtZjgHjetw",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6238,7 +6627,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_password_creation_skills",
       "question": "You have many unused online accounts.  Which of the following will make your other accounts more secure?",
-      "questionId": "xyhhBDB6DJQBnkb3dUsP"
+      "questionId": "xyhhBDB6DJQBnkb3dUsP",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6254,7 +6644,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "What is the full name of the user's password manager?",
-      "questionId": "y9wWhjHEcdu7Pj06rfkk"
+      "questionId": "y9wWhjHEcdu7Pj06rfkk",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6270,7 +6661,8 @@
       "difficulty": "beginner",
       "chapterId": "testing_understanding_of_software_updates",
       "question": "Which of the following is not a benefit of keeping your software updated?",
-      "questionId": "yL3wCajUpokLmvAr3af7"
+      "questionId": "yL3wCajUpokLmvAr3af7",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6286,7 +6678,8 @@
       "difficulty": "intermediate",
       "chapterId": "understanding_2fa",
       "question": "The most common 2FA factors are:",
-      "questionId": "yN7tWLYDmSn33QUsH1Hb"
+      "questionId": "yN7tWLYDmSn33QUsH1Hb",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6302,7 +6695,8 @@
       "difficulty": "expert",
       "chapterId": "testing_password_security_knowledge",
       "question": "Which of the following is NOT an example of a 2FA (two-factor authentication) method?",
-      "questionId": "yVpgjqen8HsAqGjbHA14"
+      "questionId": "yVpgjqen8HsAqGjbHA14",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6318,7 +6712,8 @@
       "difficulty": "expert",
       "chapterId": "assessing_password_creation_skills",
       "question": "Which of the following is NOT an example of a password manager?",
-      "questionId": "yXwZ2U2QLa8Xx8wsthbN"
+      "questionId": "yXwZ2U2QLa8Xx8wsthbN",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6334,7 +6729,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_phishing_knowledge",
       "question": "When it comes to phishing attacks, it's important to remember to never provide personal information in response to an email or text message.  Why is this?",
-      "questionId": "yYGokoP1L329qhuWZdq2"
+      "questionId": "yYGokoP1L329qhuWZdq2",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6350,7 +6746,8 @@
       "difficulty": "intermediate",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "What are some additional things you can do to stay secure online, besides being mindful of where you conduct financial transactions?",
-      "questionId": "ybvBDPLqjQf0OzgC5CNL"
+      "questionId": "ybvBDPLqjQf0OzgC5CNL",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6366,7 +6763,8 @@
       "difficulty": "intermediate",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "Which of the following is NOT a benefit of 2FA (2-Factor Authentication)?",
-      "questionId": "yhGLAqpsyLckzNXq1VRk"
+      "questionId": "yhGLAqpsyLckzNXq1VRk",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6382,7 +6780,8 @@
       "difficulty": "beginner",
       "chapterId": "evaluating_understanding_of_online_privacy",
       "question": "What is a common security feature that verifies your identity using more than just your password?",
-      "questionId": "ymwNdwin0BZFDGgVel5s"
+      "questionId": "ymwNdwin0BZFDGgVel5s",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6398,7 +6797,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_privacy_protection_knowledge",
       "question": "What is a key feature of Two-Factor Authentication (2FA)?",
-      "questionId": "zD4MVqz5Paa2VXuxXqqH"
+      "questionId": "zD4MVqz5Paa2VXuxXqqH",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6414,7 +6814,8 @@
       "difficulty": "intermediate",
       "chapterId": "testing_password_security_knowledge",
       "question": "When constructing a strong password that incorporates a variety of character types, which of the following combinations is NOT recommended?",
-      "questionId": "zVVwzRetOhjQfmo9c6aP"
+      "questionId": "zVVwzRetOhjQfmo9c6aP",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6430,7 +6831,8 @@
       "difficulty": "beginner",
       "chapterId": "understanding_2fa",
       "question": "Which of the following is a method of 2FA that uses unique biological traits of the user?",
-      "questionId": "zVnBpXLxO9z0w898Eybk"
+      "questionId": "zVnBpXLxO9z0w898Eybk",
+      "isHumanWritten": 0
     },
     {
       "choices": {
@@ -6446,457 +6848,8 @@
       "difficulty": "beginner",
       "chapterId": "assessing_password_creation_skills",
       "question": "Which feature should you look for in a password manager that provides an extra layer of security?",
-      "questionId": "zpVvetSF84a1OL03nkMi"
-    },
-    {
-      "choices": {
-        "a": "iloveyou88",
-        "b": "ieatkale88",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "ieatkale88 is actually 4 billion times as secure! 'iloveyou' is the #1 most common phrase used in passwords, making iloveyou88 extremely easy for attackers to guess. In contrast, 'ieatkale' appears very rarely. However, it's best to steer away from any password composed mostly of common words.",
-      "difficulty": "beginner",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q1"
-    },
-    {
-      "choices": {
-        "a": "sponge01bob",
-        "b": "spongebob01",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "a",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "sponge01bob is 900,000 times as secure because most people put numbers at the end of their password. Mix numbers (and symbols and uppercase) throughout your password to be more secure!",
-      "difficulty": "beginner",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q2"
-    },
-    {
-      "choices": {
-        "a": "pAsswOrd",
-        "b": "p@ssw0rd",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "a",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "pAsswOrd is actually 4,000 times harder to guess. Attackers know to guess obvious substitutions. In contrast, unexpected capitalization is comparatively rare and is a good way to improve password security. Of course, though, no password obviously derived from the word 'password' is secure.",
-      "difficulty": "beginner",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q3"
-    },
-    {
-      "choices": {
-        "a": "apple123",
-        "b": "4pple123",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "4pple123 is actually 10,000 times more secure! Replacing characters with symbols and adding complexity significantly improves password strength. However, it's essential to avoid common words like 'apple' even with added complexity.",
-      "difficulty": "beginner",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q4"
-    },
-    {
-      "choices": {
-        "a": "password123",
-        "b": "pa$$w0rd123",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "pa$$w0rd123 is actually 10,000 times more secure! Adding symbols and numbers to passwords significantly increases their strength. However, avoid using common patterns like 'password' even with added complexity.",
-      "difficulty": "beginner",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q5"
-    },
-    {
-      "choices": {
-        "a": "sunshine",
-        "b": "5unsh1n3",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "5unsh1n3 is actually 10,000 times more secure! Substituting characters with numbers and adding complexity significantly improves password strength. However, it's crucial to avoid common words like 'sunshine' even with added complexity.",
-      "difficulty": "beginner",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q6"
-    },
-    {
-      "choices": {
-        "a": "password",
-        "b": "pa$$w0rd",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "pa$$w0rd is actually 10,000 times more secure! Adding symbols and numbers to passwords significantly increases their strength. However, avoid using common patterns like 'password' even with added complexity.",
-      "difficulty": "beginner",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q7"
-    },
-    {
-      "choices": {
-        "a": "12345678",
-        "b": "12@34#56$78",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "12@34#56$78 is actually 10,000 times more secure! Adding symbols and complexity significantly improves password strength. However, avoid using common patterns like '12345678' even with added complexity.",
-      "difficulty": "beginner",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q8"
-    },
-    {
-      "choices": {
-        "a": "letmein",
-        "b": "l3tm31n!",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "l3tm31n! is actually 100,000 times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's essential to avoid common phrases like 'letmein' even with added complexity.",
-      "difficulty": "beginner",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q9"
-    },
-    {
-      "choices": {
-        "a": "letmein88",
-        "b": "l3tm31n88",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "l3tm31n88 is actually 1 million times more secure! Adding complexity with numbers significantly improves password strength. However, it's essential to avoid common phrases like 'letmein' even with added complexity.",
-      "difficulty": "beginner",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q10"
-    },
-    {
-      "choices": {
-        "a": "spring2022",
-        "b": "spr1ng!2022",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "spr1ng!2022 is actually 100,000 times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's essential to avoid using common phrases like 'spring' even with added complexity.",
-      "difficulty": "intermediate",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q11"
-    },
-    {
-      "choices": {
-        "a": "football",
-        "b": "f00tball!",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "f00tball! is actually 10,000 times more secure! Replacing characters with numbers and adding complexity significantly improves password strength. However, it's crucial to avoid using common words like 'football' even with added complexity.",
-      "difficulty": "intermediate",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q12"
-    },
-    {
-      "choices": {
-        "a": "summer2022",
-        "b": "s$mm3r2022",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "s$mm3r2022 is actually 100,000 times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's essential to avoid using common phrases like 'summer' even with added complexity.",
-      "difficulty": "intermediate",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q13"
-    },
-    {
-      "choices": {
-        "a": "welcome123",
-        "b": "w3lc0m3123!",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "w3lc0m3123! is actually 10,000 times more secure! Replacing characters with numbers and adding complexity significantly improves password strength. However, it's crucial to avoid using common phrases like 'welcome' even with added complexity.",
-      "difficulty": "intermediate",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q14"
-    },
-    {
-      "choices": {
-        "a": "baseball",
-        "b": "b@53ball!",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "b@53ball! is actually 10,000 times more secure! Replacing characters with symbols and adding complexity significantly improves password strength. However, it's crucial to avoid using common words like 'baseball' even with added complexity.",
-      "difficulty": "intermediate",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q15"
-    },
-    {
-      "choices": {
-        "a": "qwerty123",
-        "b": "qw3rty!23",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "qw3rty!23 is actually 10,000 times more secure! Replacing characters with symbols and adding complexity significantly improves password strength. However, it's crucial to avoid using common patterns like 'qwerty' even with added complexity.",
-      "difficulty": "intermediate",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q16"
-    },
-    {
-      "choices": {
-        "a": "letmein",
-        "b": "l3tm31n!",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "l3tm31n! is actually 100,000 times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's essential to avoid common phrases like 'letmein' even with added complexity.",
-      "difficulty": "intermediate",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q17"
-    },
-    {
-      "choices": {
-        "a": "spring2022",
-        "b": "spr1ng!2022",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "spr1ng!2022 is actually 100,000 times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's essential to avoid using common phrases like 'spring' even with added complexity.",
-      "difficulty": "intermediate",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q18"
-    },
-    {
-      "choices": {
-        "a": "summer2022",
-        "b": "s$mm3r2022",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "s$mm3r2022 is actually 100,000 times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's essential to avoid using common phrases like 'summer' even with added complexity.",
-      "difficulty": "intermediate",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q19"
-    },
-    {
-      "choices": {
-        "a": "welcome123",
-        "b": "w3lc0m3123!",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "w3lc0m3123! is actually 10,000 times more secure! Replacing characters with numbers and adding complexity significantly improves password strength. However, it's crucial to avoid using common phrases like 'welcome' even with added complexity.",
-      "difficulty": "intermediate",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q20"
-    },
-    {
-      "choices": {
-        "a": "password123",
-        "b": "p@ssw0rd123!",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "p@ssw0rd123! is actually 1 million times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's crucial to avoid using common patterns like 'password' even with added complexity.",
-      "difficulty": "expert",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q21"
-    },
-    {
-      "choices": {
-        "a": "letmein",
-        "b": "l3tm31n!",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "l3tm31n! is actually 100,000 times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's essential to avoid common phrases like 'letmein' even with added complexity.",
-      "difficulty": "expert",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q22"
-    },
-    {
-      "choices": {
-        "a": "sunshine",
-        "b": "5un$h!n3",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "5un$h!n3 is actually 100,000 times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's crucial to avoid using common phrases like 'sunshine' even with added complexity.",
-      "difficulty": "expert",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q23"
-    },
-    {
-      "choices": {
-        "a": "qwerty123",
-        "b": "qwertY!23",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "qwertY!23 is actually 10 million times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's crucial to avoid using common patterns like 'qwerty' even with added complexity.",
-      "difficulty": "expert",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q24"
-    },
-    {
-      "choices": {
-        "a": "football",
-        "b": "f00tb@ll!",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "f00tb@ll! is actually 10 million times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's crucial to avoid using common words like 'football' even with added complexity.",
-      "difficulty": "expert",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q25"
-    },
-    {
-      "choices": {
-        "a": "welcome123",
-        "b": "w3lc0m3123!",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "w3lc0m3123! is actually 1 million times more secure! Replacing characters with numbers and adding complexity significantly improves password strength. However, it's crucial to avoid using common phrases like 'welcome' even with added complexity.",
-      "difficulty": "expert",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q26"
-    },
-    {
-      "choices": {
-        "a": "baseball",
-        "b": "b@53ball!",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "b@53ball! is actually 10 million times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's crucial to avoid using common words like 'baseball' even with added complexity.",
-      "difficulty": "expert",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q27"
-    },
-    {
-      "choices": {
-        "a": "spring2022",
-        "b": "spr1ng!2022",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "spr1ng!2022 is actually 1 million times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's crucial to avoid using common phrases like 'spring' even with added complexity.",
-      "difficulty": "expert",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q28"
-    },
-    {
-      "choices": {
-        "a": "summer2022",
-        "b": "s$mm3r2022",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "s$mm3r2022 is actually 1 million times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's crucial to avoid using common phrases like 'summer' even with added complexity.",
-      "difficulty": "expert",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q29"
-    },
-    {
-      "choices": {
-        "a": "winter2022",
-        "b": "w1nt3r!2022",
-        "c": "They're about the same"
-      },
-      "topicId": "password_security",
-      "answer": "b",
-      "fromChapter": "creating_strong_passwords",
-      "explanation": "w1nt3r!2022 is actually 1 million times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's crucial to avoid using common phrases like 'winter' even with added complexity.",
-      "difficulty": "expert",
-      "chapterId": "assessing_password_creation_skills",
-      "question": "Which password is more secure?",
-      "questionId": "Q30"
+      "questionId": "zpVvetSF84a1OL03nkMi",
+      "isHumanWritten": 0
     }
   ]
 }
