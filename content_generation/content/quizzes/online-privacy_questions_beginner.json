@@ -1,0 +1,198 @@
+[
+  {
+    "question": {
+      "question": "Which of the following is NOT a good way to protect your online privacy?",
+      "answer": "c",
+      "choices": {
+        "a": "Use strong passwords and don't reuse them across multiple accounts.",
+        "b": "Be careful about what information you share online.",
+        "c": "Click on every link in an email you receive.",
+        "d": "Use a VPN when accessing public Wi-Fi networks."
+      },
+      "explanation": "Clicking on every link in an email you receive is not a good way to protect your online privacy, as it could lead to malware or phishing attacks."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "question": {
+      "question": "Which of the following is a good way to protect your computer from malware and other threats?",
+      "answer": "a",
+      "choices": {
+        "a": "Use a secure computer with updated software and a firewall.",
+        "b": "Click on every popup that you see.",
+        "c": "Never change your password.",
+        "d": "Ignore software updates."
+      },
+      "explanation": "Using a secure computer with updated software and a firewall helps protect your computer from malware and other threats by blocking malicious traffic and keeping your software up-to-date with the latest security patches."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "question": {
+      "question": "When entering personal information on a website, what should you look for before submitting?",
+      "answer": "a",
+      "choices": {
+        "a": "The https symbol and a lock icon",
+        "b": "A warning message from your browser",
+        "c": "A guarantee that the website is secure",
+        "d": "A pop-up asking for your password"
+      },
+      "explanation": "The https symbol and a lock icon indicate that the website is secure and your information will be encrypted."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "question": {
+      "question": "Which of the following is NOT a good practice for protecting your online privacy?",
+      "answer": "d",
+      "choices": {
+        "a": "Use strong passwords.",
+        "b": "Enable multi-factor authentication for sensitive accounts.",
+        "c": "Be cautious of phishing emails.",
+        "d": "Use public Wi-Fi for sensitive activities such as online banking or shopping."
+      },
+      "explanation": "Public Wi-Fi networks are not secure and your information could be intercepted by hackers. It is best to avoid using public Wi-Fi for sensitive activities such as online banking or shopping."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "question": {
+      "question": "To protect your online privacy, what should you do before creating an account on a website or app?",
+      "answer": "a",
+      "choices": {
+        "a": "Review privacy policies",
+        "b": "Use a strong password",
+        "c": "Enable multi-factor authentication",
+        "d": "Don't click on links in emails or text messages"
+      },
+      "explanation": "Reviewing privacy policies before creating an account helps you understand how your information will be collected and used, allowing you to make informed choices about your privacy."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "question": {
+      "question": "Which of the following is a warning sign of a phishing scam?",
+      "answer": "a",
+      "choices": {
+        "a": "A sense of urgency",
+        "b": "A request for your Social Security number",
+        "c": "A link to a legitimate-looking website",
+        "d": "A message from a friend or family member"
+      },
+      "explanation": "Phishing scams often try to create a sense of urgency to trick you into taking action without thinking. They may threaten to close your account, delete your files, or charge you a fee if you don't respond immediately."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "question": {
+      "question": "Which of the following is a good way to protect yourself from online threats?",
+      "answer": "a",
+      "choices": {
+        "a": "Don't click on links from unknown sources.",
+        "b": "Share your personal information with everyone.",
+        "c": "Click on every link you see, even if you don't know where it goes.",
+        "d": "Never update your software or security settings."
+      },
+      "explanation": "Clicking on links from unknown sources can lead to malicious websites that could infect your computer with malware."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "question": {
+      "question": "Which of the following actions will help protect your credit card information from being stolen if a website is hacked?",
+      "answer": "a",
+      "choices": {
+        "a": "Don't save your credit card details on websites",
+        "b": "Use a strong password for your account",
+        "c": "Enable multi-factor authentication for your account",
+        "d": "Be cautious about clicking on links in emails"
+      },
+      "explanation": "Saving your credit card details on a website makes it easier for hackers to steal your information if the website is hacked. It is best to only enter your credit card information when you are making a purchase."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "question": {
+      "question": "Tor Browser is a tool that helps keep you private when browsing the internet. What is one thing that Tor Browser will not protect you from?",
+      "answer": "b",
+      "choices": {
+        "a": "Your ISP",
+        "b": "Malware",
+        "c": "Phishing",
+        "d": "Tracking"
+      },
+      "explanation": "Tor Browser is a great tool for keeping your browsing private, but it's important to remember that it's not a silver bullet. There are some threats, like malware and phishing, that Tor Browser cannot protect you from."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "question": {
+      "question": "Which of the following is NOT a reason to install software updates promptly?",
+      "answer": "c",
+      "choices": {
+        "a": "To fix bugs",
+        "b": "To patch security issues",
+        "c": "To get new features",
+        "d": "To improve performance"
+      },
+      "explanation": "Software updates often include security patches to fix vulnerabilities that attackers could exploit. Installing updates promptly helps to protect your system from these vulnerabilities."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "question": {
+      "question": "What is one of the main functions of a firewall?",
+      "answer": "b",
+      "choices": {
+        "a": "To encrypt data before sending it over the internet",
+        "b": "To filter incoming and outgoing traffic for threats",
+        "c": "To scan for viruses and malware",
+        "d": "To block access to websites that contain malicious content"
+      },
+      "explanation": "Firewalls are designed to act as a barrier between your device and the internet, monitoring and filtering incoming and outgoing traffic to identify and block any potential threats or malicious activity."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "question": {
+      "question": "Which of the following is a benefit of using antivirus software?",
+      "answer": "a",
+      "choices": {
+        "a": "It can help prevent malware infections",
+        "b": "It can speed up your computer",
+        "c": "It can make your computer more visually appealing",
+        "d": "It can help you find lost files"
+      },
+      "explanation": "Antivirus software is designed to scan your device for malicious software and help prevent infections. It does not speed up your computer, make it more visually appealing, or help you find lost files."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "question": {
+      "question": "What is a good way to limit social media sharing?",
+      "answer": "a",
+      "choices": {
+        "a": "Consider privacy settings and who can see your posts.",
+        "b": "Share everything you do with your followers.",
+        "c": "Disable your social media accounts.",
+        "d": "Use the same password for all your social media accounts."
+      },
+      "explanation": "It is important to be mindful of what you share on social media and who can see it. By considering your privacy settings and who you allow to follow you, you can help protect your personal information."
+    },
+    "difficulty": "beginner"
+  },
+  {
+    "question": {
+      "question": "Which of the following is NOT a risk associated with oversharing personal details online?",
+      "answer": "c",
+      "choices": {
+        "a": "Identity theft",
+        "b": "Scams",
+        "c": "Increased productivity",
+        "d": "Malware attacks"
+      },
+      "explanation": "Oversharing personal details online can lead to identity theft and scams, but it does not increase productivity or lead to malware attacks."
+    },
+    "difficulty": "beginner"
+  }
+]

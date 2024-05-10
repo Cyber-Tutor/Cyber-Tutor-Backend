@@ -18,3 +18,12 @@ serviceAccountKey.json
 
 # Sean's stuff
 chroma_db/
+# Visual Studio Code
+.vscode/
+
+# Database
+chroma_db
+.sqlite3
+
+# Firebase
+firebase.json
