@@ -1,0 +1,39 @@
+<h1>Introduction to Phishing</h1>
+
+<p>Phishing is a type of cyberattack where malicious actors send messages pretending to be a trusted person or entity. These messages are designed to manipulate the recipient into performing an action, such as installing malware, clicking a malicious link or divulging sensitive information like access credentials.</p>
+
+<p>Phishing attacks can take many forms, but the most common methods are email, text message (smishing) or phone call (vishing).</p>
+
+<h2>How to Spot a Phishing Attack</h2>
+
+<p>There are several things you can look for to help you spot a phishing attack:</p>
+
+<ul>
+<li><em>The sender's email address or phone number does not match the organization they claim to represent.</em></li>
+<li><em>The message contains typos or grammatical errors.</em></li>
+<li><em>The message creates a sense of urgency or panic.</em></li>
+<li><em>The message asks you to click on a link or open an attachment.</em></li>
+<li><em>The message asks you to provide personal information, such as your password or credit card number.</em></li>
+</ul>
+
+<h2>What to Do If You Receive a Phishing Attack</h2>
+
+<p>If you receive an email or text message that you believe may be a phishing attack, do not click on any links or open any attachments. Instead, forward the message to your security team or delete it.</p>
+
+<p>If you have already clicked on a link or opened an attachment, you should immediately change your passwords and contact your security team.</p>
+
+<h2>How to Avoid Phishing Attacks</h2>
+
+<p>There are several things you can do to help avoid phishing attacks:</p>
+
+<ul>
+<li><em>Be wary of emails or text messages from unknown senders.</em></li>
+<li><em>Do not click on links or open attachments in emails or text messages from unknown senders.</em></li>
+<li><em>Be cautious of emails or text messages that create a sense of urgency or panic.</em></li>
+<li><em>Never provide personal information, such as your password or credit card number, in response to an email or text message.</em></li>
+<li><em>Use a strong password for your email account and other online accounts.</em></li>
+<li><em>Enable two-factor authentication for your email account and other online accounts.</em></li>
+<li><em>Keep your software up to date.</em></li>
+<li><em>Use a firewall and anti-virus software.</em></li>
+<li><em>Educate yourself about phishing attacks.</em></li>
+</ul>

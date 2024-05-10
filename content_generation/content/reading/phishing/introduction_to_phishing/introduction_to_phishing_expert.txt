@@ -1,0 +1,42 @@
+<h1>Introduction to Phishing</h1>
+
+<p>Phishing is a type of cyberattack that uses deceptive emails, text messages, or phone calls to trick victims into providing sensitive information such as passwords, credit card numbers, or social security numbers. Phishing attacks often look like they come from legitimate sources, such as banks, credit card companies, or government agencies. However, they are actually sent by cybercriminals who are trying to steal your information.</p>
+
+<h2>What is Phishing?</h2>
+
+<p>Phishing attacks are typically carried out through email or instant message, and attackers pose as legitimate representatives of organizations to gain this information, which is then used to access accounts or systems. Ultimately, once in the hands of adversaries, it often leads to identity theft or significant financial loss.</p>
+
+<h3>How Does Phishing Work?</h3>
+
+<p>Phishing attacks rely on social engineering techniques to trick victims into taking actions that they would not normally take. Cybercriminals send an email or text message that appears to come from a legitimate source, and they include a link to a website that looks like the real thing. When the victim clicks on the link, they are taken to a fake website that collects their personal information.</p>
+
+<h3>What are the Different Types of Phishing Attacks?</h3>
+
+<p>There are many different types of phishing attacks, but some of the most common include:</p>
+
+<ul>
+<li><strong>Email phishing:</strong> This is the most common type of phishing attack. Phishing emails typically contain a link to a fake website or a request for sensitive information.</li>
+  <li><strong>Spear phishing:</strong> This is a more targeted type of phishing attack that is directed at specific individuals or organizations. Spear phishing emails are often personalized and appear to come from a trusted source, such as a friend or colleague.</li>
+  <li><strong>Whaling:</strong> This is a type of phishing attack that targets high-level executives. Whaling emails are often very sophisticated and can be difficult to detect.</li>
+  <li><strong>Smishing:</strong> This is a type of phishing attack that uses text messages. Smishing messages typically contain a link to a fake website or a request for sensitive information.</li>
+  <li><strong>Vishing:</strong> This is a type of phishing attack that uses phone calls. Vishing attacks often use automated messages to trick users into providing sensitive information.</li>
+</ul>
+
+<h2>How to Avoid Phishing Attacks</h2>
+
+<p>There are a number of things you can do to avoid phishing attacks, including:</p>
+
+<ul>
+<li>Be suspicious of emails or text messages that you receive from unknown senders. If you are not expecting an email or text message from a particular sender, be wary of clicking on any links or opening any attachments.</li>
+<li>Hover over links before clicking on them. This will show you the actual URL of the website that you are about to visit. If the URL looks suspicious, do not click on the link.</li>
+<li>Look for misspellings and grammatical errors. Phishing emails and text messages often contain misspellings and grammatical errors. This is because they are often written by non-native English speakers.</li>
+<li>Be careful about what information you share online. Never share your personal information, such as your password, credit card number, or social security number, with anyone you do not know.</li>
+<li>Use a strong password. Your password should be at least 12 characters long and contain a mix of upper and lower case letters, numbers, and symbols.</li>
+<li>Enable two-factor authentication. Two-factor authentication adds an extra layer of security to your online accounts. When you log in to an account, you will be asked to enter your password and a code that is sent to your phone.</li>
+<li>Keep your software up to date. Software updates often include security patches that can help protect you from phishing attacks.</li>
+<li>Report phishing attacks to your email provider. If you receive a phishing email, report it to your email provider. This will help them to track down the cybercriminals and stop them from sending more phishing emails.</li>
+</ul>
+
+<h2>Conclusion</h2>
+
+<p>Phishing is a serious threat to your online security. By following the tips in this article, you can help to protect yourself from phishing attacks..</p>

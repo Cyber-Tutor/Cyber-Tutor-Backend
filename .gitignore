@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyc
 
 # Environments
 .env
@@ -22,8 +23,8 @@ chroma_db/
 .vscode/
 
 # Database
-chroma_db
-.sqlite3
+#chroma_db
+#.sqlite3
 
 # Firebase
 firebase.json

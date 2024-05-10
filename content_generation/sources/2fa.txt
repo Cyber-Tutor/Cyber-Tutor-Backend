@@ -1,0 +1,9 @@
+https://www.microsoft.com/en-us/security/business/security-101/what-is-two-factor-authentication-2fa
+https://www.techtarget.com/searchsecurity/definition/two-factor-authentication
+https://www.cisa.gov/MFA
+https://www.investopedia.com/terms/t/twofactor-authentication-2fa.asp
+https://www.simplilearn.com/tutorials/cyber-security-tutorial/what-is-two-factor-authentication
+https://www.spiceworks.com/it-security/identity-access-management/articles/what-is-two-factor-authentication/
+https://aws.amazon.com/what-is/mfa/
+https://us.norton.com/blog/privacy/what-is-2fa
+https://www.cloudflare.com/learning/access-management/what-is-two-factor-authentication/

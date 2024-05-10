@@ -1,0 +1,38 @@
+<h1>Introduction to Phishing</h1>
+
+<p>Phishing is a type of cyberattack that uses email, phone, or text messages to trick users into revealing sensitive information, such as passwords, credit card numbers, or personal details. Phishing attacks are often disguised as legitimate communications from a trusted source, such as a bank or a government agency.</p>
+
+<h2>How Does Phishing Work?</h2>
+
+<p>Phishing attacks typically follow a three-step process:</p>
+
+<ol>
+  <li><strong>The attacker sends an email, text message, or phone call that appears to come from a legitimate source.</strong> The message typically contains a link to a fake website or a request for sensitive information.</li>
+  <li><strong>The user clicks on the link or provides the requested information.</strong> This action could lead to the user's personal information being stolen or their computer being infected with malware.</li>
+  <li><strong>The attacker uses the stolen information to commit fraud or other crimes.</strong> This could include stealing money from the user's bank account, using their credit card to make unauthorized purchases, or selling their personal information to third parties.</li>
+</ol>
+
+<h2>What are the Different Types of Phishing Attacks?</h2>
+
+<p>There are many different types of phishing attacks, including:</p>
+
+<ul>
+  <li><strong>Email phishing:</strong> This is the most common type of phishing attack. Phishing emails typically contain a link to a fake website or a request for sensitive information.</li>
+  <li><strong>Spear phishing:</strong> This is a more targeted type of phishing attack that is directed at specific individuals or organizations. Spear phishing emails are often personalized and appear to come from a trusted source, such as a friend or colleague.</li>
+  <li><strong>Whaling:</strong> This is a type of phishing attack that targets high-level executives. Whaling emails are often very sophisticated and can be difficult to detect.</li>
+  <li><strong>Smishing:</strong> This is a type of phishing attack that uses text messages. Smishing messages typically contain a link to a fake website or a request for sensitive information.</li>
+  <li><strong>Vishing:</strong> This is a type of phishing attack that uses phone calls. Vishing attacks often use automated messages to trick users into providing sensitive information.</li>
+</ul>
+
+<h2>How to Avoid Phishing</h2>
+
+<p>There are a number of things you can do to avoid phishing attacks:</p>
+
+<ul>
+  <li>Be suspicious of any unsolicited emails, text messages, or phone calls that ask you to click on a link or provide sensitive information.</li>
+  <li>Hover over any links in emails or text messages before clicking on them. If the link does not go to the website that the email or text message claims it does, do not click on it.</li>
+  <li>Never provide sensitive information, such as your password, credit card number, or Social Security number, in response to an email, text message, or phone call.</li>
+  <li>Use strong passwords and change them regularly.</li>
+  <li>Keep your software up to date. Software updates often include security patches that can help to protect you from phishing attacks.</li>
+  <li>Be aware of the latest phishing scams. The Federal Trade Commission (FTC) has a website where you can report phishing attacks and learn about the latest scams..</li>
+</ul>

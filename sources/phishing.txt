@@ -1,8 +1,0 @@
-https://www.ncsc.gov.uk/guidance/phishing
-https://www.checkpoint.com/cyber-hub/threat-prevention/what-is-phishing/
-https://www.cisco.com/c/en/us/products/security/email-security/what-is-phishing.html
-https://www.ibm.com/topics/phishing
-https://www.cloudflare.com/learning/access-management/phishing-attack/
-https://www.comptia.org/content/articles/what-is-phishing
-https://www.arcyber.army.mil/Resources/Fact-Sheets/Article/2058996/phishing-and-spearphishing/
-https://ovic.vic.gov.au/privacy/resources-for-organisations/phishing-attacks-and-how-to-protect-against-them/

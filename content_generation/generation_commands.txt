@@ -1,0 +1,26 @@
+Reading generation
+python reading_generation.py --topic "2fa" --details "introduction to topic" "what is 2fa" "2fa factors"  --save_path content_generation/content/reading/2fa --name introduction_to_2fa
+python reading_generation.py --topic "online privacy" --details "introduction to topic" "what is online privacy" --save_path content_generation/content/reading/online_privacy/introduction_to_online_privacy --name introduction_to_online_privacy
+python reading_generation.py --topic "online privacy" --details "best practices" "how to stay secure" "low level understanding of topic" --save_path content_generation/content/reading/online_privacy/protecting_online_privacy_measures
+python reading_generation.py --topic "password security" --details "introduction to topic" "overview" "importance of strong passwords" --save_path content_generation/content/reading/password_security/importance_of_strong_passwords
+python reading_generation.py --topic "password security" --details "how to create strong passwords" "password manager" "how to store passwords" --save_path content_generation/content/reading/password_security/creating_strong_passwords
+python reading_generation.py --topic "phishing" --details "introduction to topic" "what is phishing" "how to avoid phishing" --save_path content_generation/content/reading/phishing/introduction_to_phishing
+python reading_generation.py --topic "software updates" --details "introduction to topic" "what are software updates" "why are they important" --save_path content_generation/content/reading/software_updates/introduction_to_software_updates
+
+Upload Reading
+python upload_reading.py --reading_path content_generation/content/reading/2fa --section two_factor_authentication --chapter introduction_to_2fa
+python upload_reading.py --reading_path content_generation/content/reading/online_privacy/introduction_to_online_privacy --section online_privacy --chapter introduction_to_online_privacy
+python upload_reading.py --reading_path content_generation/content/reading/online_privacy/protecting_online_privacy_measures --section online_privacy --chapter protecting_online_privacy_measures
+python upload_reading.py --reading_path content_generation/content/reading/password_security/importance_of_strong_passwords --section password_security --chapter importance_of_strong_passwords
+python upload_reading.py --reading_path content_generation/content/reading/password_security/creating_strong_passwords --section password_security --chapter creating_strong_passwords
+python upload_reading.py --reading_path content_generation/content/reading/phishing/introduction_to_phishing --section phishing --chapter introduction_to_phishing
+python upload_reading.py --reading_path content_generation/content/reading/software_updates/introduction_to_software_updates --section software_updates --chapter introduction_to_software_updates
+
+Quiz Generation
+python quiz_creator.py --topic 2fa --reading_path content_generation/content/reading/2fa --section two_factor_authentication --chapter introduction_to_2fa
+python quiz_creator.py --topic "online privacy" --reading_path content_generation/content/reading/online_privacy/introduction_to_online_privacy --section online_privacy --chapter introduction_to_online_privacy
+python quiz_creator.py --topic "online privacy" --reading_path content_generation/content/reading/online_privacy/protecting_online_privacy_measures --section online_privacy --chapter protecting_online_privacy_measures
+python quiz_creator.py --topic "password security" --reading_path content_generation/content/reading/password_security/importance_of_strong_passwords --section password_security --chapter importance_of_strong_passwords
+python quiz_creator.py --topic "password security" --reading_path content_generation/content/reading/password_security/creating_strong_passwords --section password_security --chapter creating_strong_passwords
+python quiz_creator.py --topic "phishing" --reading_path content_generation/content/reading/phishing/introduction_to_phishing --section phishing --chapter introduction_to_phishing
+python quiz_creator.py --topic "software updates" --reading_path content_generation/content/reading/software_updates/introduction_to_software_updates --section software_updates --chapter introduction_to_software_updates

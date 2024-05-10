@@ -1,0 +1,337 @@
+How to Stay Safe Online: A Guide For Everyone Who Uses The Internet
+When you want to make your home secure, you lock the door. When you want to prevent your bike from being stolen, you use a bike lock. When you want to protect your valuable possessions, you keep them in a safe. But what do you do to protect your identity online? We put together a comprehensive internet safety guide full of cybersecurity tips and best practices to help keep you safe online. Looking for information about a specific online safety topic? Use the links below to jump to the relevant section.
+
+Online Safety Sections
+What is Cybersecurity?
+Cybersecurity Buzzwords
+Online Security and Life Stages
+Basic Internet Safety Tips
+Avoiding Identity Theft Online
+Avoiding Online Scams
+This guide covers a variety of cybersecurity topics, including some things most people don’t think about when considering online safety. From tips for creating a strong password to advice about protecting your identity while on vacation, we’re sharing everything the average internet user needs to know to stay safe online.
+
+Person Using Computer.
+
+What is Cybersecurity?
+Cybersecurity is simply a general term for technologies, practices and processes used to protect online data from unauthorized access or misuse. Everyday, people play a part in cybersecurity when they follow internet safety tips and cybersecurity best practices. In this piece, we’ll discuss what we mean when we say cybersecurity, and why it’s important. We’ll also share about cybersecurity trends and various tips for maintaining privacy and security on the internet.
+
+Couple looking at iPad.
+
+Cybersecurity & Online Safety Buzzwords To Know
+When it comes to learning about cybersecurity and internet safety, it can feel like wading through a lot of technical jargon. There are many helpful cybersecurity terms to know, but we’re sharing just a few of the most common online safety buzzwords:
+
+Data Breach A data breach is any incident that results in confidential data or personal information being shared, stolen or otherwise transmitted. Scammers and hackers often target business like banks and major retailers in order to access personal financial information, but data breaches can occur anywhere. For more information about responding to data breaches, check out these resources.
+Malware Malware is any malicious software intended to disable or infect a device’s functionality. Some malware allows a hacker to control a device remotely. Users can avoid malware by using antivirus software and following technology best practices.
+Back-ups Backing up data means saving a copy of the data on a separate storage device, like an external hard drive. Many people also use cloud storage to keep back-ups online.
+Cloud Storage The “cloud” is just a way to talk about online networks and storage. Cloud storage is distinct from local storage, which includes your computer’s hard drive. When you save something to the cloud, it is simply stored on one of many remote servers located throughout the world.
+Woman looking at computer.
+
+Why is cybersecurity important?
+Modern life is fundamentally intertwined with the internet. Nearly every daily task now has opportunity for online integration, and most everyone owns multiple devices, including laptops, phones, tablets, smart watches, smart TVs and more. The more accounts and devices you have online, the greater the potential is for criminals to access your personal information and take advantage of you.
+
+Online safety is important no matter your age or life stage, but there are particular concerns for certain vulnerable groups like children, teenagers and senior citizens.
+
+Internet Safety For Kids
+Parents, this section is for you. If you have children of any age, you need a strategy for how to keep your kids safe online. The internet can be a great tool for learning and entertainment, but children should only look at age-appropriate images, videos and information.
+
+Parental controls and content filters are a great place to start. Search engines have “safe search” features for filtering objectionable content, and there are even special search engines for kids. Cell phones also have parental control options and apps to help parents keep kids safe while online. Unfortunately, some hackers and online predators find ways to bypass filters and censorship efforts.
+
+Some content that appears to be designed for children may have hidden disturbing violent or sexual content. When it doubt, be cautious. Watch videos before children are allowed to watch them, and be wary of games with built-in chat functions. Encourage your children to avoid talking to strangers online, and make sure they’re aware of online dangers. There’s no need to be paranoid, just take basic safety precautions, monitor your children’s internet usage and talk to them about how to stay safe online.
+
+Internet Safety For Teens
+As kids grow up, they will use the internet without direct supervision. We encourage parents to continue having conversations about cybersecurity and online safety in order to ensure teenagers are creating healthy internet habits. Here are some quick internet safety tips for teens:
+
+Limit Technology Use Use an app like Apple’s Screen Time to monitor and restrict phone, tablet and computer use. Similar apps exist for Android phones and other devices.
+Keep Devices Out of Bedrooms If computers, phones and tablets are allowed only in common areas in the house, it’s easier to monitor usage. You could implement a rule that all family members — including parents — charge their devices in the kitchen or living room overnight. It would benefit you, too! Studies have shown that limiting screen usage before bed increases sleep quality.
+Talk About the Internet Teenagers should feel comfortable going to their parents or guardians with concerns about things they see online. Try to be open with your kids about the dangers of the internet, and let them know you’re there to help and protect them.
+Prepare Them For the Future As youngsters, children depend on their parents and guardians to provide protection and advice, but parents should also prepare their children for independence. Talk to children about things like responsible banking, password safety and data protection.
+Teenagers and young adults may be more susceptible to certain types of online scams, like student loan forgiveness scams. Protecting kids online starts with teaching foundational internet safety tips at a young age.
+
+How to Protect Seniors Online
+Senior citizens are especially vulnerable to online scams and hoaxes. Scammers take advantage of seniors because many seniors have a lifetime’s worth of savings, home equity and other valuable assets. Studies have shown that older Americans are less likely to report fraud because they may not know how to report a scam or they may be ashamed about being the victim of a scam. In order to prevent scams against the elderly, we want to make sure seniors — and their loved ones and caregivers — are aware of common cybersecurity best practices and tips for staying safe online.
+
+Some seniors become victims of elder financial abuse, which occurs when an individual misuses their privileged access to an older person’s financial information. Instead of helping them manage their money and make wise decisions, the financial abuser will perhaps steal money and use it for their own gain.
+
+Some scammers also manipulate seniors with family emergency scams. In a family emergency scam, an imposter chooses a victim and contacts them, claiming to be their grandchild or other loved one. These scammers usually say they’re in trouble — in jail, in the hospital, in a foreign country — and they need money right away. These imposters may be very convincing, using personal family information to fool their victims.
+
+If you’re interested in learning more about online scams, jump down to the scams section of this article.
+
+Woman looking at computer screen.
+
+Cybersecurity 101: 7 Basic Internet Safety Tips
+When it comes to internet safety, it’s best to start with the basics. We have come up with 7 tips to guide you as you evaluate your online habits and make small changes to ensure your privacy and security on the internet.
+
+1. Protect Your Personal Information With Strong Passwords
+When creating a new password, pay attention to strong password requirements.
+Change your passwords often.
+Don’t share your passwords with other people.
+Don’t use common, easily guessable passwords.
+Make sure passwords and password hints are stored securely. Record passwords in an encrypted file on your computer, or select another secure password storage method.
+2. Keep Personal Information Private
+When you sign up for something online, read the terms and conditions.
+Never enter your financial information on a website that isn’t secure (look for the padlock or "https://" prefix in the browser address bar).
+If you suspect your credit card information is being misused online, turn off your card using the SNB mobile banking app.
+It’s important to protect your personal information offline, too, because once sensitive information is stolen it can be proliferated online. Remember tips like shielding the PIN pad when you make purchases and learning how to spot a credit card skimmer at gas pumps. Using a chip debit card is another way to protect your financial information. The more sophisticated chip technology is just one reason why the chip card is more secure than the traditional magnetic strip debit card.
+
+3. Make Sure Your Devices Are Secure
+Utilize passwords and other security options like fingerprint readers and face scanning technology. One report stated that 30% of smartphone users didn’t use passwords, screen locks or other security features to lock their phones.
+Secure all devices, including computers, phones, tablets and devices like smartwatches and smart TVs.
+4. Pay Attention to Software Updates
+Promptly install software updates, especially when they include important security upgrades.
+Set up automatic updates on your devices so you never miss one!
+5. Be Careful About Wifi
+Do not trust public wifi security. Avoid connecting to unsecured public wifi networks.
+Make sure your own wifi networks are protected with strong passwords.
+Remember tip #1 and change your wifi password frequently.
+6. Set Up Two-Factor Authentication
+Enable two-factor authentication in order to prevent hackers from accessing your personal accounts and information.
+Add this extra layer of security to keep your accounts safe even if someone knows your password.
+7. Back Up Your Personal Data
+Back up important personal information on external hard drives.
+Create new back-ups regularly.
+Couple looking at computer screen.
+
+How to Avoid Identity Theft Online: 4 Internet Safety Tips
+A little bit of vigilance goes a long way when it comes to protecting your identity online. Adding an extra layer of security can be as simple as keeping an eye on your accounts, looking out for suspicious activity and shredding sensitive documents. Some data breaches are out of our control, like when retailers or other companies get hacked. We have to trust certain entities to hand personal data, but we encourage people to do all they can to protect their private information.
+
+Complete privacy is difficult in the digital age, so users must be cautious and wary. Take these precautions to make sure identity thieves don’t steal your personal information.
+
+1. Monitor Your Credit Reports
+Keeping an eye on your credit is an important way to make sure no one is trying to mess with your personal financial information. If you want to see who is making inquiries about you credit, you can request a free credit report from any of the three national credit reporting companies:
+
+Equifax
+Experian
+TransUnion
+We recommend reviewing your credit reports occasionally in order to make sure there is no suspicious activity and everything appears as expected.
+
+If you want an extra layer of protection, a credit freeze is an effective line of defense against fraud and identity theft. As of September 2018, there is no cost, so learn how to freeze your credit for free.
+
+2. Be On the Lookout For Unusual Statements Or Bills
+Pay attention to statements, receipts and bills. If you’re signed up for electronic bills or statements, it’s easy for them to get lost in your email inbox. Regularly looking at statements will help you notice if there is suspicious activity happening in any of your accounts. If you become a target for fraud, you’ll want to catch it as soon as possible and contact your bank for help.
+
+3. Shred Documents Containing Financial Or Personal Information
+Don’t throw sensitive documents in the trash! Use a paper shredder or shredding service to dispose of anything with your full name, phone number, address, social security number, bank account information or other private personal details. Check out this helpful shredding guide, and consider shredding documents such as:
+
+ATM Receipts
+Bank and Credit Card Statements
+Paid Bills and Invoices
+Pay Stubs
+Credit Offers
+4. Use Caution While Traveling
+You’re more vulnerable to certain types of fraud and identity theft while traveling. If you want to protect your identity online while traveling, take extra precautions. Let your bank know where you’re going and how long you’ll be gone and ask the post office to hold your mail. If any bills are due while you’re gone, see if you can plan payments before you leave.
+
+While you’re on your trip, observe extra safety measures to protect your personal items and information.
+
+If you need to pay a bill online while you’re away, make sure you’re connected to a secure wifi network.
+Ask your hotel if your room has a safe, and use the safe to protect valuables and extra cash when you’re not in your room.
+Exercise caution when using your debit card to pay local vendors and retailers; when in doubt, pay with cash.
+Carry copies of important travel documents, and make sure to store them separately from the original versions. It’s also a good idea to have a digital copy of your passport stored online, just in case.
+Is Online Banking Safe? Tips for How to Bank Safely Online
+Online banking and mobile banking apps can be a safe and convenient way to manage your finances, but it’s important to follow cybersecurity best practices in order to protect your personal financial information. With online bank accounts, it’s especially important to choose a strong password. Hackers will go to great lengths to gain access to your personal financial information, so your bank accounts need to be protected and secured.
+
+Choosing a reputable bank is also crucial. Look for an FDIC-insured bank. FDIC insurance is an industry standard for banking legitimacy. Read more tips for how to bank safely online:
+
+Don’t check your bank account balance or pay bills using public wifi networks. Not all public networks are secure.
+Don’t look at private financial information on public computers. If you need to use a computer at a library or other public space, make sure you log off all accounts and clear your browsing history.
+If you see any suspicious charges on your debit or credit card, utilize mobile banking card controls to turn off your card, and contact your bank immediately.
+Make sure to only enter your financial information on legitimate apps and websites. Cybercriminals will sometimes create copycat websites and apps to trick people into entering their personal information on an unsecured site. Check the URL of the website you’re on before entering your account information.
+Update apps frequently because they often contain important security upgrades. Outdated apps are more hackable and more susceptible to data breaches.
+Young man with glasses looking at computer.
+
+Protect Your Identity Online: 4 Types of Online Scams to Avoid
+Sometimes, online criminals use manipulative methods to gain access to a person’s private information. Instead of guessing your password or attempting to steal your account information, they use sneaky techniques like trying to get emotionally close to you or impersonating one of your friends on social media. The scammer may end up soliciting money from you, accessing your personal data or installing malware on your devices. Here are a few common online scams to avoid:
+
+1. Online Dating Scams
+Online romance scammers will manipulate their victims by forming an intimate personal connection and then using the relationship to try to gain access to personal and financial information. All ages are susceptible to online dating scams, but studies have shown that senior citizens are particularly vulnerable. Help protect seniors online by educating them about the dangers of online romance scammers.
+
+2. Social Media Scams
+Online scammers are always coming up with new ways to manipulate people on the internet. Be on the lookout for social media scams like fake profiles, catfishing, gossip clickbait, job offer scams and fake online scams. A good rule of thumb is to always check the validity of a website before allowing it to access your personal information. Never click on suspicious links, and don’t fill out online forms unless the website is legitimate and secure.
+
+3. Text Message Scams
+Text message scams can be a combination of various other online scams, including phishing links, gossip clickbait and other misleading and malicious forms of fraud. Remember that banks, government entities and other legitimate companies will never ask for personal or financial information in a text message, so never send your private information in an unsecure text message thread. Only give personal information via legitimate and secure website portals.
+
+4. Email Phishing Scams
+Phishing is a form of cyber attack that entices users into clicking on a link that will compromise private data. Email phishing scams typically include enticing offers for gift cards or other free items. Always assume that if an offer seems too good to be true, it probably is. These types of online scams are especially prevalent during the holiday season, so be alert and don’t let holiday scams ruin your holidays!
+
+Email phishing scams are constantly changing and evolving as scammers try to come up with new ways to take advantage of people. Stay vigilant, don’t click on suspicious links and check the FTC scam alerts list to learn about new scams.
+
+Learn More About Privacy and Security On the Internet
+In this modern world, internet safety is a lifelong concern. As technology changes and evolves, learning how to avoid identity theft online will be an ongoing process. Security National Bank is here to help. Our goal is to keep you and your money safe! We’re your resource for information about the latest cybersecurity trends and tips. Reach out to us if you have any questions about how to stay safe online, and sign up for our newsletter if you want new financial security and internet safety tips delivered straight to your email inbox.
+
+Consumers increasingly rely on computers, web-enabled devices, and the internet for everything from shopping and communicating to banking and bill-paying. While there are a number of benefits of using web services -- faster and more convenient services, for example -- bank customers should also be aware of the risks.
+
+Cybersecurity Basics
+Tips to Avoid Identity Theft
+Tips to Avoid Frauds and Scams
+How to Report Identity Theft, Frauds, and Scams
+Additional Resources
+Cybersecurity Basics
+Common cyber-related crimes include identity theft, frauds, and scams. Identity theft is a crime in which someone wrongfully obtains and uses another person's personal data to open fraudulent credit card accounts, charge existing credit card accounts, withdraw funds from deposit accounts, or obtain new loans. A victim's losses may include not only out-of-pocket financial losses but also substantial costs to restore credit history and to correct erroneous information in their credit reports.
+
+In addition to identity theft, every year millions of people are victims of frauds and scams, which often start with an email, text message, or phone message that appears to be from a legitimate, trusted organization. These messages typically ask consumers to verify or update personal information or they direct consumers to bogus websites (such as for credit repair services) in the hopes that consumers will visit the site and enter their personal information.
+
+Additional information about various forms of cyber crime is provided in the following FDIC Consumer News articles:
+
+Beware, It’s a Scam! (October 2020)
+Scammers Pretending to be the FDIC (March 2020)
+When a Criminal's Cover Is Your Identity: Minimizing the Risk of Identity Theft (Summer 2018)
+Back to top
+
+Tips to Avoid Identity Theft
+The best protection against identity theft is to carefully guard your personal information.  For example:
+
+Do not share personal information over the phone, through the mail, or over the internet unless you initiated the contact or know the person you are dealing with.
+Be suspicious if someone contacts you unexpectedly online and asks for your personal information. It doesn’t matter how legitimate the email or website may look. Only open emails from people or organizations you know and, even then, be cautious if they look questionable. Be especially wary of fraudulent emails or websites that have typos or other obvious mistakes.
+Don’t give out personal information in response to unsolicited requests. Be particularly careful about to whom you give your Social Security number, financial account information, and driver’s license number.
+Shred old receipts, account statements, and unused credit card offers.
+Choose PINs and passwords that would be difficult to guess and avoid using easily identifiable information, such as your mother’s maiden name, birth dates, the last four digits of your social security number, or phone numbers.
+Pay attention to billing cycles and account statements and contact your bank if you don’t receive a monthly bill or statement. Identity thieves often divert account documentation.
+Review account statements thoroughly to ensure all transactions are authorized.
+Guard your mail from theft, promptly remove incoming mail, and do not leave bill payment envelopes in your mailbox with the flag up for pick up by mail carrier.
+Obtain your free credit report annually and review your credit history to ensure it is accurate.  (Click here to read more about credit reports and credit scores.)
+Use an updated security program to protect your computer.
+Be careful about where and how you conduct financial transactions. For example, don’t use an unsecured Wi-Fi network because someone might be able to access the information you are transmitting or viewing
+Back to top
+
+Tips to Avoid Frauds and Scams
+Consumers should always exercise caution when it comes to your personal and financial information. The following tips may help prevent you from becoming a fraud victim.
+
+Be aware of incoming email or text messages that ask you to click on a link because the link may install malware that allows thieves to spy on your computer and gain access to your information.
+Be suspicious of any email or phone requests to update or verify your personal information because a legitimate organization would not solicit updates in an unsecured manner for information it already has.
+Confirm a message is legitimate by contacting the sender (it is best to look up the sender’s contact information yourself instead of using contact information in the message).
+Assume any offer that seems too good to be true, is probably a fraud.
+Be on guard against fraudulent checks, cashier’s checks, money orders, or electronic fund transfers sent to you with requests for you to wire back part of the money.
+Be wary of unsolicited offers that require you to act fast.
+Check your security settings on social network sites. Make sure they block out people who you don’t want seeing your page.
+Research any “apps” before downloading and don’t assume an “app” is legitimate just because it resembles the name of your bank or other company you are familiar with.
+Be wary of any offers that pressure you to send funds quickly by wire transfer or involve another party who insists on secrecy.
+Beware of disaster-related financial scams.  Con artists take advantage of people after catastrophic events by claiming to be from legitimate charitable organizations when, in fact, they are attempting to steal money or valuable personal information.
+Back to top
+
+How to Report Frauds and Scams
+If you think you are a victim of a fraud or scam, contact your state, local, and/or federal consumer protection agency. State consumer protection agencies could be found using the usa.gov/state-consumer webpage. Federal consumer protection agencies include the Consumer Financial Protection Bureau and the Federal Trade Commission. You could also contact the FDIC or other Federal banking agency if there is a banking issue involved. Also, a local law enforcement officer may be able to provide advice and assistance. By promptly reporting fraud, you improve your chances of recovering what you have lost and you help law enforcement. The agency you contact first may take action directly or refer you to another agency better positioned to protect you.
+
+Violations of federal laws should be reported to the federal agency responsible for enforcement. Consumer complaints are used to document patterns of abuse, allowing the agency to take action against a company.
+
+People who have no intention of delivering what is sold, who misrepresent items, send counterfeit goods, or otherwise try to trick you out of your money are committing fraud. If you suspect fraud, there are some additional steps to take.
+
+Contact the Federal Trade Commission (ftc.gov). The FTC enters internet, telemarketing, identity theft and other fraud-related complaints into Consumer Sentinel, a secure, online database available to hundreds of civil and criminal law enforcement agencies in the U.S. and abroad.
+If the fraud involved mail or an interstate delivery service, contact the U.S. Postal Inspection Service (postalinspectors.uspis.gov). It is illegal to use the mail to misrepresent or steal money.
+
+Online Safety Tips To Protect Your Personal Information
+By Hannah Hilst | Legally reviewed by Melissa Bender, Esq. | Last reviewed January 19, 2024
+
+
+Legally Reviewed
+
+
+Fact-Checked
+
+Using the internet in your own home feels like a safe and private activity. Yet, the virtual world isn't without real-world dangers.
+
+Posting on social media, browsing, and shopping online creates a trail of personal data. Another internet user might find and exploit this data — like a hunter following animal tracks. What you do online could expose you to illegal activity like scams and identity theft.
+
+Preventing these issues is often much easier than dealing with them after they happen. In this section, learn how to protect your personal details online. You can also explore your legal options and consumer rights protections when a problem arises.
+
+Set Strong Passwords
+Passwords have been a target since their invention. New technology has built better ways to keep your confidential information safe. But password-cracking tactics have become more complex and deceptive than ever.
+
+You can keep your passwords secure by taking the following steps:
+
+Set a memorable password or use a password generator to suggest a hard-to-guess code
+Make a unique password for every account you have
+Enable multifactor authentication (MFA), which means any attempt to log in will need your approval through another route, such as your email or cell phone
+Change your passwords routinely, especially if you believe any of your online accounts were compromised
+Never tell anyone your password, even if they seem trustworthy
+With so many online accounts, remembering all your passwords could seem next to impossible. Writing them down isn't safe because anyone might find them.
+
+Digital password managers can keep all your passwords in one place. But be careful. Password managers also need you to practice good cybersecurity habits to protect your other accounts effectively.
+
+Shield Your Credit Card Details
+Online shopping can be another critical failure point for your security. Cybercriminals use many tactics like spoofing, phishing, and malware to get access to your money. Online businesses may be liable for data breaches if they lack proper security for customers' payment details.
+
+Be wary of sending your credit card information to anyone online. Consider using a more secure payment option like PayPal or a virtual credit card. These options obscure your real credit card number to the person you're paying.
+
+Call your credit card company or bank immediately if you suspect that someone has your credit or debit card information. They can help you lock the card and get a replacement. You may also follow your card provider's process to dispute a charge, but a refund may not be possible in all cases.
+
+Limit Connections on Social Media
+Social networking accounts can reveal sensitive information — and not just about your own life. Your posts could also reveal details of your friends' and family's lives.
+
+There are many tools to stay safe on social media, including strict privacy settings. Curating your online friends and followers is a simple way to limit who can see your information. Also, check that an online profile belongs to the person you know in real life instead of someone pretending to be that person.
+
+Verify Sources and Senders
+Whether you're clicking a link or opening an email, always check that it is legitimate. Bad actors can pretend to be reputable companies and familiar people to trick you into trusting them.
+
+Review the website or message to confirm it belongs to the person or business you expected. Learn how to check the safety of a message or website in FindLaw's article about phishing and spoofing.
+
+Keep Children Safe Online
+Children and teens can encounter danger through many online activities, such as:
+
+Messaging on social media platforms and apps
+Playing online games
+Downloading videos and other content
+Posting on anonymous forums
+Livestreaming and video posting
+Making in-game or in-app purchases
+Underage sexting and accessing inappropriate content
+Kids of any age might face problems like cyberbullying, stalking, and harassment. A child's online risks can also shift as they grow up. FindLaw's Online Safety for Kids guide can help you understand the laws and parental controls that protect children online.
+
+Confront Internet Safety Issues Urgently
+Online scams and identity theft are like wildfire. They often spread in a matter of minutes. Access to one account sometimes helps hackers get into others' accounts, which may include your loved ones' accounts.
+
+These cybercrimes can destroy a victim's credit history, reputation, and privacy. State and federal laws give you rights when someone steals your information. You probably won't know who took your information, but you may still have recourse under these laws.
+
+An internet consumer attorney's mission is to fix the problem and reverse the damage as much as possible. Clearing your name and regaining control of your accounts can let you return to normal life.
+
+Learn More About Internet Law and Safety
+Browse the topics below to read about cybersecurity and internet consumer law. You can also look up technical terms related to your online safety in FindLaw's tech law glossary.
+
+Too often we think if our computer has security software then we’re safe from all online hazards. While these programs are useful for keeping malicious software at bay, they’re not the be-all and end-all of online security. In fact, it shouldn’t even be your first step.
+
+We outline the actions you should take to keep yourself secure on the World Wide Web, taking you from the basics through to the more advanced tips. All of this helps protect you from viruses and keep your identity safe.
+
+Basic
+Online security starts here. This is the bare minimum you should be doing every day:
+
+Use strong passwords. A strong password is one that uses letters (capitals and lower case), numbers and punctuation. There’s no defined length, but longer is better. The trick is using a combination that’s both strong and memorable. The two best ways to keep your password memorable is taking a word and modifying it. For example, “password” is very weak; “P455word” isn’t much better; but “p#s5Wor’D” is good. However a passphrase is best of all, for example “AlwaysStrongPasswordPizza” is a strong password and chances are you’ve already memorised it, and if you’re required to add numbers or punctuation it’s easy enough.
+
+Never use the same password twice. There’s no such thing as an un-crackable website so, if one of your accounts gets broken into, you don’t want that stolen password to open any of your other accounts. Always use strong passwords for your email and websites where you use your credit card or share financial details.
+
+Never trust messages from unknown sources. This includes emails, Facebook messages and texts. Never click links in these messages or open attachments. Even if the message is alarming or intriguing, such as “your account has been frozen” or “75% off Ray-Bans!” If you’re worried, bypass the message and go straight to the source (for example, call or contact your bank or directly visit its website).
+
+Intermediate
+If you’re already doing the basics, then these are our next recommended steps:
+
+Don’t save your credit card details. Many online stores offer to save your credit card details so you can make subsequent purchases faster – no need to re-enter all your details. This is a terrible idea. If these sites get hacked then your information is at risk. While a site remembering your details is convenient, chasing your bank to refund fraudulent purchases is not.
+
+Don’t download any old app. Not every app in the Google and Apple app stores is above board, some come with nasty fish hooks – from hidden in-app purchases to selling personal data to flat-out scams. If you’re installing an app, don’t just choose the first one in the search results. Read the reviews, and check the developer to see what else they’ve made.
+
+Report everything! If you’ve been scammed, report it immediately. Go to your bank, Netsafe or the police.
+
+Advanced
+Once you’re in your groove with the security routine, try these:
+
+Take note of app permissions. When you install an app it’ll ask for a range of permissions. Sometimes these make sense, sometimes they reach too far – a photo-editing app needs access to your photos, but it doesn’t need your contacts. You can see the permissions required before you install it. You can also revoke permissions in your settings.
+
+Give false information. We don’t mean lying on anything official, but not telling the truth in some circumstances makes your online presence safer. Security questions are a good example. Questions like “Where were you born?” are used to verify your identity when you forget your banking login. However, that type of information can often be easily found on your Facebook page. Instead use false or unusual answers such as “at the bottom of a well” or “Valhalla”. Another trick is giving a slightly different spelling of your name when signing in to a new website or service (this includes loyalty cards that keep your information in online databases).
+
+1) Install Tor Browser.
+Tor Browser is available for Mac, Windows, Android, and Linux. While there is no official Tor Browser for iOS, Tor recommends a third-party app called Onion Browser, which provides similar functionality for iPhone and iPad users (with some caveats described on Onion Browser’s website).
+
+Get Tor Browser (for Mac, Windows, or Android)
+Get Onion Browser (for iOS only)
+2) Understand the risks.
+Be aware that governments, internet service providers, and others may be able to see that you are using the Tor Browser, which might arouse suspicion in some countries and workplaces. (Tor can be used to circumvent censorship and filtering software.)
+
+Using tools like this may be illegal in a small number of countries. While the Tor Browser is legal in the U.S., Canada, Europe, and most other parts of the world, you should research the laws pertaining to encryption and circumvention software—like Tor and virtual private networks (VPNs)—in the areas where you live or travel.
+
+3) Continue to browse with caution.
+Tor Browser gives you more control over your privacy by hiding your true location, blocking third-party trackers used by advertisers, and obscuring identifying information about the device you use and how you use it. However, it may still be possible to identify you based on personal data you willingly reveal while using Tor Browser, or your usage of a certain site or service. Tor Browser also won’t protect you from other threats, such as malware or phishing, which may also reveal personal information.
+
+Consider seeking expert advice, consulting additional guides, and developing a careful plan before relying on any tool or strategy for anonymity.
+
+Why is this important?
+The Tor Browser encrypts your internet traffic and bounces it among three servers, or Tor relays, before sending it to its intended destination.
+This makes it very hard for anyone attempting to monitor your internet connection from knowing which sites or services you use—only that you’re using Tor—and from determining your real location.
+Although it won’t stop governments from surveilling individuals, Tor Browser is one of the tools protecting activists, journalists and their sources, and ordinary citizens around the world from censorship or persecution based on the ideas they express or the information they share.
+The Tor Browser bounces your traffic through Tor relays located around the world, making it harder for your web browsing to be traced. Because of this, your internet browsing will be slower than if you were using another web browser, and high-bandwidth sites, like those for video streaming services, might not work. Additionally, because your internet traffic may leave the Tor network from a Tor relay located in another country, websites may serve you content or advertisements in other languages or in some cases may block you if there are regional restrictions in place (often for streaming sites like Netflix or sports broadcasting sites).

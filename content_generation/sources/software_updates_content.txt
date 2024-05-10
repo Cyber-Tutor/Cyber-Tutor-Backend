@@ -1,0 +1,203 @@
+Protect Your Personal Information and Data
+FacebookTwitterLinkedIn
+The internet has been called the information superhighway. But with scammers, hackers, and other bad guys trying to steal your personal information online, it’s a good idea to know how to lock down your devices, network, and information. That way, your passwords, Social Security number, or account numbers don’t go speeding along the superhighway to the scammers.
+Secure Your Devices
+ 
+Secure Your Accounts
+ 
+Peer-to-Peer File Sharing
+ 
+Protect Your Home Network
+ 
+Report Identity Theft
+Secure Your Devices
+Keep your security software, internet browser, and operating system up to date.
+Criminals look for weak points to exploit before the software companies can fix them. But updating your software regularly — as soon as possible when a newer version comes out — helps make sure you have critical patches and protections against security threats.
+
+For information on how to update your security software, operating system and internet browsers and apps, go to the developer’s website. They usually have a way to sign up for email updates or set them up to update automatically. Don’t ignore reminders to make updates. You don’t want to leave a door open so hackers can get your information.
+
+Be sure to update:
+
+Security software. Your antivirus or firewall programs must be up to date to work, whether they came pre-installed or you loaded them onto your device.
+Operating system software. This could be Windows, Apple OS, or Chrome, for example.
+Internet browsers and apps. Developers often provide updates to address security issues, to fix bugs, or add new features.
+Secure Your Accounts
+Once your computer, tablet, and phone are secure, next take steps to protect your accounts — particularly those with personal information, like your bank, email, and social media accounts.
+
+Create and use strong passwords
+That means at least 12 characters. Making a password longer is generally the easiest way to increase its strength. Consider using a passphrase of random words so that your password is more memorable, but avoid using common words or phrases. For more tips, check out this Password Checklist.
+
+Use multi-factor authentication
+Some accounts offer extra security by requiring two or more credentials to log in to your account. This is called multi-factor authentication. These additional credentials fall into two categories:
+
+Something you have, like a passcode you get via an authentication app or a security key.
+Something you are, like a scan of your fingerprint, your retina, or your face.
+Multi-factor authentication makes it harder for scammers to log in to your accounts if they do get your username and password.
+
+Choose security questions only you know the answer to
+Many security questions ask for answers to information available in public records or online. So, when you can, avoid questions like your zip code, mother’s maiden name, and birth place. And avoid using questions with a limited number of responses that attackers can easily guess — like the color of your first car. You can even put in random answers to make guessing more difficult. If you do that, though, you’ll have to remember the answers you use.
+
+Back up your data to protect it. Backing up your data means making an extra copy of all your files. That way, if something happens — say a virus, your device crashes, or you’re hacked — you still have your files. It’s important to do it once a week so you don’t lose important data, like your photos, documents, and files. If you do need to restore a backup, it will only be as current as the last time you backed up.
+
+Here are two options, and a few things to consider when choosing how to back up your files.
+
+Save your files in the cloud. There are many cloud storage services that let you save files and data online. You may be familiar with some, like Google Drive, Evernote, Dropbox, OneDrive, or iCloud, but there are many others out there. Many of these services come with some free storage space, and you can pay for more storage. When you save your information in the cloud, you’re trusting someone else to keep that information safe. If you’re thinking about using cloud storage, find out what level of privacy or security the different services offer.
+Save your files to an external storage device. A USB flash drive is an affordable option that offers a moderate amount of storage. Another option is an external hard drive. It might cost a little more than a USB drive, but it can give you more storage capacity, transfer data faster, and be more reliable. You can decide which files or folders to back up, and you may be able to schedule automatic backups.
+
+Peer-to-Peer File Sharing
+Peer-to-peer file-sharing programs can give you access to free music and videos, but they come with risks. For example:
+
+strangers might be able to see and share your personal files
+the program might share files and folders you didn’t plan on sharing
+you might unknowingly download malware, pirated or copyrighted material, or pornography.
+If you decide to use a peer-to-peer program, use your security software to scan any files before you open them, and before you play any downloaded files. Avoid any peer-to-peer program that asks you to disable or change the settings of your firewall. Disabling or changing these settings could weaken your computer’s security.
+
+Protect Your Home Network
+One important way to protect your information is to protect your network at home. Think of your router as the connecting point between your devices and the internet. If malware gets onto any of your connected devices, it can spread to the other devices connected to your network. Your devices, accounts, and whole network are only as secure as your router.
+
+See this article on Securing Your Home Network to learn how to quickly make your router and your network more secure.
+
+Report Identity Theft
+If you think someone has gotten into your accounts or has your personal information, visit IdentityTheft.gov. There, you’ll get steps to take to find out if your identity has been misused, and how to report and recover from identity theft.
+
+
+Update your software now
+By Ari Lazarus
+Consumer Education Specialist, FTC
+July 9, 2019
+FacebookTwitterLinkedIn
+We secure our valuables – our wallets, keys, and homes. We know that, if left unsecured, they can easily be a target for criminals. So it makes sense to think the same way about the information stored on all our devices.
+
+Computers, tablets, phones and other personal devices hold your emails and your financial and tax documents (with your Social Security numbers). Criminals who get access to this valuable information can commit identity theft, put harmful software on your devices, or both.
+
+What’s one easy way to help protect all of this sensitive information? Update your software regularly, and as soon as possible when a newer version comes out. What’s an even easier way? Set the updates to happen automatically. Don’t ignore reminders to update. Criminals look to exploit vulnerabilities before the software companies can fix it. Delaying gives hackers time to access your information – even when a patch is out there to lock them out.
+
+So what software should you be updating?
+
+Security software. Whether you use antivirus or firewall programs that were pre-installed on your device or that you bought on your own, make sure they’re up to date.
+Operating system software. Your operating system could be Windows, Apple OS, etc. If you’re not sure how to update your operating system, go to the website of your device manufacturer for help.
+Internet browsers and apps. Both are access points for criminals to enter your devices, so it’s important to keep them secure.
+
+
+
+What is a software update?
+A software update is a new version of an application, game, or other program on a computer or mobile device. New versions of software usually include patches to fix security vulnerabilities, performance upgrades, and cosmetic changes. 
+
+The importance of software updates
+Keeping your software and operating system up to date is an important step towards ensuring your information is safe, your device is secured and working properly, and your programs and system remain compatible with each other.
+
+Here’s a closer look at the benefits of software updates and why you should always keep them fully updated.
+
+Software updates reduce security flaws
+Old software is full of security flaws. Over time, hackers find new ways to break through what was, at one time, the best available protection. Once these cybercriminals break into a system, they can spy on your computer, implant dangerous malware, or even use what they find in your system to commit identity theft.
+
+Software updates are there to patch zero-day exploits and update older, less effective protocols to the newer, tougher-to-crack standards. This makes updating all your software one of the most critical ways to improve your computer and mobile security.
+
+Software updates help protect your data
+Your data is at risk of being stolen, sold, and used against you by criminals. But the risk of being hit by a data breach is much higher if you’re using outdated software, as is the risk of accidentally destroying or corrupting your files.
+
+Updating your software to the latest versions can close off any vulnerabilities that let hackers in. Updates can also correct problems that could corrupt your files while making sure they’re compatible with the newest versions of the programs you use. 
+
+Software updates improve performance
+If you want to make your computer faster, one of the easiest ways is to update your software. Older software versions operate using legacy code and protocols, but engineers are constantly making tweaks to improve performance and reduce resource usage. With more RAM available, your devices can do more—and do it quicker.
+
+Reliably high performance is vital for running multiple programs simultaneously, watching high-definition videos, playing the newest games, taking the best pictures and videos, and even browsing the internet. 
+
+Software updates help protect others
+The internet is a giant, interconnected network of devices. Because of the links between systems all over the globe, keeping your devices updated and free of malware and viruses that spread through networks is like covering your mouth when you cough in public.
+
+Doing your part can reduce the headaches and economic impacts of cybercrime and malicious software in your neighborhood as well as the farthest corners of the planet. And don’t think you’re less susceptible when using a Mac—Macs can get viruses, too.
+
+
+
+Cybersecurity Safety: Say Yes to Software Updates
+Share on facebook Share on linkedin Share on twitter Share on pinterest
+A notification on your screen advises you to download a new software update. If your instinct is to scowl and dismiss this update as little more than an inconvenience, you’re not alone. While software updates often seem like nuisances that pop up at the most inopportune times, the reality is that these updates are critical for protecting you from hackers, scammers and other bad actors on the internet.
+
+To ward off threats from hackers and cyber attackers, it’s important to take cybersecurity measures seriously. Cybersecurity is a general term describing anything that helps keep computers and digital data from unauthorized individuals. Cybersecurity procedures you should always follow include using strong passwords, avoiding suspicious links, maintaining anti-virus protection, and of course, installing software updates as soon as they’re available.
+
+What Are Software Updates?
+woman working intently on her laptop
+When a software program is developed, the software goes through rigorous tests and quality checks. Once the software vendor is fully satisfied with the product’s functionality and stability, the final version of the software is available to the public. Unfortunately, when the software is used in a real-time environment, users may encounter several issues with the program, which are reported back to the software vendor. To address those issues, software vendors write patches for the flawed software and release them as software updates.
+
+Software updates, sometimes known as patches, are changes designed to enhance software such as an operating system. You might not notice what’s happening behind the scenes, but sometimes, you must fix or replace certain things to ensure everything is safe and running smoothly. Simply, a software update is a developer’s release of a better, safer version of a computer program or application.
+
+Why Are Software Updates Important?
+The main reason software updates are so important is that they help keep your data safe from cybercriminals. Using unpatched or outdated software is like living in a house with no door locks, inviting unwanted intruders. When you ignore updates on your computer, you run a much higher risk of exposing yourself to cyber-attacks and data breaches. Cybercriminals depend on users’ apathy around software updates to pave the way for their malicious endeavors.
+
+Software vendors are committed to protecting users’ sensitive data, so they consistently develop software updates and write security patches to deter cyberattacks. For example, Microsoft started a trend known as 'Patch Tuesday' in 2003 to roll out scheduled security updates every second Tuesday of each month. Today, other tech companies participate in Patch Tuesday and release other regularly scheduled security updates.
+
+Which Software Updates are Needed?
+You can’t go wrong by updating your device’s software and apps, but specific software updates can be more urgent than others.
+
+Get the latest updates, offers and helpful financial tips.
+Get the latest updates, offers and helpful financial tips. *
+Email Address
+Bank software updates: If you’re one of the 80% of Americans who prefer banking online, updating your bank software is critical to protecting your personal and financial data. In addition to keeping your information secure, bank software updates also offer new features and bug fixes. For instance, a bank’s mobile deposit feature might have a bug that makes it difficult to upload a check. This is the type of issue that would be resolved by updating your bank software.
+
+Health software updates: Like bank software, health software contains sensitive, personal information. If cybercriminals get a hold of your health records, it can cause more than just a headache. Hackers who steal medical records can forge identities, file fraudulent insurance claims, access payment information and scam people into paying bills that don’t exist.
+
+Security patches and updates: Anytime a software developer releases a security patch or update, you’ll want to download it as quickly as possible. As opposed to updates geared toward releasing new features or boosting speed, security patches and updates focus on defending your data, which should always be your top priority. When a developer releases a security patch, it’s often the result of an error that leaves a piece of software vulnerable to an attack. The security patch will shore up the software and resolve the code errors to ensure the code is safe from cybercriminals trying to exploit vulnerabilities.
+
+What Other System and Application Updates Should I Look Out For?
+Operating systems: A computer’s operating system manages the computer and all of the components that make it work. Without an operating system, a computer is just a hunk of plastic and metal. You probably know some standard operating systems by their brand names, like Microsoft Windows, Apple’s macOS or iOS, and Linux. Failing to update your operating system is a major cybersecurity risk. Besides missing out on enhanced performance, you might also find it negatively impacts compatibility with other software on your device.
+
+Firmware: Firmware is far from glamorous, though that doesn’t make it any less essential to the well-being of your computer, smartphone and other devices. Firmware provides instructions directly to your device, often supporting its most basic functions. That’s why when we talk about data security best practices, keeping up with the latest firmware is an absolute must. Firmware risks are a little different than software risks, but the implications are every bit as serious. Cybercriminals may try to reverse-engineer firmware to gain access to the device or steal information. Developers are constantly developing new ways to protect firmware from these attacks, though they only work if the user installs the update.
+
+Web browsers: Web browsers are the backbone of the internet, allowing you to access over a billion websites. Web browsers make it easy to locate information, buy things, send and receive emails and download files. Hackers and other cybercriminals prey on outdated web browsers, which make it easier for them to steal sensitive data like your passwords.
+
+Anti-virus and anti-malware: As cybercriminals find new ways to commit cyber-attacks, anti-virus programs and other security software like anti-malware must be updated to protect data from countless threats. Anti-virus and anti-malware products regularly scan your device for threats, blocking them before they strike or attempting to clear them from your computer once they’ve already struck.
+
+How To Identify Real VS Fake Updates
+hands holding cell phoneWhen evaluating whether a software update is real, err on the side of caution. Cybercriminals employ many different tactics to try and trick people into downloading fake updates. These phony updates are disguised as legitimate software but are really malware that can help cybercriminals carry out ransomware attacks or install adware or spyware on your device.
+
+One of the fastest and easiest ways to identify if an update is legitimate is by going to your device’s settings to see if there’s an update available. If a notification pops up, don’t click it — instead, navigate to your settings and download the update there if one is available.
+
+Regardless of the device, you must always be aware of fake update messages. Fake software updates can appear in the form of an email, a pop-up asking you to subscribe to calendar events or even a notification from an app you haven’t installed. If something seems off or if you detect the slightest hint of suspicious activity, avoid clicking on the update.
+
+Automated Software Updates VS Manual Software Updates
+Automated software updates are updates that happen without your approval. Many technology companies like Microsoft employ automatic updates to protect devices and user data by ensuring they’re running on the latest software. Automatic updates can happen at any time, which might disrupt usage and eat up your data, but sticking with them is a cybersecurity best practice.
+
+Manual updates require users to click on an update and actively agree to install it. Though manual updates give you the convenience of making changes on your own timeline, they can leave you more vulnerable to data losses or cyber-attacks.
+
+Additional Cybersecurity Steps
+When it comes to protecting your data, it’s always better to be safe than sorry. Besides being vigilant, installing security software and updating your operating system and apps, additional tips to protect your data and prevent fraud include:
+
+Using a Virtual Private Network (VPN)
+Using strong passwords
+Using a passcode to lock your phone
+Using a password manager instead of writing down passwords
+Changing your password occasionally
+Using multi-factor authentication
+Ignoring spam text messages or phone calls from strange numbers
+Avoiding public Wi-Fi networks
+Keeping an eye out for secure web links. HTTP stands for Hypertext Transfer Protocol, which allows your computer to receive information from the server that hosts the website you’re trying to visit. HTTPS, or Hypertext Transfer Protocol Secure, is an encrypted version of HTTP, meaning the HTTP includes a layer of security that scrambles data, making it harder for hackers to gain unauthorized access.
+
+
+Ultimately, you, as the device operator, are the best cybersecurity defense. Exercising caution and remaining vigilant can help you avoid cyberattacks. Updating your software regularly can help keep your devices and data safe from cybercriminals.
+
+
+
+You’re hard at work on your computer or device and a message suddenly pops up saying, “a software update is available”. You’re busy, so you click “cancel” instead of “install”, thinking you’ll get to it later, but you never do. Sound familiar?
+
+The truth is it’s easy to skip software updates because they can take up a few minutes of our time, and may not seem that important. But this is a mistake that keeps the door open for hackers to access your private information, putting you at risk for identity theft, loss of money, credit, and more.
+
+You may have heard of the recent Equifax data breach, in which 143 million Americans were potentially affected, with Social Security numbers, birth dates, and home addresses exposed. The hackers were able to access the credit reporting agency’s data through a known vulnerability in a web application. A fix for this security hole was actually available two months before the breach, but the company failed to update its software. This was a tough lesson, but one that we can all learn from. Software updates are important because they often include critical patches to security holes.
+
+In fact, many of the more harmful malware attacks we see take advantage of software vulnerabilities in common applications, like operating systems and browsers. These are big programs that require regular updates to keep safe and stable. So instead of procrastinating about software updates, see those updates as one of the most essential steps you can take when it comes to protecting your information.
+
+In addition to security fixes, software updates can also include new or enhanced features or better compatibility with different devices or applications. They can also improve the stability of your software, and remove outdated features.
+
+All of these updates are aimed at making the user experience better. And while repeated update reminders can be annoying, especially if you have a lot of different applications, they can improve your experience in the long run and ensure that you get the most from your technology.
+
+While some computer software requires you to manually approve and install updates, updating software on your mobile devices can be a lot easier. You can select auto-update, ensuring that your mobile apps stay current. Considering that the average smartphone owner uses 30 apps a month, and have at least twice that many installed, this could save you a lot of time and effort.
+
+Now that you know how important software updates can be, here are a few more tips to keep you safe:
+
+Know that keeping your security software up-to-date is critical. This will protect you from the latest threats.
+Select auto-update for software on both your mobile devices and computers, when possible. For software that doesn’t update automatically, make it a habit to regularly check for and apply available updates.
+Before downloading any software, read others’ reviews first to make sure it’s safe to install in the first place. Cybercriminals like to distribute phony applications designed to steal your information.
+Keep on top of the latest threats so you know how to protect yourself from known vulnerabilities.
+
+
+
