@@ -1,0 +1,440 @@
+{
+  "topics": [
+    {
+      "topicTitle": "Two-Factor Authentication",
+      "topicDescription": "A course that explores the concept of Two-Factor Authentication.",
+      "order": 1,
+      "chapters": [
+        {
+          "chapterTitle": "Introduction to 2FA",
+          "chapterDescription": "An overview of the concept of Two-Factor Authentication.",
+          "chapterType": "text",
+          "controlGroupContent": {
+            "beginner": "this is beginner control",
+            "intermediate": "this is intermediate control",
+            "expert": "this is expert control"
+          },
+          "controlGroupVideoURLs": {
+            "beginner": "https://www.youtube.com/watch?v=8BoovULyJeg",
+            "intermediate": "https://www.youtube.com/watch?v=8BoovULyJeg",
+            "expert": "https://www.youtube.com/watch?v=8BoovULyJeg"
+          },
+          "controlGroupImageURLs": [
+            "https://www.shutterstock.com/image-photo/black-laptop-broken-screen-isolated-600nw-269479424.jpg"
+          ],
+          "experimentalGroupContent": {
+            "beginner": "this is beginner experimental",
+            "intermediate": "this is intermediate experimental",
+            "expert": "this is expert experimental"
+          },
+          "experimentalGroupVideoURLs": {
+            "beginner": "https://www.youtube.com/watch?v=8BoovULyJeg",
+            "intermediate": "https://www.youtube.com/watch?v=8BoovULyJeg",
+            "expert": "https://www.youtube.com/watch?v=8BoovULyJeg"
+          },
+          "experimentalGroupImageURLs": [
+            "https://www.shutterstock.com/image-photo/black-laptop-broken-screen-isolated-600nw-269479424.jpg"
+          ],
+          "order": 2,
+          "proficiency": 0
+        },
+        {
+          "chapterTitle": "Understanding 2FA",
+          "chapterDescription": "A quiz to test your knowledge of Two-Factor Authentication.",
+          "chapterType": "assessment",
+          "order": 3,
+          "proficiency": 1
+        },
+        {
+          "chapterTitle": "Implementing 2FA Solutions",
+          "chapterDescription": "Guidelines for implementing Two-Factor Authentication solutions.",
+          "chapterType": "video",
+          "controlGroupContent": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "controlGroupVideoURLs": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "experimentalGroupVideoURLs": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "experimentalGroupImageURLs": [],
+          "order": 1,
+          "proficiency": 0
+        }
+      ]
+    },
+    {
+      "topicTitle": "Phishing",
+      "topicDescription": "A comprehensive guide to understanding and preventing phishing attacks.",
+      "order": 2,
+      "chapters": [
+        {
+          "chapterTitle": "Introduction to Phishing",
+          "chapterDescription": "An overview of the concept of phishing and its impact.",
+          "chapterType": "text",
+          "controlGroupContent": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "controlGroupVideoURLs": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "experimentalGroupVideoURLs": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "experimentalGroupImageURLs": [],
+          "order": 2,
+          "proficiency": 0
+        },
+        {
+          "chapterTitle": "Assessing Phishing Knowledge",
+          "chapterDescription": "A quiz to test your knowledge of phishing attacks.",
+          "chapterType": "assessment",
+          "order": 3,
+          "proficiency": 1
+        },
+        {
+          "chapterTitle": "Recognizing and Reporting Phishing Attempts",
+          "chapterDescription": "Strategies for recognizing and reporting phishing attempts.",
+          "chapterType": "video",
+          "controlGroupContent": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "controlGroupVideoURLs": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "experimentalGroupVideoURLs": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "experimentalGroupImageURLs": [],
+          "order": 1,
+          "proficiency": 0
+        }
+      ]
+    },
+    {
+      "topicTitle": "Password Security",
+      "topicDescription": "Learn about the importance of strong passwords and how to create them.",
+      "order": 3,
+      "chapters": [
+        {
+          "chapterTitle": "Importance of Strong Passwords",
+          "chapterDescription": "An overview of the importance of strong passwords.",
+          "chapterType": "text",
+          "controlGroupContent": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "controlGroupVideoURLs": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "experimentalGroupVideoURLs": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "experimentalGroupImageURLs": [],
+          "order": 2,
+          "proficiency": 0
+        },
+        {
+          "chapterTitle": "Testing Password Security Knowledge",
+          "chapterDescription": "A quiz to test your knowledge of password security best practices.",
+          "chapterType": "assessment",
+          "order": 3,
+          "proficiency": 1
+        },
+        {
+          "chapterTitle": "Creating Strong Passwords",
+          "chapterDescription": "Tips and techniques for creating strong and secure passwords.",
+          "chapterType": "text",
+          "controlGroupContent": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "controlGroupVideoURLs": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "experimentalGroupVideoURLs": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "experimentalGroupImageURLs": [],
+          "order": 4,
+          "proficiency": 2
+        },
+        {
+          "chapterTitle": "Assessing Password Creation Skills",
+          "chapterDescription": "A quiz to assess password creation skills.",
+          "chapterType": "assessment",
+          "order": 5,
+          "proficiency": 3
+        },
+        {
+          "chapterTitle": "Implementing Password Management Solutions",
+          "chapterDescription": "Guidelines for implementing password management solutions.",
+          "chapterType": "video",
+          "controlGroupContent": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "controlGroupVideoURLs": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "experimentalGroupVideoURLs": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "experimentalGroupImageURLs": [],
+          "order": 1,
+          "proficiency": 0
+        }
+      ]
+    },
+    {
+      "topicTitle": "Online Privacy",
+      "topicDescription": "A course that delves into the concept of online privacy and how to protect it.",
+      "order": 4,
+      "chapters": [
+        {
+          "chapterTitle": "Introduction to Online Privacy",
+          "chapterDescription": "An overview of the concept of online privacy and its importance.",
+          "chapterType": "text",
+          "controlGroupContent": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "controlGroupVideoURLs": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "experimentalGroupVideoURLs": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "experimentalGroupImageURLs": [],
+          "order": 2,
+          "proficiency": 0
+        },
+        {
+          "chapterTitle": "Evaluating Understanding of Online Privacy",
+          "chapterDescription": "A quiz to test your knowledge of online privacy.",
+          "chapterType": "assessment",
+          "order": 3,
+          "proficiency": 1
+        },
+        {
+          "chapterTitle": "Protecting Online Privacy Measures",
+          "chapterDescription": "Best practices for protecting your online privacy and personal information.",
+          "chapterType": "text",
+          "controlGroupContent": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "controlGroupVideoURLs": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "experimentalGroupVideoURLs": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "experimentalGroupImageURLs": [],
+          "order": 4,
+          "proficiency": 2
+        },
+        {
+          "chapterTitle": "Assessing Privacy Protection Knowledge",
+          "chapterDescription": "A quiz to assess privacy protection knowledge.",
+          "chapterType": "assessment",
+          "order": 5,
+          "proficiency": 3
+        },
+        {
+          "chapterTitle": "Implementing Privacy Enhancements",
+          "chapterDescription": "Guidelines for implementing privacy enhancements.",
+          "chapterType": "video",
+          "controlGroupContent": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "controlGroupVideoURLs": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "experimentalGroupVideoURLs": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "experimentalGroupImageURLs": [],
+          "order": 1,
+          "proficiency": 0
+        }
+      ]
+    },
+    {
+      "topicTitle": "Software Updates",
+      "topicDescription": "Understanding the importance of software updates and best practices for managing them.",
+      "order": 5,
+      "chapters": [
+        {
+          "chapterTitle": "Introduction to Software Updates",
+          "chapterDescription": "An overview of the importance of software updates.",
+          "chapterType": "text",
+          "controlGroupContent": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "controlGroupVideoURLs": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "experimentalGroupVideoURLs": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "experimentalGroupImageURLs": [],
+          "order": 2,
+          "proficiency": 0
+        },
+        {
+          "chapterTitle": "Testing Understanding of Software Updates",
+          "chapterDescription": "A quiz to test your knowledge of software updates best practices.",
+          "chapterType": "assessment",
+          "order": 3,
+          "proficiency": 1
+        },
+        {
+          "chapterTitle": "Implementing Software Update Procedures",
+          "chapterDescription": "Guidelines for implementing effective software update procedures.",
+          "chapterType": "video",
+          "controlGroupContent": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "controlGroupVideoURLs": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "controlGroupImageURLs": [],
+          "experimentalGroupContent": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "experimentalGroupVideoURLs": {
+            "beginner": "",
+            "intermediate": "",
+            "expert": ""
+          },
+          "experimentalGroupImageURLs": [],
+          "order": 1,
+          "proficiency": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "quizQuestions": [
+    {
+      "choices": {
+        "a": "iloveyou88",
+        "b": "ieatkale88",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "ieatkale88 is actually 4 billion times as secure! 'iloveyou' is the #1 most common phrase used in passwords, making iloveyou88 extremely easy for attackers to guess. In contrast, 'ieatkale' appears very rarely. However, it's best to steer away from any password composed mostly of common words.",
+      "difficulty": "beginner",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q1",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "sponge01bob",
+        "b": "spongebob01",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "a",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "sponge01bob is 900,000 times as secure because most people put numbers at the end of their password. Mix numbers (and symbols and uppercase) throughout your password to be more secure!",
+      "difficulty": "beginner",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q2",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "pAsswOrd",
+        "b": "p@ssw0rd",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "a",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "pAsswOrd is actually 4,000 times harder to guess. Attackers know to guess obvious substitutions. In contrast, unexpected capitalization is comparatively rare and is a good way to improve password security. Of course, though, no password obviously derived from the word 'password' is secure.",
+      "difficulty": "beginner",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q3",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "apple123",
+        "b": "4pple123",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "4pple123 is actually 10,000 times more secure! Replacing characters with symbols and adding complexity significantly improves password strength. However, it's essential to avoid common words like 'apple' even with added complexity.",
+      "difficulty": "beginner",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q4",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "password123",
+        "b": "pa$$w0rd123",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "pa$$w0rd123 is actually 10,000 times more secure! Adding symbols and numbers to passwords significantly increases their strength. However, avoid using common patterns like 'password' even with added complexity.",
+      "difficulty": "beginner",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q5",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "sunshine",
+        "b": "5unsh1n3",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "5unsh1n3 is actually 10,000 times more secure! Substituting characters with numbers and adding complexity significantly improves password strength. However, it's crucial to avoid common words like 'sunshine' even with added complexity.",
+      "difficulty": "beginner",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q6",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "password",
+        "b": "pa$$w0rd",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "pa$$w0rd is actually 10,000 times more secure! Adding symbols and numbers to passwords significantly increases their strength. However, avoid using common patterns like 'password' even with added complexity.",
+      "difficulty": "beginner",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q7",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "12345678",
+        "b": "12@34#56$78",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "12@34#56$78 is actually 10,000 times more secure! Adding symbols and complexity significantly improves password strength. However, avoid using common patterns like '12345678' even with added complexity.",
+      "difficulty": "beginner",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q8",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "letmein",
+        "b": "l3tm31n!",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "l3tm31n! is actually 100,000 times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's essential to avoid common phrases like 'letmein' even with added complexity.",
+      "difficulty": "beginner",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q9",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "letmein88",
+        "b": "l3tm31n88",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "l3tm31n88 is actually 1 million times more secure! Adding complexity with numbers significantly improves password strength. However, it's essential to avoid common phrases like 'letmein' even with added complexity.",
+      "difficulty": "beginner",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q10",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "spring2022",
+        "b": "spr1ng!2022",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "spr1ng!2022 is actually 100,000 times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's essential to avoid using common phrases like 'spring' even with added complexity.",
+      "difficulty": "intermediate",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q11",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "football",
+        "b": "f00tball!",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "f00tball! is actually 10,000 times more secure! Replacing characters with numbers and adding complexity significantly improves password strength. However, it's crucial to avoid using common words like 'football' even with added complexity.",
+      "difficulty": "intermediate",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q12",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "summer2022",
+        "b": "s$mm3r2022",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "s$mm3r2022 is actually 100,000 times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's essential to avoid using common phrases like 'summer' even with added complexity.",
+      "difficulty": "intermediate",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q13",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "welcome123",
+        "b": "w3lc0m3123!",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "w3lc0m3123! is actually 10,000 times more secure! Replacing characters with numbers and adding complexity significantly improves password strength. However, it's crucial to avoid using common phrases like 'welcome' even with added complexity.",
+      "difficulty": "intermediate",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q14",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "baseball",
+        "b": "b@53ball!",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "b@53ball! is actually 10,000 times more secure! Replacing characters with symbols and adding complexity significantly improves password strength. However, it's crucial to avoid using common words like 'baseball' even with added complexity.",
+      "difficulty": "intermediate",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q15",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "qwerty123",
+        "b": "qw3rty!23",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "qw3rty!23 is actually 10,000 times more secure! Replacing characters with symbols and adding complexity significantly improves password strength. However, it's crucial to avoid using common patterns like 'qwerty' even with added complexity.",
+      "difficulty": "intermediate",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q16",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "letmein",
+        "b": "l3tm31n!",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "l3tm31n! is actually 100,000 times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's essential to avoid common phrases like 'letmein' even with added complexity.",
+      "difficulty": "intermediate",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q17",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "spring2022",
+        "b": "spr1ng!2022",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "spr1ng!2022 is actually 100,000 times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's essential to avoid using common phrases like 'spring' even with added complexity.",
+      "difficulty": "intermediate",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q18",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "summer2022",
+        "b": "s$mm3r2022",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "s$mm3r2022 is actually 100,000 times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's essential to avoid using common phrases like 'summer' even with added complexity.",
+      "difficulty": "intermediate",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q19",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "welcome123",
+        "b": "w3lc0m3123!",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "w3lc0m3123! is actually 10,000 times more secure! Replacing characters with numbers and adding complexity significantly improves password strength. However, it's crucial to avoid using common phrases like 'welcome' even with added complexity.",
+      "difficulty": "intermediate",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q20",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "password123",
+        "b": "p@ssw0rd123!",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "p@ssw0rd123! is actually 1 million times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's crucial to avoid using common patterns like 'password' even with added complexity.",
+      "difficulty": "expert",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q21",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "letmein",
+        "b": "l3tm31n!",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "l3tm31n! is actually 100,000 times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's essential to avoid common phrases like 'letmein' even with added complexity.",
+      "difficulty": "expert",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q22",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "sunshine",
+        "b": "5un$h!n3",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "5un$h!n3 is actually 100,000 times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's crucial to avoid using common phrases like 'sunshine' even with added complexity.",
+      "difficulty": "expert",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q23",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "qwerty123",
+        "b": "qwertY!23",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "qwertY!23 is actually 10 million times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's crucial to avoid using common patterns like 'qwerty' even with added complexity.",
+      "difficulty": "expert",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q24",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "football",
+        "b": "f00tb@ll!",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "f00tb@ll! is actually 10 million times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's crucial to avoid using common words like 'football' even with added complexity.",
+      "difficulty": "expert",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q25",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "welcome123",
+        "b": "w3lc0m3123!",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "w3lc0m3123! is actually 1 million times more secure! Replacing characters with numbers and adding complexity significantly improves password strength. However, it's crucial to avoid using common phrases like 'welcome' even with added complexity.",
+      "difficulty": "expert",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q26",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "baseball",
+        "b": "b@53ball!",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "b@53ball! is actually 10 million times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's crucial to avoid using common words like 'baseball' even with added complexity.",
+      "difficulty": "expert",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q27",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "spring2022",
+        "b": "spr1ng!2022",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "spr1ng!2022 is actually 1 million times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's crucial to avoid using common phrases like 'spring' even with added complexity.",
+      "difficulty": "expert",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q28",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "summer2022",
+        "b": "s$mm3r2022",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "s$mm3r2022 is actually 1 million times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's crucial to avoid using common phrases like 'summer' even with added complexity.",
+      "difficulty": "expert",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q29",
+      "isHumanWritten": 1
+    },
+    {
+      "choices": {
+        "a": "winter2022",
+        "b": "w1nt3r!2022",
+        "c": "They're about the same"
+      },
+      "topicId": "password_security",
+      "answer": "b",
+      "fromChapter": "creating_strong_passwords",
+      "explanation": "w1nt3r!2022 is actually 1 million times more secure! Adding complexity with symbols and numbers significantly improves password strength. However, it's crucial to avoid using common phrases like 'winter' even with added complexity.",
+      "difficulty": "expert",
+      "chapterId": "assessing_password_creation_skills",
+      "question": "Which password is more secure?",
+      "questionId": "Q30",
+      "isHumanWritten": 1
+    }
+  ]
+}
