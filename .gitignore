@@ -1,4 +1,5 @@
-# Byte-compiled / optimized / DLL files
+# Byte-compiled / Optimized / DLL Files
+__pycache__
 __pycache__/
 *.py[cod]
 *$py.class
@@ -13,12 +14,6 @@ ENV/
 env.bak/
 venv.bak/
 
-# Firebase and Data
-data.json
-serviceAccountKey.json
-
-# Sean's stuff
-chroma_db/
 # Visual Studio Code
 .vscode/
 
