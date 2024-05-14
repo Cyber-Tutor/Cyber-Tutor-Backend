@@ -7,6 +7,7 @@ from langchain_community.vectorstores import Chroma
 import os
 import argparse
 
+
 """
 Load transcript from a youtube video into Chroma db
 """
