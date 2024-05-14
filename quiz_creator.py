@@ -10,7 +10,7 @@ import os
 """
 Generates a quiz based on the reading content and difficulty level
 For each detail, it generates a question based on the topic, reading content, and difficulty level
-Returns a list of questions in a JSON object
+Returns a list of questions in a JSON object.
 """
 def quiz_creator(q_gen, reading, details, difficulty, topic, q_per_detail=1):
     # get list of question details from file
