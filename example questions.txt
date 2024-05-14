@@ -1,0 +1,180 @@
+Topic: 2fa
+Details: what it is
+Difficulty: easy
+
+{
+ "question": "What does 2FA stand for?",
+ "answer": "b",
+ "choices": {
+  "a": "Two Factor Authorization",
+  "b": "Two-Factor Authentication",
+  "c": "2nd Factor Authentication",
+  "d": "Two Factor Authorization Code"
+ }
+}
+
+
+Topic: phishing
+Details: what it is
+Difficulty: easy
+
+{
+ "question": "Which of the following is a type of phishing that targets specific individuals within an organization, usually high-privilege account holders, to trick them into divulging sensitive data?",
+ "answer": "b",
+ "choices": {
+  "a": "Email phishing",
+  "b": "Spear phishing",
+  "c": "Link manipulation",
+  "d": "Social media phishing"
+ }
+}
+
+
+Topic: password management
+Details: best practices
+Difficulty: easy
+
+{
+  "question": "What is the recommended minimum length for a strong password?",
+  "answer": "a",
+  "choices": {
+    "a": "8 characters",
+    "b": "12 characters",
+    "c": "16 characters",
+    "d": "20 characters"
+  }
+}
+
+
+Topic: online security
+Details: best practices
+Difficulty: easy
+
+{
+ "question": "What is NOT a common technique for cracking passwords?",
+ "answer": "c",
+ "choices": {
+  "a": "Dictionary attacks",
+  "b": "Guessing simple passwords",
+  "c": "Multi-factor Authentication",
+  "d": "Reuse of passwords across multiple sites"
+ }
+}
+
+
+Topic: 2fa
+Details: what it is
+Difficulty: medium
+
+{
+ "question": "What is something you know when it comes to 2FA?",
+ "answer": "a",
+ "choices": {
+  "a": "A personal identification number (PIN)",
+  "b": "A physical token",
+  "c": "A biometric pattern of a fingerprint",
+  "d": "A voice print"
+ }
+}
+
+
+Topic: phishing
+Details: what it is
+Difficulty: medium
+
+```json
+{
+  "question": "What type of phishing email involves creating a fake website that impersonates the legitimate website of an organization to trick users into entering their personal information?",
+  "answer": "c",
+  "choices": {
+    "a": "Email phishing",
+    "b": "Spear phishing",
+    "c": "Link manipulation",
+    "d": "Phishing attacks"
+  }
+}
+```
+
+
+Topic: password management
+Details: best practices
+Difficulty: medium
+
+```json
+{
+  "question": "What length of passphrase does the National Institute of Standards and Technology (NIST) recommend?",
+  "answer": "c",
+  "choices": {
+    "a": "15 characters",
+    "b": "32 characters",
+    "c": "Up to 64 characters",
+    "d": "100 characters"
+  }
+}
+```
+
+
+Topic: online security
+Details: best practices
+Difficulty: medium
+
+{
+ "question": "What is a common form of social engineering that aims to trick individuals into falling for the attacker's desired action, such as revealing financial information, system login credentials, or other sensitive information?",
+ "answer": "a",
+ "choices": {
+  "a": "Phishing",
+  "b": "Cracking security questions",
+  "c": "Social engineering",
+  "d": "Brute-force attack"
+ }
+}
+
+
+Topic: phishing
+Details: what it is
+Difficulty: hard
+
+```json
+{
+ "question": "What is a common target for a phishing attack?",
+ "answer": "b",
+ "choices": {
+   "a": "Social media accounts",
+   "b": "Email accounts",
+   "c": "Bank accounts",
+   "d": "Credit card accounts"
+   }
+}
+```
+
+
+Topic: password management
+Details: best practices
+Difficulty: hard
+
+{
+ "question": "NIST recommends passphrases of up to how many characters?",
+ "answer": "d",
+ "choices": {
+  "a": "16",
+  "b": "32",
+  "c": "48",
+  "d": "64"
+ }
+}
+
+
+Topic: online security
+Details: best practices
+Difficulty: hard
+
+{
+ "question": "Which of the following best practices should you consider to enhance your online security?",
+ "answer": "c",
+ "choices": {
+  "a": "Use a password manager to create and remember strong, unique passwords.",
+  "b": "Always click on links in emails from unknown senders.",
+  "c": "Enable multi-factor authentication when available.",
+  "d": "Reuse the same password across multiple online accounts."
+ }
+}
