@@ -1,4 +1,4 @@
-# Cyber AIducator
+# Cyber Tutor
 
 Since our project uses Django 5.0, Python 3.10 or later is required for installation.
 
