@@ -1,4 +1,5 @@
-# Gemini: A Personalized AI-Powered Cybersecurity Education Tool
+# Cyber Tutor: A Personalized AI-Powered Cybersecurity Education Tool
+By Matthew Quijano, Sean Clifford, Roland Van Duine​, Andrew Krasuski
 
 ![Slide1](https://github.com/user-attachments/assets/44c66f81-b013-42f4-805c-aa06fc8f2c21)
 
